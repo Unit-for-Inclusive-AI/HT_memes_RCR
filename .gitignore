@@ -1,0 +1,23 @@
+# Local Python environment
+.venv/
+venv/
+env/
+
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Notebook editor backups
+.ipynb_checkpoints/
+
+# Local datasets and generated pipeline outputs
+/data/raw/
+/artifacts/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/

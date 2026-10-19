@@ -1,0 +1,7 @@
+openai
+pandas
+Pillow
+requests
+scikit-learn
+openpyxl
+google-genai
