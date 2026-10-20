@@ -533,9 +533,13 @@ def main():
     if args.backend == "vertex" and not args.gcp_project:
         raise EnvironmentError("Set GOOGLE_CLOUD_PROJECT or pass --gcp-project for Vertex AI.")
 
-    if args.persona_pool:
-        print(f"Loading persona pool from {args.persona_pool}...")
-        with open(args.persona_pool, "r", encoding="utf-8") as f:
+    persona_pool_path = args.persona_pool
+    if not persona_pool_path and args.language == "Chinese" and os.path.exists("artifacts/persona_council_zh.json"):
+        persona_pool_path = "artifacts/persona_council_zh.json"
+
+    if persona_pool_path:
+        print(f"Loading persona pool from {persona_pool_path}...")
+        with open(persona_pool_path, "r", encoding="utf-8") as f:
             personas = json.load(f)
         if not isinstance(personas, list):
             raise ValueError("Persona pool JSON must contain a list of persona objects.")
@@ -553,13 +557,13 @@ def main():
             "USER_KEYS/COMMENT_KEYS in the script to match the JSON fields."
         )
     personas = personas[:args.max_personas]
-    if not args.persona_pool:
+    if not persona_pool_path:
         Path(args.persona_output).write_text(
             json.dumps(personas, ensure_ascii=False, indent=2), encoding="utf-8"
         )
         print(f"Extracted {len(personas)} simulated personas -> {args.persona_output}")
     else:
-        print(f"Loaded {len(personas)} personas from {args.persona_pool}")
+        print(f"Loaded {len(personas)} personas from {persona_pool_path}")
 
     labels = load_image_label_map(args.labels_xlsx)
     image_root = prepare_images(args.images_zip, args.image_dir)

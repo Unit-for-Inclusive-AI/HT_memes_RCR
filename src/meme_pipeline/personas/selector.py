@@ -154,7 +154,18 @@ def select_personas(
             complementarity = dims[0]["complementarity"] / 5
         relevance = sum(score["relevance"] for score in dims) / (5 * len(combo))
         strength = sum(score["evidence_strength"] for score in dims) / (5 * len(combo))
-        score = 0.35 * relevance + 0.25 * strength + 0.20 * set_diversity + 0.20 * complementarity
+        
+        # Archetype diversity bonus: reward trios with distinct societal lenses
+        unique_archetypes = len(set(item.get("archetype", "") for item in combo if item.get("archetype")))
+        archetype_diversity = unique_archetypes / max(1, len(combo))
+
+        score = (
+            0.30 * relevance
+            + 0.25 * strength
+            + 0.20 * set_diversity
+            + 0.15 * complementarity
+            + 0.10 * archetype_diversity
+        )
         tie_key = tuple(item.get("persona_id", "") for item in combo)
         current_tie = tuple(item.get("persona_id", "") for item in best_combo or ())
         if score > best_score or (score == best_score and tie_key < current_tie):
