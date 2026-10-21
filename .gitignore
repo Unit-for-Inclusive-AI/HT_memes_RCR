@@ -19,5 +19,13 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Google Cloud service-account key files
+*service-account*.json
+*service_account*.json
+*-sa-key.json
+gcp-key*.json
+google-cloud-key*.json
+ht-memes-kishore-5f43e4e6f5c8.json
 .vscode/
 .idea/

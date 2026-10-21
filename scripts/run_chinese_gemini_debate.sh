@@ -6,8 +6,8 @@ cd "$ROOT_DIR"
 
 # One-time authentication: gcloud auth application-default login
 # In Google Cloud, enable Vertex AI API and grant this identity Vertex AI User access.
-GOOGLE_CLOUD_PROJECT="ht-memes-kishore"
-GOOGLE_CLOUD_LOCATION="global"
+GOOGLE_CLOUD_PROJECT="${GOOGLE_CLOUD_PROJECT:-ht-memes-kishore}"
+GOOGLE_CLOUD_LOCATION="${GOOGLE_CLOUD_LOCATION:-global}"
 export GOOGLE_CLOUD_PROJECT GOOGLE_CLOUD_LOCATION
 
 if [[ -z "$GOOGLE_CLOUD_PROJECT" || "$GOOGLE_CLOUD_PROJECT" == "your-gcp-project-id" ]]; then

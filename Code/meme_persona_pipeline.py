@@ -30,6 +30,21 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
+# Automatically load local .env file (gitignored) if present
+for _env_path in [Path(".env"), Path(__file__).resolve().parent.parent / ".env"]:
+    if _env_path.exists():
+        try:
+            for _line in _env_path.read_text(encoding="utf-8").splitlines():
+                _line = _line.strip()
+                if _line and not _line.startswith("#") and "=" in _line:
+                    _k, _v = _line.split("=", 1)
+                    _k = _k.strip()
+                    _v = _v.strip().strip('"').strip("'")
+                    if _k not in os.environ:
+                        os.environ[_k] = _v
+        except Exception:
+            pass
+
 import pandas as pd
 import requests
 from openai import OpenAI
@@ -267,48 +282,85 @@ class GeminiClientAdapter:
                  location: str = "global"):
         from google import genai
 
+        key = api_key or os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY") or os.getenv("GOOGLE_CLOUD_API_KEY")
         if project:
-            # Uses Google Cloud Application Default Credentials (ADC) with Vertex AI.
-            self._client = genai.Client(vertexai=True, project=project, location=location)
+            # Use ADC for Vertex AI and Priority PayGo to reduce shared-capacity
+            # throttling. Priority PayGo is billed at its premium token rate.
+            from google.genai.types import HttpOptions
+
+            self._client = genai.Client(
+                vertexai=True,
+                project=project,
+                location=location,
+                http_options=HttpOptions(
+                    api_version="v1",
+                    headers={
+                        "X-Vertex-AI-LLM-Request-Type": "shared",
+                        "X-Vertex-AI-LLM-Shared-Request-Type": "priority",
+                    },
+                ),
+            )
+        elif key:
+            self._client = genai.Client(api_key=key)
         else:
-            self._client = genai.Client(api_key=api_key)
+            self._client = genai.Client(vertexai=True, location=location)
         self.models = self._client.models
 
 
-def chat_text(client, model: str, system: str, user_content, temperature=0.2) -> str:
-    if getattr(client, "_meme_pipeline_provider", None) == "gemini":
-        from google.genai import types
+def chat_text(client, model: str, system: str, user_content, temperature=0.2, max_retries: int = 5) -> str:
+    import time
 
-        contents = []
-        for item in user_content if isinstance(user_content, list) else [user_content]:
-            if isinstance(item, dict) and item.get("type") == "text":
-                contents.append(item.get("text", ""))
-            elif isinstance(item, dict) and item.get("type") == "image_url":
-                data_url = item["image_url"]["url"]
-                encoded = data_url.split(",", 1)[1]
-                with Image.open(io.BytesIO(base64.b64decode(encoded))) as image:
-                    contents.append(image.copy())
-            else:
-                contents.append(str(item))
-        response = client.models.generate_content(
-            model=model,
-            contents=contents,
-            config=types.GenerateContentConfig(
-                system_instruction=system,
+    for attempt in range(1, max_retries + 1):
+        try:
+            if getattr(client, "_meme_pipeline_provider", None) == "gemini":
+                from google.genai import types
+
+                contents = []
+                for item in user_content if isinstance(user_content, list) else [user_content]:
+                    if isinstance(item, dict) and item.get("type") == "text":
+                        contents.append(item.get("text", ""))
+                    elif isinstance(item, dict) and item.get("type") == "image_url":
+                        data_url = item["image_url"]["url"]
+                        encoded = data_url.split(",", 1)[1]
+                        with Image.open(io.BytesIO(base64.b64decode(encoded))) as image:
+                            contents.append(image.copy())
+                    else:
+                        contents.append(str(item))
+                response = client.models.generate_content(
+                    model=model,
+                    contents=contents,
+                    config=types.GenerateContentConfig(
+                        system_instruction=system,
+                        temperature=temperature,
+                    ),
+                )
+                time.sleep(1.0)  # gentle pacing to avoid bursting Vertex AI QPS quota
+                return response.text or ""
+
+            response = client.chat.completions.create(
+                model=model,
                 temperature=temperature,
-            ),
-        )
-        return response.text or ""
+                messages=[
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": user_content},
+                ],
+            )
+            time.sleep(0.5)
+            return response.choices[0].message.content or ""
 
-    response = client.chat.completions.create(
-        model=model,
-        temperature=temperature,
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": user_content},
-        ],
-    )
-    return response.choices[0].message.content or ""
+        except Exception as e:
+            err_msg = str(e)
+            is_rate_limit = any(k in err_msg for k in ["429", "RESOURCE_EXHAUSTED", "ResourceExhausted", "RateLimit", "rate_limit"])
+            if is_rate_limit and attempt < max_retries:
+                wait_sec = 2 ** attempt * 3  # 6s, 12s, 24s, 48s backoff
+                print(f"  [!] Rate limit/quota (429 RESOURCE_EXHAUSTED). Backing off for {wait_sec}s (attempt {attempt}/{max_retries})...")
+                time.sleep(wait_sec)
+            elif ("503" in err_msg or "UNAVAILABLE" in err_msg) and attempt < max_retries:
+                wait_sec = 5 * attempt
+                print(f"  [!] Service temporarily unavailable (503). Retrying in {wait_sec}s...")
+                time.sleep(wait_sec)
+            else:
+                raise
 
 
 def image_content(image_url: str, text: str):
@@ -528,8 +580,8 @@ def main():
     }[args.backend]
     if args.backend == "openai" and not os.getenv("OPENAI_API_KEY"):
         raise EnvironmentError("Set OPENAI_API_KEY before running this script.")
-    if args.backend == "gemini" and not os.getenv("GEMINI_API_KEY"):
-        raise EnvironmentError("Set GEMINI_API_KEY before running this script.")
+    if args.backend == "gemini" and not (os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY") or os.getenv("GOOGLE_CLOUD_API_KEY")):
+        raise EnvironmentError("Set GEMINI_API_KEY, GOOGLE_API_KEY, or GOOGLE_CLOUD_API_KEY in .env before running this script.")
     if args.backend == "vertex" and not args.gcp_project:
         raise EnvironmentError("Set GOOGLE_CLOUD_PROJECT or pass --gcp-project for Vertex AI.")
 
@@ -587,9 +639,12 @@ def main():
 
         client = LocalVisionLanguageClient.from_pretrained(model, args.adapter_path)
     elif args.backend == "gemini":
-        client = GeminiClientAdapter(os.environ["GEMINI_API_KEY"])
+        client = GeminiClientAdapter(api_key=os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY") or os.getenv("GOOGLE_CLOUD_API_KEY"))
     elif args.backend == "vertex":
-        client = GeminiClientAdapter(project=args.gcp_project, location=args.gcp_location)
+        client = GeminiClientAdapter(
+            project=args.gcp_project,
+            location=args.gcp_location
+        )
     else:
         client = OpenAI()
     out_path = Path(args.output)

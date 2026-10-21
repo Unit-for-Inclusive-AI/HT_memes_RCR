@@ -114,7 +114,20 @@ def main() -> None:
                         help="Optional small subset for a first GPU smoke run")
     parser.add_argument("--epochs", type=float, default=1.0)
     parser.add_argument("--learning-rate", type=float, default=5e-6)
+    parser.add_argument("--num-generations", type=int, default=4,
+                        help="Completions sampled per prompt; use a small value on limited VRAM")
+    parser.add_argument("--gradient-accumulation-steps", type=int, default=4)
+    parser.add_argument("--max-prompt-length", type=int, default=2048)
+    parser.add_argument("--max-completion-length", type=int, default=256)
     args = parser.parse_args()
+
+    if args.num_generations < 2:
+        raise SystemExit("--num-generations must be at least 2 for a GRPO comparison group.")
+    if args.gradient_accumulation_steps % args.num_generations:
+        raise SystemExit(
+            "For this single-GPU setup, gradient_accumulation_steps must be divisible by "
+            "num_generations. The defaults (4 and 4) are suitable for a Colab T4 pilot."
+        )
 
     try:
         import torch
@@ -135,8 +148,10 @@ def main() -> None:
     train_rows, validation_rows = split_train_validation(
         rows, validation_fraction=args.validation_fraction, seed=args.seed
     )
-    if len(train_rows) < 8:
-        raise SystemExit("GRPO needs at least eight training examples for the configured group size.")
+    if len(train_rows) < args.num_generations:
+        raise SystemExit(
+            f"GRPO needs at least {args.num_generations} training examples for the configured group size."
+        )
     if not validation_rows:
         raise SystemExit("Validation split is empty; provide more training traces.")
 
@@ -161,10 +176,10 @@ def main() -> None:
         output_dir=str(output_dir / "checkpoints"),
         learning_rate=args.learning_rate,
         per_device_train_batch_size=1,
-        gradient_accumulation_steps=4,
-        num_generations=8,
-        max_prompt_length=4096,
-        max_completion_length=512,
+        gradient_accumulation_steps=args.gradient_accumulation_steps,
+        num_generations=args.num_generations,
+        max_prompt_length=args.max_prompt_length,
+        max_completion_length=args.max_completion_length,
         num_train_epochs=args.epochs,
         logging_steps=1,
         save_strategy="epoch",
@@ -195,14 +210,17 @@ def main() -> None:
 
     print(f"Evaluating trained adapter on {len(validation_rows)} validation memes...")
     tuned_metrics = predict_rows(args.model, str(adapter_dir), validation_rows)
-    promoted = tuned_metrics["macro_f1"] > base_metrics["macro_f1"]
+    validation_labels = {row["gold_label"] for row in validation_rows}
+    promotion_eligible = len(validation_rows) >= 30 and set(LABELS) <= validation_labels
+    promoted = promotion_eligible and tuned_metrics["macro_f1"] > base_metrics["macro_f1"]
     summary = {
         "base_model": args.model,
         "adapter_path": str(adapter_dir),
         "train_rows": len(train_rows),
         "validation_rows": len(validation_rows),
         "seed": args.seed,
-        "grpo_group_size": 8,
+        "grpo_group_size": args.num_generations,
+        "promotion_eligible": promotion_eligible,
         "rewards": {
             "classification_accuracy": 1.0,
             "valid_structured_output": 0.1,
@@ -224,7 +242,10 @@ def main() -> None:
         "seed": args.seed,
         "epochs": args.epochs,
         "learning_rate": args.learning_rate,
-        "num_generations": 8,
+        "num_generations": args.num_generations,
+        "gradient_accumulation_steps": args.gradient_accumulation_steps,
+        "max_prompt_length": args.max_prompt_length,
+        "max_completion_length": args.max_completion_length,
         "peft": {"r": 16, "lora_alpha": 32, "target_modules": ["q_proj", "v_proj"]},
     }, ensure_ascii=False, indent=2), encoding="utf-8")
     print(json.dumps({
