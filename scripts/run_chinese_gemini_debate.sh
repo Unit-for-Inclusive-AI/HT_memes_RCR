@@ -15,14 +15,17 @@ if [[ -z "$GOOGLE_CLOUD_PROJECT" || "$GOOGLE_CLOUD_PROJECT" == "your-gcp-project
   exit 2
 fi
 
-if ! command -v gcloud >/dev/null 2>&1; then
-  echo "Google Cloud CLI is not installed. Install it, then run: gcloud auth application-default login" >&2
-  exit 2
-fi
-
-if ! gcloud auth application-default print-access-token >/dev/null 2>&1; then
-  echo "Vertex AI credentials are not configured. Run: gcloud auth application-default login" >&2
-  exit 2
+ADC_FILE="$HOME/.config/gcloud/application_default_credentials.json"
+if [[ ! -f "$ADC_FILE" && -z "${GOOGLE_APPLICATION_CREDENTIALS:-}" ]]; then
+  if ! command -v gcloud >/dev/null 2>&1; then
+    echo "Google Cloud credentials not found at $ADC_FILE." >&2
+    echo "Install gcloud or configure GOOGLE_APPLICATION_CREDENTIALS." >&2
+    exit 2
+  fi
+  if ! gcloud auth application-default print-access-token >/dev/null 2>&1; then
+    echo "Vertex AI credentials are not configured. Run: gcloud auth application-default login" >&2
+    exit 2
+  fi
 fi
 
 .venv/bin/pip install -r requirements.txt
