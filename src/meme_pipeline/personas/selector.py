@@ -85,7 +85,10 @@ def select_personas(
         return [], []
 
     comment_sets = [_comments(persona) for persona in personas]
-    documents = [" ".join(comments) for comments in comment_sets]
+    documents = [
+        " ".join(comments + ([str(persona.get("image_fit", ""))] if persona.get("image_fit") else []))
+        for persona, comments in zip(personas, comment_sets)
+    ]
     try:
         vectorizer = TfidfVectorizer(
             analyzer="char", ngram_range=(2, 4), min_df=1, max_features=50000,

@@ -412,6 +412,58 @@ def summarize_meme(client: OpenAI, model: str, image_url: str) -> dict:
     return safe_json(response)
 
 
+def select_image_persona_candidates(client, model: str, personas: list[dict], meme_summary: dict,
+                                   candidate_count: int) -> list[dict]:
+    """Build an image-specific shortlist before selecting the final debate trio."""
+    council = []
+    for persona in personas:
+        council.append({
+            "persona_id": persona.get("persona_id"),
+            "archetype": persona.get("archetype", ""),
+            "profile": persona.get("profile_bio", persona.get("observed_profile_text", "")),
+            "style": persona.get("commenting_habits", persona.get("commenting_style", "")),
+            "historical_comments": persona.get("sample_historical_comments", persona.get("historical_comments", [])),
+        })
+    system = (
+        f"Select exactly {candidate_count} candidate simulated personas for this specific meme. "
+        "This is a broad shortlist for a separate downstream trio selection step; do not select "
+        "only the final three. Choose candidates whose documented comments, style, or stated "
+        "archetype could contribute to interpreting this meme, while including varied perspectives. "
+        "Do not infer protected traits, treat archetype labels as facts about real people, or use "
+        "or guess the dataset label. Return JSON only: "
+        '{"candidates":[{"persona_id":"...","image_fit":"brief reason grounded in the supplied analysis and persona evidence"}]}'
+    )
+    prompt = json.dumps({"meme_analysis": meme_summary, "persona_council": council}, ensure_ascii=False)
+    try:
+        result = safe_json(chat_text(client, model, system, prompt, temperature=0.0))
+        selections = result.get("candidates", [])
+        by_id = {str(p.get("persona_id")): p for p in personas}
+        picked = []
+        for selection in selections:
+            if not isinstance(selection, dict):
+                continue
+            persona = by_id.get(str(selection.get("persona_id", "")))
+            if persona and persona not in picked:
+                item = dict(persona)
+                item["image_fit"] = str(selection.get("image_fit", ""))
+                picked.append(item)
+            if len(picked) == candidate_count:
+                return picked
+    except Exception as exc:
+        print(f"  [!] Image-specific candidate selection failed ({exc}); using scored fallback.")
+
+    # If the model response is invalid, rank the complete pool against this image
+    # so the fallback remains image-specific instead of taking the first IDs.
+    ranking_text = " ".join(str(meme_summary.get(key, "")) for key in (
+        "visible_text", "visual_description", "context_clues"
+    ))
+    print("  [!] Using deterministic image-relevance fallback to build persona candidates.")
+    _, fallback = select_personas(
+        personas, ranking_text, shortlist_size=candidate_count, final_count=candidate_count
+    )
+    return fallback
+
+
 def classify_with_persona(client: OpenAI, model: str, image_url: str, meme_summary: dict,
                           persona: dict, peer_responses: list[dict] | None = None) -> dict:
     system = (
@@ -557,7 +609,7 @@ def main():
     parser.add_argument("--adapter-path", default=None,
                         help="Optional trained PEFT adapter directory for --backend local")
     parser.add_argument("--agents", type=int, default=3, help="Final debate personas; DTE RCR uses 3")
-    parser.add_argument("--candidate-count", type=int, default=8,
+    parser.add_argument("--candidate-count", type=int, default=6,
                         help="Personas to score before choosing the final trio")
     parser.add_argument("--language", choices=["Chinese", "English", "Hindi"], default="English",
                         help="Dataset language; visible meme text overrides this for counter-narratives")
@@ -570,8 +622,8 @@ def main():
 
     if args.agents != 3:
         raise ValueError("This DTE RCR workflow uses exactly three debate personas.")
-    if args.candidate_count < 3:
-        raise ValueError("--candidate-count must be at least 3")
+    if not 6 <= args.candidate_count <= 10:
+        raise ValueError("--candidate-count must be between 6 and 10")
     model = args.model or os.getenv({"local": "LOCAL_MODEL", "gemini": "GEMINI_MODEL", "vertex": "VERTEX_MODEL", "openai": "OPENAI_MODEL"}[args.backend]) or {
         "local": "Qwen/Qwen2.5-VL-3B-Instruct",
         "gemini": "gemini-3.8-flash",
@@ -586,8 +638,14 @@ def main():
         raise EnvironmentError("Set GOOGLE_CLOUD_PROJECT or pass --gcp-project for Vertex AI.")
 
     persona_pool_path = args.persona_pool
-    if not persona_pool_path and args.language == "Chinese" and os.path.exists("artifacts/persona_council_zh.json"):
-        persona_pool_path = "artifacts/persona_council_zh.json"
+    if not persona_pool_path and args.language == "Chinese":
+        for candidate_pool in (
+            "artifacts/persona_pool_zh.json",
+            "artifacts/persona_council_zh.json",
+        ):
+            if os.path.exists(candidate_pool):
+                persona_pool_path = candidate_pool
+                break
 
     if persona_pool_path:
         print(f"Loading persona pool from {persona_pool_path}...")
@@ -671,11 +729,25 @@ def main():
                 str(meme_summary.get("visual_description", "")),
                 str(meme_summary.get("context_clues", "")),
             ])
+            image_candidate_pool = select_image_persona_candidates(
+                client, model, personas, meme_summary, args.candidate_count
+            )
             candidates, selected = select_personas(
-                personas, ranking_text, shortlist_size=args.candidate_count, final_count=3
+                image_candidate_pool, ranking_text,
+                shortlist_size=args.candidate_count, final_count=3
             )
             if len(selected) < 3:
                 raise RuntimeError("At least three personas are needed for DTE debate.")
+            selected_ids = {persona.get("persona_id") for persona in selected}
+            ranked_by_id = {p.get("persona_id"): p for p in candidates}
+            fit_by_id = {p.get("persona_id"): p.get("image_fit", "") for p in selected}
+            image_candidates = []
+            for persona in image_candidate_pool:
+                candidate = dict(ranked_by_id.get(persona.get("persona_id"), persona))
+                candidate["selected_for_image"] = persona.get("persona_id") in selected_ids
+                if candidate["selected_for_image"]:
+                    candidate["image_fit"] = fit_by_id.get(persona.get("persona_id"), "")
+                image_candidates.append(candidate)
 
             initial = []
             for persona in selected:
@@ -704,14 +776,15 @@ def main():
                 "predicted_label": final.get("label"),
                 "correct": final.get("label") == labels[image_id],
                 "meme_analysis": meme_summary,
-                "persona_candidates": candidates,
+                "persona_candidates": image_candidates,
                 "selected_personas": selected,
                 "initial_debate": initial,
                 "rcr_refined_responses": refined,
                 "critic_judge": final,
                 "counter_narrative": counter_narrative,
                 "model": model,
-                "method_note": "Gold labels are stored for evaluation and GRPO rewards only; they are not sent to persona agents or the counter-narrative generator.",
+                "persona_selection_method": "Two-stage: model selects six to ten image-specific candidates from the full council; deterministic relevance scoring uses each candidate's image-fit rationale and historical comments, with evidence, diversity, and complementarity scoring selecting the final three from that shortlist.",
+                "method_note": "Gold labels are stored for evaluation and GRPO rewards only; they are not sent to persona selection, persona agents, or the counter-narrative generator.",
             }
             out.write(json.dumps(record, ensure_ascii=False) + "\n")
             out.flush()

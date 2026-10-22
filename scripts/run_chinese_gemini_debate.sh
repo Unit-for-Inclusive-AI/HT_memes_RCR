@@ -40,5 +40,6 @@ exec .venv/bin/python Code/meme_persona_pipeline.py \
   --limit 10 \
   --images-zip data/raw/Chinese/Train/Train_images \
   --labels-xlsx data/raw/Chinese/Train/Train_labels.xlsx \
-  --persona-pool artifacts/persona_council_zh.json \
-  --output artifacts/chinese_council_gemini_debate.jsonl
+  --persona-pool artifacts/persona_pool_zh.json \
+  --max-personas 300 \
+  --output artifacts/chinese_council_gemini_image_specific_300_v3_debate.jsonl
