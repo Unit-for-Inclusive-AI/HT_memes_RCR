@@ -20,7 +20,7 @@ exec .venv/bin/python Code/meme_persona_pipeline.py \
   --model gpt-4.1-mini \
   --language Chinese \
   --split train \
-  --limit 10 \
+  --limit 0 \
   --images-zip data/raw/Chinese/Train/Train_images \
   --labels-xlsx data/raw/Chinese/Train/Train_labels.xlsx \
   --persona-pool artifacts/persona_council_zh.json \

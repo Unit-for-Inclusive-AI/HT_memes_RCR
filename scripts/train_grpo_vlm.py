@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import base64
+import inspect
 import json
 import os
 import sys
@@ -172,13 +173,12 @@ def main() -> None:
     processor = AutoProcessor.from_pretrained(args.model)
     use_bf16 = torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bf16 else torch.float16
-    config = GRPOConfig(
+    config_kwargs = dict(
         output_dir=str(output_dir / "checkpoints"),
         learning_rate=args.learning_rate,
         per_device_train_batch_size=1,
         gradient_accumulation_steps=args.gradient_accumulation_steps,
         num_generations=args.num_generations,
-        max_prompt_length=args.max_prompt_length,
         max_completion_length=args.max_completion_length,
         num_train_epochs=args.epochs,
         logging_steps=1,
@@ -190,6 +190,14 @@ def main() -> None:
         remove_unused_columns=False,
         model_init_kwargs={"torch_dtype": model_dtype},
     )
+    if "max_prompt_length" in inspect.signature(GRPOConfig).parameters:
+        config_kwargs["max_prompt_length"] = args.max_prompt_length
+    else:
+        print(
+            "[!] Installed TRL has removed GRPOConfig.max_prompt_length; "
+            "the requested prompt limit will not be applied."
+        )
+    config = GRPOConfig(**config_kwargs)
     trainer = GRPOTrainer(
         model=args.model,
         reward_funcs=[classification_accuracy_reward, structured_output_reward, evidence_reward],
