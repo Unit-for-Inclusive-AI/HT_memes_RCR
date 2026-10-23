@@ -1,0 +1,278 @@
+[
+  {
+    "persona_id": "P_ZH_0199",
+    "source_user_hash": "fa20f08ec029",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 18.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "吾辈自强",
+      "宝贝六一快乐[亲亲]",
+      "姐姐六一快乐🙂 昨天的杂志尊嘟是太米了🥰 谁能拒绝这么米的杂志呢！ 迫不及待想现在就收到漂亮杂志 ◔.̮◔✧！😉"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "铭记历史",
+      "吾辈自强",
+      "宝贝六一快乐[亲亲]",
+      "姐姐六一快乐🙂 昨天的杂志尊嘟是太米了🥰 谁能拒绝这么米的杂志呢！ 迫不及待想现在就收到漂亮杂志 ◔.̮◔✧！😉"
+    ],
+    "substance_score": 0.844,
+    "relevance_score": 0.9412,
+    "base_score": 0.8926,
+    "mmr_score": 0.8926,
+    "selection_order": 1,
+    "selection_reason": "Archetype representation (Critical / 批判保守者)"
+  },
+  {
+    "persona_id": "P_ZH_0045",
+    "source_user_hash": "799b31c30157",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 26.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "基本上目前的电视剧尤其是古装剧从来不看，除了一张脸，啥也不是，古代不是动不动就接吻，就你侬我侬，中国的传统文化几乎丢完了，没有了中国人的骨子里的底蕴。",
+      "鲜花鲜肉不会说话",
+      "大家都要平安！❤",
+      "温暖[心][心][心][心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "基本上目前的电视剧尤其是古装剧从来不看，除了一张脸，啥也不是，古代不是动不动就接吻，就你侬我侬，中国的传统文化几乎丢完了，没有了中国人的骨子里的底蕴。",
+      "鲜花鲜肉不会说话",
+      "大家都要平安！❤",
+      "温暖[心][心][心][心]"
+    ],
+    "substance_score": 1.0,
+    "relevance_score": 0.7555,
+    "base_score": 0.8778,
+    "mmr_score": 0.5706,
+    "selection_order": 2,
+    "selection_reason": "Archetype representation (Skeptical / 怀疑调侃者)"
+  },
+  {
+    "persona_id": "P_ZH_0017",
+    "source_user_hash": "dc1730964044",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "哈哈哈，好搞笑[笑cry][笑cry]",
+      "太逗了哈哈哈哈哈",
+      "平台也负有一定责任吧",
+      "真是吃的太饱了！应该重判以儆效尤。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "哈哈哈，好搞笑[笑cry][笑cry]",
+      "太逗了哈哈哈哈哈",
+      "平台也负有一定责任吧",
+      "真是吃的太饱了！应该重判以儆效尤。"
+    ],
+    "substance_score": 0.724,
+    "relevance_score": 1.0,
+    "base_score": 0.862,
+    "mmr_score": 0.5603,
+    "selection_order": 3,
+    "selection_reason": "Archetype representation (Neutral Observer / 客观旁观者)"
+  },
+  {
+    "persona_id": "P_ZH_0244",
+    "source_user_hash": "c97e91bebe1d",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 48.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝[抱一抱]",
+      "🍊💙你知道吗？昨天下午我被人骂了，她们说我往楼下滴水，把阳台上晾的衣服都打湿了，只有我知道那不是水，是我趴在阳台上想你流的眼泪",
+      "🍊💙因友情而心生厌恶？因爱情而心生憎恶？姜黎非身世终成谜！💕青丘孤女鞠婧祎姜黎非@鞠婧祎   与同窗们的修行之路隐藏多少谜踪？邀您一同揭秘🤘🏼",
+      "𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚  𝘽𝙖𝙗𝙮 𝙟𝙪𝙨𝙩 𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚每一次心动的原因，全部都是因为你"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "宝宝[抱一抱]",
+      "🍊💙你知道吗？昨天下午我被人骂了，她们说我往楼下滴水，把阳台上晾的衣服都打湿了，只有我知道那不是水，是我趴在阳台上想你流的眼泪",
+      "🍊💙因友情而心生厌恶？因爱情而心生憎恶？姜黎非身世终成谜！💕青丘孤女鞠婧祎姜黎非 与同窗们的修行之路隐藏多少谜踪？邀您一同揭秘🤘🏼",
+      "𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚 𝘽𝙖𝙗𝙮 𝙟𝙪𝙨𝙩 𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚每一次心动的原因，全部都是因为你"
+    ],
+    "substance_score": 1.0,
+    "relevance_score": 0.6963,
+    "base_score": 0.8481,
+    "mmr_score": 0.5513,
+    "selection_order": 4,
+    "selection_reason": "Archetype representation (Educator / 事实科普与理性分析者)"
+  },
+  {
+    "persona_id": "P_ZH_0146",
+    "source_user_hash": "47f65da55df1",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "别再让你那恶心的前夫上热搜了行不，大家都不想看见他，行行好，污染心灵和眼睛。他不应该再蹭你的名气",
+      "圣依，你应该是何惟芳，而不是胜意！！！！切记！"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "别再让你那恶心的前夫上热搜了行不，大家都不想看见他，行行好，污染心灵和眼睛。他不应该再蹭你的名气",
+      "圣依，你应该是何惟芳，而不是胜意！！！！切记！"
+    ],
+    "substance_score": 0.8,
+    "relevance_score": 0.6233,
+    "base_score": 0.7117,
+    "mmr_score": 0.4605,
+    "selection_order": 5,
+    "selection_reason": "Archetype representation (Cultural / 传统价值观持有者)"
+  },
+  {
+    "persona_id": "P_ZH_0030",
+    "source_user_hash": "accc5dbfcc18",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 29.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬所有缉毒英雄！",
+      "一定要确保安全啊",
+      "2025平安顺遂",
+      "#周冬雨[超话]##可惜我是水瓶座# 周冬雨祝大家“元旦快乐”，BGM放的却是周杰伦的《黑色幽默》，嗯，可能就是随心情选的，是我熟悉的水瓶座，祝这个爱笑的女人2025大展宏图~[努力]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "致敬所有缉毒英雄！",
+      "一定要确保安全啊",
+      "2025平安顺遂",
+      "#周冬雨[超话]##可惜我是水瓶座# 周冬雨祝大家“元旦快乐”，BGM放的却是周杰伦的《黑色幽默》，嗯，可能就是随心情选的，是我熟悉的水瓶座，祝这个爱笑的女人2025大展宏图~[努力]"
+    ],
+    "substance_score": 1.0,
+    "relevance_score": 0.3455,
+    "base_score": 0.6727,
+    "mmr_score": 0.436,
+    "selection_order": 6,
+    "selection_reason": "Archetype representation (Supportive / 包容友善支持者)"
+  },
+  {
+    "persona_id": "P_ZH_0188",
+    "source_user_hash": "7937c0a54220",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "历史不容遗忘，和平需要捍卫！",
+      "铭记历史 吾辈自强[加油]",
+      "点染双唇宣言，书写自信格调，沉淀先锋态度，演绎百变真我，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探索色彩科学，解锁妆容无限可能。[羞嗒嗒]",
+      "[打call]好棒"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "历史不容遗忘，和平需要捍卫！",
+      "铭记历史 吾辈自强[加油]",
+      "点染双唇宣言，书写自信格调，沉淀先锋态度，演绎百变真我，和#M·A·C魅可品牌光彩代言人# 一同探索色彩科学，解锁妆容无限可能。[羞嗒嗒]",
+      "[打call]好棒"
+    ],
+    "substance_score": 1.0,
+    "relevance_score": 0.4548,
+    "base_score": 0.7274,
+    "mmr_score": 0.4597,
+    "selection_order": 7,
+    "selection_reason": "High composite MMR & stylometric complementarity"
+  },
+  {
+    "persona_id": "P_ZH_0109",
+    "source_user_hash": "0a3a243449b5",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "特别理解这种感受[泪][泪][泪][泪][泪][泪]",
+      "依依好会写，感受到了内心的细腻",
+      "想起了同样的场景载我老爹[心]老爸一直说姑娘你慢着点[哈哈][哈哈][哈哈]下车还和朋友说：这孩子开车太猛了😂😂",
+      "[抱一抱][抱一抱]开起来一定很爽"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark.",
+    "cleaned_comments": [
+      "特别理解这种感受[泪][泪][泪][泪][泪][泪]",
+      "依依好会写，感受到了内心的细腻",
+      "想起了同样的场景载我老爹[心]老爸一直说姑娘你慢着点[哈哈][哈哈][哈哈]下车还和朋友说：这孩子开车太猛了😂😂",
+      "[抱一抱][抱一抱]开起来一定很爽"
+    ],
+    "substance_score": 1.0,
+    "relevance_score": 0.386,
+    "base_score": 0.693,
+    "mmr_score": 0.4462,
+    "selection_order": 8,
+    "selection_reason": "High composite MMR & stylometric complementarity"
+  }
+]

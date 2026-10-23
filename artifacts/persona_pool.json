@@ -1,0 +1,70 @@
+[
+  {
+    "persona_id": "P_EN_0001",
+    "source_user_hash": "ed07484db541",
+    "language": "English",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "Active social media user.",
+    "commenting_habits": {
+      "summary": "usually concise.",
+      "avg_words": 1.0,
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "@lilsimonboi"
+    ],
+    "total_available_comments": 1
+  },
+  {
+    "persona_id": "P_EN_0002",
+    "source_user_hash": "1cbed96e661a",
+    "language": "English",
+    "archetype": "Cultural / Traditional Norms",
+    "profile_bio": "Active social media user.",
+    "commenting_habits": {
+      "summary": "usually concise.",
+      "avg_words": 1.0,
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "cnm"
+    ],
+    "total_available_comments": 1
+  },
+  {
+    "persona_id": "P_EN_0003",
+    "source_user_hash": "49f1391266b2",
+    "language": "English",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "Active social media user.",
+    "commenting_habits": {
+      "summary": "usually concise.",
+      "avg_words": 5.0,
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "Trust yourself ,love yourself,be yourself.❤️"
+    ],
+    "total_available_comments": 1
+  },
+  {
+    "persona_id": "P_EN_0004",
+    "source_user_hash": "ed65060c88a3",
+    "language": "English",
+    "archetype": "Educator / Factual Explainer",
+    "profile_bio": "Active social media user.",
+    "commenting_habits": {
+      "summary": "usually concise.",
+      "avg_words": 1.0,
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "cnm"
+    ],
+    "total_available_comments": 1
+  }
+]

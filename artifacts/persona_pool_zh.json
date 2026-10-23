@@ -1,0 +1,6724 @@
+[
+  {
+    "persona_id": "P_ZH_0001",
+    "source_user_hash": "edd3943baa0e",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "今天生日 开年svip求你让我抽个",
+      "好幸福[抱一抱]",
+      "啊啊啊啊啊啊宝贝.！！！[憧憬]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0002",
+    "source_user_hash": "bd7773c5c6ed",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 41.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "【一起转发！这是台湾的唯一称谓！#中国台湾省#】台湾从来不是一个国家，过去不是，今后更绝无可能。#台湾唯一称谓就是中国台湾省# ​​​",
+      "[迎福运]元宵节快乐[锦鲤附体]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0003",
+    "source_user_hash": "c11be92e8307",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 43.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "生活从来没有捷径，别人为了梦想默默耕耘，只是你没看到而已。停止为懒惰找借口，向着梦想勇敢前进，你未来的模样就藏在现在的努力里。",
+      "新的时光里，让我们珍惜所有的不期而遇，也看淡所有的不辞而别。在心里种花，让生命染香，安于当下美好，就是人生中最美的日子。",
+      "送我个普好吗？"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0004",
+    "source_user_hash": "7cb5e3661716",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 6.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "免费吗？",
+      "可可[心]",
+      "哈哈哈哈哈你穿的真好看"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0005",
+    "source_user_hash": "21b3224af8ed",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 53.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "我的盲盒[苦涩][苦涩]，你还我[苦涩][苦涩][苦涩]",
+      "付了款还整退款的[摊手][摊手][摊手]",
+      "溯源色彩真谛，激发个性表达，焕耀肌肤光彩，融合摩登自信，以#M·A·C魅可品牌光彩代言人# @鞠婧祎 的精准笔触为语言，诠释刚柔并济的生命力，书写彩妆艺术里的锋芒与优雅。",
+      "雕琢光彩秘钥，妆点素面潋滟，叙写唇间诗篇，点染浪漫景致，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同铺陈肌肤如艺术品般的细腻华章，探索妆容艺术的边界与可能。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0006",
+    "source_user_hash": "6b5b0341edae",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 5.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "妈妈妈妈",
+      "老婆老婆！",
+      "新年快乐宝宝"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0007",
+    "source_user_hash": "568fbc9ccbe9",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "請開放海外華人使用微博錢包購買盲盒🙏",
+      "@維也納微博站: 開放海外華人用微博錢包購買盲盒",
+      "做的好土好俗气 丑 滚"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0008",
+    "source_user_hash": "a62cc587f633",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "kiki实至名归，她的笑容和努力感染了每一个人，未来可期！",
+      "恭喜@许佳琪kiki 获得“2024微博会员心愿官”称号[哇] http://t.cn/A6meCTNe",
+      "黄圣依妈妈的智慧真让人佩服，这样的母女情深太难得了！",
+      "父母是最好的老师，邓老师的理念太好啦"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0009",
+    "source_user_hash": "0016dcda6072",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 41.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好久不见，我和小伙伴们都在SSR交换站的超话社区等你，快点来看看吧，回家指路>>#SSR交换站[超话]#",
+      "好久不见，我和小伙伴们都在SSR交换站的超话社区等你，快点来看看吧，回家指路>>#SSR交换站[超话]#",
+      "小狐狸好可爱(∩ᵒ̴̶̷̤⌔ᵒ̴̶̷̤∩)"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0010",
+    "source_user_hash": "b17b4a642f60",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "给我出个迪丽热巴 装扮呗",
+      "还我妈生熊[拜拜]",
+      "天天开心宝宝",
+      "早安啊[彩虹屁][彩虹屁]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0011",
+    "source_user_hash": "52b5c9c96c1e",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "送我会员更开心",
+      "送我会员",
+      "啊啊啊鹿店长！！！",
+      "和鹿店长一起[兔子]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0012",
+    "source_user_hash": "123c19375e7a",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "商量好的吗[思考]送我会员看看实力[思考] http://t.cn/A6Y1oQyY",
+      "节日快乐",
+      "“玫瑰在海里燃烧 我的爱在烈火中绽放.” ＂𝓡𝓸𝓼𝓮𝓼 𝓫𝓾𝓻𝓷 𝓲𝓷 𝓽𝓱𝓮 𝓼𝓮𝓪 𝓪𝓷𝓭 𝓶𝔂 𝓵𝓸𝓿𝓮 𝓫𝓵𝓸𝓸𝓶𝓼 𝓲𝓷",
+      "宝宝[亲亲][亲亲][亲亲]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0013",
+    "source_user_hash": "59b4c419f37e",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "有点好嗑怎么回事",
+      "很有活力[good][good]",
+      "雨宝好酷"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0014",
+    "source_user_hash": "31aab04236da",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "顺 你拍个偶像剧吧[嘻嘻][嘻嘻]",
+      "支持这个speedo",
+      "真的是等你游泳啊[嘻嘻][嘻嘻][嘻嘻]",
+      "#汪顺说水里好玩的多着呢# 一起动起来"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0015",
+    "source_user_hash": "b077a5dc5f6b",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "汪顺[加油]",
+      "你最帅的时候是，不穿衣服",
+      "汪顺加油，比赛顺顺利利喔[加油]",
+      "期待汪顺"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0016",
+    "source_user_hash": "af18d7b8d17c",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "[嘻嘻][嘻嘻][嘻嘻]哈哈哈哈",
+      "#潘展乐# #奥林匹克日# 大早上就被潘展乐萌晕过去[awsl][awsl]太可爱辣[哇][哇]",
+      "[打call]加油！闪耀新加坡🇸🇬",
+      "潘展乐加油[爱你]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0017",
+    "source_user_hash": "dc1730964044",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "哈哈哈，好搞笑[笑cry][笑cry]",
+      "太逗了哈哈哈哈哈",
+      "平台也负有一定责任吧",
+      "真是吃的太饱了！应该重判以儆效尤。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0018",
+    "source_user_hash": "8cf1372481b6",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 18.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "孙颖莎加油[打call][打call]",
+      "大满贯见#孙颖莎#",
+      "孙颖莎特别棒[打call][打call][打call]",
+      "孙颖莎超级棒[赞啊][赞啊][赞啊]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0019",
+    "source_user_hash": "edba6c44a9a2",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 20.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待莎莎[打call][打call][打call]",
+      "努力训练的莎莎大满贯见咯[送花花]#孙颖莎说大满贯见#",
+      "祝福香港祝福祖国[心][心]",
+      "祝福香港，祝福祖国🇨🇳，7月你好！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0020",
+    "source_user_hash": "e94f64bf9f5c",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 29.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "2021.08.15-2024.12.04 薇薇終於更博了，[苦澀]想你啦[心] 瓊瑤阿姨一路走好🙏",
+      "想念你[心]赵薇，最喜欢的偶像[心]",
+      "阿姨，一路走好，作品和阿姨都留在我们心中"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0021",
+    "source_user_hash": "6d8f64ab61c1",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 20.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "希望小家伙能康复",
+      "加油🙏南无药师琉璃光如来，可以在它耳边念诵药师佛名号，有助于它的身体恢复，愿小家伙早日康复[心]",
+      "可怜的猫咪，有爱的璐母女",
+      "一转眼小甜馨就长大了，[心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0022",
+    "source_user_hash": "c0a2459dd017",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "几乎都认出来了",
+      "漂亮[鲜花][赞啊]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0023",
+    "source_user_hash": "5e0e2c9842db",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 19.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "大明星，啥时候开个直播叫我瞧会",
+      "都有那一面，他在外边那也是他的话，那货更是我，不愣的停一下都不行",
+      "真是气死了 活活憋死"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0024",
+    "source_user_hash": "87b74f557267",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "致敬每一位缉毒英雄！辛苦了！",
+      "致敬缉毒警察",
+      "上午好[太阳]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0025",
+    "source_user_hash": "084b4d198c99",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬英雄",
+      "我们不需要他们的影像，声音，任何信息，你们明白吗",
+      "[抱一抱]暖心",
+      "哇塞哇塞"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0026",
+    "source_user_hash": "0b1db7b9a094",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "这些人才是最伟大的人[good][good]",
+      "这才是最伟大的人[good][good]",
+      "这个工作是高危险，不是你死 就是我活，致敬民警！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0027",
+    "source_user_hash": "474bd08cba18",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "关注[给力][给力]",
+      "人民海军航空兵，生日快乐！",
+      "生日快乐"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0028",
+    "source_user_hash": "fc26ecf75bf0",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬英雄",
+      "国家安好"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0029",
+    "source_user_hash": "51035d68a48b",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "#韩庚20周年限定专辑官宣# 又来了[心]",
+      "913这个数字真好啊 庚宝"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0030",
+    "source_user_hash": "accc5dbfcc18",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 29.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬所有缉毒英雄！",
+      "一定要确保安全啊",
+      "2025平安顺遂",
+      "#周冬雨[超话]##可惜我是水瓶座# 周冬雨祝大家“元旦快乐”，BGM放的却是周杰伦的《黑色幽默》，嗯，可能就是随心情选的，是我熟悉的水瓶座，祝这个爱笑的女人2025大展宏图~[努力]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0031",
+    "source_user_hash": "62bdb429139e",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 30.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "[赞][赞]女神永远那么棒！永远支持你！永远爱你！[比心][比心][心][心]🍓🍓☀️☀️🏇🏇🍒🍭💋💋🥂🥂🍑🍑💖💖💝💝",
+      "岁月怎么没有在你身上留下痕迹",
+      "端午安康！永远爱你！[比心][比心]❤️❤️🍓🍓☀️☀️🏇🏇🍒🍭💋💋🥂🥂🍑🍑💝💝💖💖",
+      "我会rap"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0032",
+    "source_user_hash": "6ef098079d8c",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 46.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "[干杯][可乐][2025][干杯][爱你][抱一抱][抱一抱][嘻嘻][嘻嘻][二哈][鲜花]@李小璐Super璐",
+      "怎么还那么年轻漂亮[打call][打call]",
+      "[干杯][可乐][2025][干杯][爱你][抱一抱][抱一抱][嘻嘻][嘻嘻][二哈][鲜花]@李小璐Super璐"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0033",
+    "source_user_hash": "b6afed720ce1",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "端午安康",
+      "熟女的味道越来越溶了",
+      "向英雄致敬",
+      "一想到椰壳。。[吐]  物以类聚，人以群分"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0034",
+    "source_user_hash": "038af70e1ff7",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "端午安康[兔子]",
+      "多发点照片女神[爱你]",
+      "飒[作揖]",
+      "姐 想想办法出来拍戏吧"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0035",
+    "source_user_hash": "71a82897d788",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "端午安康",
+      "璐璐，你还是那么美丽漂亮性感！不要复婚，嫁给我吧[心][鲜花][鲜花][鲜花]",
+      "节日快乐",
+      "@峰哥亡命天涯 出来压抑"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0036",
+    "source_user_hash": "d8b140938edb",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 6.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "端午安康",
+      "姐姐好美",
+      "美美哒[心][心][心]",
+      "好漂亮啊"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0037",
+    "source_user_hash": "843f9545e71a",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "小璐姐端午安康 [爱慕]",
+      "端午安康[鲜花]",
+      "小璐姐母亲节快乐 [心]",
+      "节日快乐[兔子]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0038",
+    "source_user_hash": "962f28b8159b",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "蔷薇花 http://t.cn/A6gEgUA1",
+      "妈呀姐姐状态太好了！！！图三好像米小米[彩虹屁]",
+      "旅行能化解母女间的隔阂，加油！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0039",
+    "source_user_hash": "df89f2275981",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "太美丽了[可怜]",
+      "好看[心]",
+      "女神还不出来[苦涩]",
+      "高考加油！金榜题名[哇]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0040",
+    "source_user_hash": "6180c144c9ba",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "姐姐[心][心]",
+      "姐姐抽我吧",
+      "来啦[哇][哇][哇][心][心][心]",
+      "坐等[老师爱你]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0041",
+    "source_user_hash": "a4ab15d4024a",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 75.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "着急也没用……冯老师是有艺术追求的，可现在内娱做项目从来不以业务能力位第一考虑。再过十几年AI大概可以全面取代真人吧[允悲]演和唱都如此",
+      "幸好我担全部原声近两年同期声[打call]",
+      "啊啊啊啊啊祝贺@Michelle杨紫琼 [送花花][送花花][送花花]祝贺《瞬息全宇宙》横扫奥斯卡[鼓掌]琼姐美呆了[送花花]创造历史[送花花][送花花][送花花][送花花]女人们，永远不要让任何人定义！永远别放弃[太开心][太开心][太开心]",
+      "Great minds have purpose, others have wishes.beauty will never fade away with time.[鲜花][威武]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0042",
+    "source_user_hash": "833cb09ee167",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 5.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "只有一个中国🇨🇳",
+      "只有一个中国",
+      "铭记历史",
+      "铭记历史！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0043",
+    "source_user_hash": "966d02c0e9b0",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "是的，很多人没有生活体验，只有想象",
+      "黔今万达广场",
+      "[鼓掌][鼓掌][鼓掌]//@韩庚:有笑有泪，有梦有真，一起去影院看《青春里》！",
+      "是很值得追的电影了，一定要看"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0044",
+    "source_user_hash": "8b8ce3b11a06",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 49.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "我的天 四年没“练功” 那你这四年都干嘛了 怪不得 演艺⭕这么缺真正的“演员”！",
+      "什么90后，真没什么演技好的，整天就整流量。电影电视剧真没可看的，以前中央电视台经常有晚会，都是好的歌唱家，而且每周都有。现在呢，就只有一个春晚，还没人看，竟都是不会唱歌的去了。",
+      "期待#电影抓特务# 冯静波@胡歌 [心]//@胡歌:好像不只是邻居那么简单[并不简单]#电影抓特务#",
+      "期待[太开心][太开心][太开心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0045",
+    "source_user_hash": "799b31c30157",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 26.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "基本上目前的电视剧尤其是古装剧从来不看，除了一张脸，啥也不是，古代不是动不动就接吻，就你侬我侬，中国的传统文化几乎丢完了，没有了中国人的骨子里的底蕴。",
+      "鲜花鲜肉不会说话",
+      "大家都要平安！❤",
+      "温暖[心][心][心][心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0046",
+    "source_user_hash": "bf07244989c4",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 103.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "@OnlyFor_宋仲基 @华为何刚 @陈飞宇Arthur @朱一龙 @华为中国 @欧豪 @陈凯歌 @李连杰 @胡军 @陈好 @陈晓 @黄晓明 @林昀儒 @曹骏JunCao @樊振东 @欧豪 @欧豪 @TFBOYS-易烊千玺 [作揖][作揖][作揖]",
+      "疼不疼啊，看着这么多针就觉得疼",
+      "我10多年追@陈乔恩 姐姐吖。[耶][耶]《命中注定我爱你》这部剧的时候：就知道她喜欢吃这个啦！[哈哈][哈哈]这有啥啊？？她想吃啥，就吃了呗。。[哪吒使坏][哪吒使坏]又没有违法犯罪啊！[作揖][作揖]@欧豪 @欧豪 @石宇奇_ @黄晓明 @皇马新闻 @陈晓 @汪順Steve @TFBOYS-易烊千玺 @朱一龙 [心][心] http://t.cn/A61se74C",
+      "下午跟12年前的同担唠嗑[doge]结论：当年明星都还有点活人感，现在@陈乔恩 是能算“明星”里为数不多活人了。此条尤其P4就是证据！ http://t.cn/A6r8uPad"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0047",
+    "source_user_hash": "bc01d75e3de3",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 19.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "李小璐您好，您是我的偶像，我是您的粉丝！",
+      "那天我在酒店草坪看到小璐啦！！我就说好美！我不确定就是呀！🤦‍♂️",
+      "李小璐您好，您是我的偶像，我是您的粉丝！",
+      "支持⬆️"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0048",
+    "source_user_hash": "0d3ead859bc5",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "生日快乐呀！",
+      "坤，生日快乐，路漫漫长陪[心]",
+      "太猛了[good]",
+      "看着就觉得疼"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0049",
+    "source_user_hash": "d6631e7069b7",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "转发微博",
+      "美女姐姐[送花花]",
+      "生日快乐",
+      "爱你[爱你]生日快乐[蛋糕]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0050",
+    "source_user_hash": "d197a6f233fd",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 48.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "小璐，我有妙法帮你复出影视圈！用我的妙法，你不仅能复出影视圈，你在影视圈的地位还能提升，比2019年前还更高！看到留言请回复，以证实看到。[心][心][心][心][心]",
+      "希望李小璐复出 http://t.cn/A61HrKQ0",
+      "小璐可以向灾区捐些璐璐牌的羽绒服，既做了慈善，又提升了璐璐牌的人气，对璐璐牌服饰的销售有大的提升。捐助无需很大，能表达爱心即可！[心][心][心]",
+      "祈愿平安🙏🙏🙏"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0051",
+    "source_user_hash": "c10037de6a47",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "漂亮[鲜花][赞啊]",
+      "真好看[心]",
+      "真棒[鲜花]",
+      "昨天看到了，期待下一期"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0052",
+    "source_user_hash": "3d92930fe7f8",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "好米姐姐！[羞嗒嗒][羞嗒嗒][羞嗒嗒][good]",
+      "节日快乐",
+      "美腻的依依子节日快乐[鲜花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0053",
+    "source_user_hash": "69d493d36b50",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "事实证明互联网没有记忆哈哈哈哈[doge]",
+      "保佑爸爸手术一切顺利，平安健康🙏",
+      "真的好喜欢你[抱一抱][抱一抱][抱一抱]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0054",
+    "source_user_hash": "ac9ecab9dba8",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "超级喜欢李小璐姐姐么么哒😘😘😘",
+      "好美[兔子][兔子]",
+      "超级喜欢李小璐姐姐么么哒😘😘😘",
+      "明星不能美颜[允悲]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0055",
+    "source_user_hash": "3e673abbad6a",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "注意保暖！[心]",
+      "有没有售卖款[哇]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0056",
+    "source_user_hash": "c3ce1829cd57",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "所以链接在哪里[举手]",
+      "恭喜恭喜🎉"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0057",
+    "source_user_hash": "ba78f6a2b1a7",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "@--漫漫亦慢慢-- 点🔗来了就送",
+      "在哪里买",
+      "🟡帅[哇]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0058",
+    "source_user_hash": "a1b71f47e62c",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "心动就可以得到吗[憧憬]",
+      "🔗在哪[哇]",
+      "只有一个中国，祖国必将统一🇨🇳！",
+      "只有一个中国🇨🇳"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0059",
+    "source_user_hash": "6f83d2cb6e33",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 40.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "虽然已经超龄，但是借着双十二让我收藏一件压箱底不行吗？～请上链接，我要放入购物车🛒（[喵喵]）",
+      "鞠婧祎你是最棒的❗登顶啦❗ 🍊💙爱你！我们一直一直在！😚相信你 陪着你！🍊我们一定是祎起并肩作战的！😎期待鞠婧祎《来战》阿黛！🍊🍊💙💙",
+      "宝宝六一快乐"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0060",
+    "source_user_hash": "f307a0109160",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "[给你小心心][给你小心心][给你小心心]漂亮的甜馨生日快乐呀～[蛋糕][蛋糕][蛋糕]",
+      "万万没想到",
+      "🙏🙏🙏希望小猫咪早日康复[心][心][心]@李小璐Super璐",
+      "懂事的小甜馨，可爱的璐璐姐"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0061",
+    "source_user_hash": "427b667a6340",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "甜馨，你小时候你妈都不愿意带你出门。你爸爸不一样！你妈的好要记着，你爸爸的好也要记着。别忘了！",
+      "我很期待你女儿长大后知道自己妈妈做了什么，会有怎样的反应",
+      "明天一起看中餐厅",
+      "哈哈哈哈哈"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0062",
+    "source_user_hash": "a217567f36ec",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "生日快乐",
+      "生日快乐",
+      "生日快乐🎂🎉"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0063",
+    "source_user_hash": "ca5aa86631ac",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "经常会梦到你😔 😔",
+      "六一快乐",
+      "孩子们的快乐 我来守护"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0064",
+    "source_user_hash": "c078168cc254",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "生日快乐",
+      "@李小璐Super璐 过生日的人最美，撒浪嘿～ http://t.cn/RI9ePHL",
+      "生日快乐",
+      "生日快乐，璐璐姐[心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0065",
+    "source_user_hash": "17be70091a21",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "都好都好",
+      "鼓掌👏🏻这天聊的哈哈哈",
+      "你幸福 我也幸福[心]",
+      "庚哥一直在教我们怎样过好自己的人生呐，姻缘天注定的感觉真好！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0066",
+    "source_user_hash": "bfd05a6c810b",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "姐姐你美",
+      "提个袜子也得拍下来？",
+      "第一张好白好美我受不了了",
+      "小璐中秋快乐！[兔子]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0067",
+    "source_user_hash": "e1d7cc41b516",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "友谊长存，生日快乐[蛋糕][蛋糕][蛋糕]",
+      "坤哥好准时[送花花]",
+      "怎么能这么好看[笑而不语]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0068",
+    "source_user_hash": "925d8674b2c6",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "漂亮的女人",
+      "很美[月亮]",
+      "最爱姚晨",
+      "还有孩子了"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0069",
+    "source_user_hash": "5960e49ce4c1",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "中国女人简直太厉害了！！还是00后[心][心]",
+      "恭喜[金牌][金牌][金牌]",
+      "太棒了 好刺激 牛🐮[赞]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0070",
+    "source_user_hash": "ed05b3ecd0c6",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 42.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "太牛了，恭喜",
+      "王一博携手HH，乘风破浪探索无界！💚💚💚",
+      "「致敬深海未知，无惧气象万千」@UNIQ-王一博 的探索精神，正是HELLY HANSEN穿越百年风雨的共鸣。恭喜携手！🎉🎉🎉王一博作为潮流引领者和拥有的行动派特质，不断定义新标准[哇][哇][哇]💚💚💚"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0071",
+    "source_user_hash": "7ae98a710331",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "女王[爱慕][爱慕][爱慕]",
+      "她做到了",
+      "太棒了[爱慕][爱慕][爱慕]",
+      "好伟大[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0072",
+    "source_user_hash": "46dcc3ff727f",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "每一代有每一代的脊梁"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0073",
+    "source_user_hash": "c231a78b8911",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "这是传递给正在👀…📱前人们的幸福◍˃ᵕ˂◍，那我得牢牢接住🤲[笑哈哈]",
+      "新婚快乐[羞嗒嗒]",
+      "不管几岁开心万岁[打call][打call][打call]",
+      "哇！等看！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0074",
+    "source_user_hash": "76724bd85a9d",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "一路追上 看得我好紧张",
+      "恭喜恭喜🎉🎉🎉",
+      "期待成毅谢淮安[爱你][爱你]",
+      "二十四计耀长安，妙计连连展宏篇。智慧火花碰撞间，策略对决谱新篇。期待一番大男主@成毅 超强权谋巨制《长安二十四计》强势来袭。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0075",
+    "source_user_hash": "56b0cc60d5f7",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 9.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "恭喜恭喜！",
+      "紧张死了啊啊啊！！恭喜中国队",
+      "只有一个中国🇨🇳",
+      "台湾当归！祖国统一！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0076",
+    "source_user_hash": "54f3fa64af9a",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "太牛了[鲜花][鲜花][鲜花]",
+      "恭喜！！首金🇨🇳",
+      "恭喜干饭哥一条姐拿下首金[赢牛奶]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0077",
+    "source_user_hash": "7316f92b92da",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "激动的心颤抖的手，恭喜恭喜[鼓掌][鼓掌][鼓掌][鼓掌]",
+      "太牛了[苦涩]，追上来了",
+      "这个位置拍照真不错，我上次去，风景拍的没有你美[喵喵]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0078",
+    "source_user_hash": "153c3f50efa9",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "太牛了👍紧张得不行。",
+      "太牛了！！！",
+      "宝贝[爱你]@TFBOYS-易烊千玺",
+      "下半年一起加油！@TFBOYS-易烊千玺"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0079",
+    "source_user_hash": "c07f431a1e57",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "aha，ID有点可爱[打call]",
+      "继续加油。。",
+      "勿忘历史#一起缅怀30余万死难同胞# #12月13日不能忘不敢忘#",
+      "吾辈自强！！！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0080",
+    "source_user_hash": "f6c76f78b8ba",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 18.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "恭喜恭喜[彩虹屁][彩虹屁][彩虹屁]",
+      "恭喜阿条干饭拿下首金！！！恭喜中国队！！！",
+      "恭喜老公",
+      "突破，是强者的本能。 王一博×HH，向更远出发！强者出发！💚💚"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0081",
+    "source_user_hash": "db7a87e5a6ff",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "恭喜恭喜[哈哈]",
+      "恭喜光靠干饭就赢得金牌！！！恭喜光靠干饭就拿下首金！",
+      "和你一起",
+      "哥哥[抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0082",
+    "source_user_hash": "e062224f0310",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "祝贺🥳🥳",
+      "哥哥好可爱呀[憧憬]@成毅",
+      "哥哥[污][污][污]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0083",
+    "source_user_hash": "330914377b9a",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "首金！祝贺！",
+      "恭喜中国队首金[打call][打call][打call]👏👏👏",
+      "太帅了[色]",
+      "为啥都说梁朔最后牺牲了[泪]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0084",
+    "source_user_hash": "6f1b9f1117b7",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "恭喜恭喜！！中国队🇨🇳首金！！",
+      "期待玺子哥",
+      "6.21 影院见啦[送花花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0085",
+    "source_user_hash": "2051c01c8fa3",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 19.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "哈哈哈哈哈哈哈恭喜光靠干饭就夺得冠军🏆",
+      "只有一个中国！",
+      "国家统一🇨🇳 是不可阻挡的历史大势🇨🇳 是不容挑战的民族大义🇨🇳"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0086",
+    "source_user_hash": "d275da67e740",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 34.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "一級棒！！恭喜啊~首金呢[打call][打call][打call][打call] 巴黎之行，金光大道，发挥太稳了，妹妹 超厉害的！！！",
+      "甜甜的@成毅～527我爱淇！[心][心][心]",
+      "恭喜成毅哥哥[老师爱你]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0087",
+    "source_user_hash": "56a77ac52ba2",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "恭喜中国队首金 [金牌][金牌]",
+      "恭喜中国队！首金！🇨🇳",
+      "好听好听！ [心]好温柔的歌声",
+      "世界赠予我虫鸣 也赠予我雷霆， 赠我弯弯一枚月 也赠予我晚星。 [泪][泪][泪]好好听"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0088",
+    "source_user_hash": "33dc5ada2d64",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 56.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "太棒了太棒了太棒啦！恭喜呀！[打call][打call][打call]",
+      "恭喜阿条姐和干饭哥收获首金，并喜提网友送的昵称[打call][打call]",
+      "💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️💚🏍️王一博🏍️",
+      "恭喜@UNIQ-王一博 喜提契合度百分百的新代言HELLYHANSE，成为HELLYHANSEN全球品牌代言人💚💚💚"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0089",
+    "source_user_hash": "824052269bba",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "恭喜干饭哥一条姐拿下首金[哇][哇]",
+      "你怎么可以这么帅",
+      "1229[心]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0090",
+    "source_user_hash": "d3448fc9225b",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 7.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "祝贺🎉🎉🎉",
+      "吾辈自强 缅怀先烈"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0091",
+    "source_user_hash": "ca0adf25bb20",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "啊啊啊啊啊啊啊老婆[亲亲]",
+      "大大哥一会见[赢牛奶]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0092",
+    "source_user_hash": "ed07484db541",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 63.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "恭喜！你发布的微博已经登上热搜榜，这条精彩创作得到了很多关注和讨论！点击查看 >> http://t.cn/A6OkOMpO 创作指南>> http://t.cn/A6OqQFzK",
+      "恭喜！你发布的微博已经登上热搜榜，这条精彩创作得到了很多关注和讨论！点击查看 >> http://t.cn/A6joRHqK 创作指南>> http://t.cn/A6OqQFzK",
+      "这主人跟没长心似的"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0093",
+    "source_user_hash": "beec80049779",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "孙子可以教爷爷奶奶拍视频，自己抽点时间帮忙剪辑放网上，也可以赚点钱，太辛苦了真的！",
+      "老有所为[赞]，也许并不仅仅是为了生计而是活在自由之中，真好",
+      "上上上，一起上[抱一抱]",
+      "7.25见"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0094",
+    "source_user_hash": "fe0cfc7c5d8a",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "生日快乐[兔子][蛋糕]",
+      "老婆真好看",
+      "那……換個什麼好呢[并不简单]",
+      "哈哈，這是饞了🤣"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0095",
+    "source_user_hash": "90144645bb85",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "热裤[舔屏][舔屏][舔屏]",
+      "羡慕老P看过你呻吟的模样[泪]",
+      "想了[色]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0096",
+    "source_user_hash": "32f9bc6ca42f",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 39.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "这不就是炼铜吗",
+      "这男员工[吃惊]",
+      "别在为了热度无限度的消费逝者了，对于造谣的全网封号",
+      "她还有孩子，有父母，怎么可能离世就要捐赠遗产；从福州去世火化，眼角膜要千里迢迢捐赠给青岛的医院；这些新闻虽然是在美化她，但是明显就很不符合逻辑，她是人，不是神，人家的家人也要继续过日子，凭啥要求她必须捐赠财产，这样的新闻一看就很假[撇嘴]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0097",
+    "source_user_hash": "002141cc20ab",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 16.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "关怀备至路人表示非常感动",
+      "关注热点，传播法律知识@菏泽市人民检察院"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0098",
+    "source_user_hash": "8aed4024174b",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 25.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "泪目了，太暖心太感动了",
+      "好帅的韩庚！",
+      "#韩庚[超话]#[鼓掌]#问界M9# 父亲节快乐！！！[鲜花][鲜花][鲜花]这份父亲节礼物很适合露营出行噢[666]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0099",
+    "source_user_hash": "227f4e7ae408",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "还细心的队员[赞][赞][赞]感恩[心]",
+      "所以各行各业真的都不应该再限制女性就业了",
+      "勿忘历史，我辈自强！[心]",
+      "勿忘国耻！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0100",
+    "source_user_hash": "3de27ecee227",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "跳的好好",
+      "新年快乐[打call]",
+      "乱咬人的狗太多，乱玩的狗也太多"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0101",
+    "source_user_hash": "cefab5875c2d",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "母亲节快乐",
+      "浪姐5期待你[心]",
+      "注意安全",
+      "请关注下本土安徽泄洪的情况"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0102",
+    "source_user_hash": "d7f3b2c922db",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "勿忘国耻",
+      "勿忘国耻 吾辈自强！",
+      "守望和平 吾辈自强🙏🙏",
+      "吾辈当自强[加油][加油][加油][加油]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0103",
+    "source_user_hash": "3fefcf4c16b5",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史，勿忘国耻。",
+      "勿忘国耻！",
+      "祝伟大祖国繁荣昌盛。",
+      "国庆快乐[亲亲][抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0104",
+    "source_user_hash": "11356851ae8c",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 11.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "勿忘国耻，吾辈自强！",
+      "日本全民间谍，有小礼无大义。",
+      "啊啊啊啊啊啊王一博太帅了！！！",
+      "哇哇哇🟡🟡🟡"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0105",
+    "source_user_hash": "dcd22f46ddc4",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 64.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "您好，恭喜您的视频荣登视频飙升榜，全部领域第1名，榜单可在【发现页-视频-视频飙升榜】中展示您的上榜信息，榜单小时级更新请尽快查看哦~快来查看分享你的上榜视频吧~榜单戳》http://t.cn/A6NWWzNq",
+      "勿忘国耻，吾辈自强！",
+      "您好，恭喜您的视频荣登视频飙升榜，旅游出行领域第1名，榜单小时级更新请尽快查看哦~快来查看分享你的上榜视频吧~榜单戳》http://t.cn/A6jEHMof"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0106",
+    "source_user_hash": "437c5b74e629",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 10.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "勿忘国耻，吾辈自强",
+      "铭记历史，不忘初心！",
+      "国家统一是不可阻挡的历史大势！",
+      "早日统一台湾！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0107",
+    "source_user_hash": "39da39668d09",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 9.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "勿忘国耻 吾辈自强",
+      "勿忘国耻，吾辈自强！",
+      "勿忘历史，吾辈自强！",
+      "勿忘历史，吾辈自强!"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0108",
+    "source_user_hash": "48c53d2de5d1",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "牢记历史，勿忘国耻！",
+      "勿忘历史",
+      "哥哥五哈录制开心[春游家族][春游家族][春游家族]",
+      "宝贝想你[亲亲][亲亲]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0109",
+    "source_user_hash": "0a3a243449b5",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "特别理解这种感受[泪][泪][泪][泪][泪][泪]",
+      "依依好会写，感受到了内心的细腻",
+      "想起了同样的场景载我老爹[心]老爸一直说姑娘你慢着点[哈哈][哈哈][哈哈]下车还和朋友说：这孩子开车太猛了😂😂",
+      "[抱一抱][抱一抱]开起来一定很爽"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0110",
+    "source_user_hash": "d24e0e6d4b7e",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 33.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "王一博你是天空中的一颗星星，而我是望星的人💚💚💚@UNIQ-王一博",
+      "你们的财经V plus客服不回答解决会员问题，没有人管的么",
+      "世界上有三种人最可爱，你知道是哪三种吗？分别是早上的你，中午的你，和晚上的你💚💚💚@UNIQ-王一博",
+      "全世界都不应该错过他！💚💚💚@UNIQ-王一博"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0111",
+    "source_user_hash": "22720483d635",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 18.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "大千世界，处处繁花似锦，能够遇见你三生有幸💚💚💚@UNIQ-王一博",
+      "送我微博会员",
+      "得成比目何辞死，愿作鸳鸯不羡仙💚💚💚@UNIQ-王一博",
+      "送我微博会员"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0112",
+    "source_user_hash": "b0b943a1c65b",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "真的节约了吗[微笑]",
+      "我终于是小金粉啦[awsl][awsl]",
+      "你的笑容就是最美的風景，煉小爺每天都要開心喔～[愛你][愛你][愛你] http://t.cn/A6Dp78VS"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0113",
+    "source_user_hash": "2d89a69b82c1",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 32.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "你的眼睛真好看，里面有日月，冬夏，晴雨，山川，花草，鸟兽💚💚💚@UNIQ-王一博",
+      "夫何瑰逸之令资，独旷世以秀群💚💚💚@UNIQ-王一博",
+      "我喜欢你，就像秋叶流落晚亭，念你而行💚💚💚@UNIQ-王一博"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0114",
+    "source_user_hash": "6a531855cfec",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 24.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "看你骨骼惊奇是块跟我谈恋爱的好料💚💚💚@UNIQ-王一博",
+      "你的眼睛真好看，里面有日月，冬夏，晴雨，山川，花草，鸟兽💚💚💚@UNIQ-王一博",
+      "王一博 你的可爱超标了💚💚💚@UNIQ-王一博",
+      "为了任开了会员"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0115",
+    "source_user_hash": "a42f2549a41e",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 6.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "坚决向毒品说不！",
+      "拒绝毒品"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0116",
+    "source_user_hash": "d3ccd71fb8af",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "别吞[微笑]",
+      "送我隐藏",
+      "高冷！[鼓掌][打call]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0117",
+    "source_user_hash": "789dacfed480",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好滴#好爸爸的100问#",
+      "哇塞我都喜欢"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0118",
+    "source_user_hash": "64eb4de2613a",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 75.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "抽我//@微博活动:@悠游吉林 携手微博，联合搜寻最会过年的吉林人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味#  #吉林年味#",
+      "#吉林年味# //@微博活动:@悠游吉林 携手微博，联合搜寻最会过年的吉林人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味# #吉林年味#",
+      "抽我//@微博活动:@湖北文旅 携手微博，联合搜寻最会过年的湖北人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味#  #湖北年味#",
+      "#湖北年味# //@微博活动:@湖北文旅 携手微博，联合搜寻最会过年的湖北人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味# #湖北年味#"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0119",
+    "source_user_hash": "4e4b0ba1af9e",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 112.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "#微博首个游戏动漫展要来了# 转发了揪我一次没中过希望中奖[求关注][求关注]@微博活动 @微博抽奖平台 //@微博活动:【转发有礼🎁】#微博首个游戏动漫展要来了# 2025年5月3日-5日，我们在北京·中国国际展览中心（顺义馆）等你！[比耶]#微博游戏动漫展# #WAW2025#",
+      "支持#微博首个游戏动漫展要来了# //@微博活动:【转发有礼🎁】#微博首个游戏动漫展要来了# 2025年5月3日-5日，我们在北京·中国国际展览中心（顺义馆）等你！[比耶]#微博游戏动漫展# #WAW2025#",
+      "#金蛇添福迎新年 # 转发了[2025][求关注]@微博开新年 @微博抽奖平台 //@微博活动:2025#金蛇添福迎新年 #来啦！集齐6种添福卡，除夕分最高2025元！[拜年]立即参与👉http://t.cn/A6uCRbjK",
+      "#金蛇添福迎新年 # 集卡行好运//@微博活动:2025#金蛇添福迎新年 #来啦！集齐6种添福卡，除夕分最高2025元！[拜年]立即参与👉http://t.cn/A6uCRbjK"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0120",
+    "source_user_hash": "d1d289563058",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 72.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "//@微博活动:@活力广东 携手微博，联合搜寻最会过年的广东人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味# #广东年味#",
+      "//@微博活动:@文旅北京 携手微博，联合搜寻最会过年的北京人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味# #北京年味#",
+      "#微博寻年记# //@微博活动:@文旅北京 携手微博，联合搜寻最会过年的北京人！【🎁转发+评论】抽3位小伙伴送便携电热杯[比耶]#身边的年味# #北京年味#"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0121",
+    "source_user_hash": "31d91bca96ea",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 33.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "要是我热评第一的话 我就表演胸口碎大石头[doge][doge]",
+      "怎么觉得邓奶奶不理解撒狗粮是什么意思，理解的是表面文字吧[可爱][可爱]",
+      "要是我热评第一的话 我就表演胸口碎大石头[doge][doge][doge]",
+      "把陶红逼走，现在好了，自己也被抛弃，该[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0122",
+    "source_user_hash": "09130c29e8d1",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 39.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "看来邓老师的幽默细胞是土生土长的[允悲]",
+      "太可爱了邓奶，笑不行了",
+      "从王子变青蛙认识陈乔恩，在内地拍了不少剧，都不能凸显出你的演技，这一次让我们看到了不一样的陈乔恩，戏路一下子宽多了，希望日后乔恩能多接有质量，有挑战的角色。",
+      "让人恨不起来的突破自我的演技姐姐，加油期待长公主再见了舒然 http://t.cn/A6QKdIne"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0123",
+    "source_user_hash": "4a09a16b0ebd",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "女神看看我发的信[泪]@黄圣依",
+      "邓老师太可爱了哈哈哈哈哈",
+      "哥看看我发的信@陈坤 [泪]",
+      "单曲循环模式已开启"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0124",
+    "source_user_hash": "9ec5395a6a8f",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 24.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "饱饱你是一块香香软软小蛋糕[送花花][送花花][送花花]",
+      "我本来是来看你的，没有想到粉上了邓奶[送花花]",
+      "21儿童节快乐哦，永远保持童真嘻嘻[送花花][送花花][送花花]",
+      "妈妈的爱总是无条件的，真好"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0125",
+    "source_user_hash": "108d3d9e27b0",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "母亲节快乐[赞啊]",
+      "这是个“想换女儿”的节目[允悲][允悲]",
+      "母亲节快乐[赞啊]",
+      "女神节快乐[心][心][心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0126",
+    "source_user_hash": "b9e0b068155d",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "#黄圣依# #黄圣依是女儿是妈妈# 美美哒[打call]",
+      "紫色可太有韵味啦！吼吼看[憧憬]",
+      "#黄圣依是女儿是妈妈# 看起来[打call]",
+      "最爱你的人是你的爸妈"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0127",
+    "source_user_hash": "a2be190b1e78",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 15.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "小名叫邓邓，妈妈的姓",
+      "对你严厉，是因为爱你呀，抱抱十一岁的你",
+      "好心疼。母亲很强势，但是对女儿很严格，功课一定要好，真牛",
+      "真情实感！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0128",
+    "source_user_hash": "c65ed714f061",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "哇[太开心][太开心]",
+      "真妈粉是这样的[污]",
+      "喜欢你！  喜欢看乔恩姐演的每一部电视剧！平静与繁华并存的美好",
+      "姐的生活我的梦！！[跪了]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0129",
+    "source_user_hash": "ddd8f29869e1",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 20.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "都一样[泪]",
+      "这封信好温柔，母女之间那些说不出口的话，都是悄悄藏在一封信里[爱慕][爱慕][爱慕]",
+      "刚吃完饭[嘻嘻] 隔着微博照片看你在吃什么[泪]",
+      "哎呀，我也吃个冷面试试"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0130",
+    "source_user_hash": "4de5b6557a73",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 8.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "黃聖依點讚點讚",
+      "和妈妈的旅程",
+      "點讚評論",
+      "是该好好珍惜真正的亲情了，加油"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0131",
+    "source_user_hash": "c40c78a25e78",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 47.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "说她的人都是不如她的 我觉得姐姐超美 漂亮有什么用 要有脑子 气质 漂亮的女人多了去了 只有你的气质才华是带不走的 我不喜欢她前夫 一看就是吸她氧气的 因为长的不帅 现在姐姐独自美丽 优秀",
+      "@Andy珏：不愧是上海交大附中 和北影校花 [爱心][爱心]比心",
+      "每个女生都有无限可能[哇][哇]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0132",
+    "source_user_hash": "2ddcb1eb3694",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "@邸江海: 推荐看一下70多万字的长篇小说《媳妇幸福秘方》，上网搜索 “媳妇幸福秘方  邸江海  晋江”这几个字即可阅读，非常适合做成电视剧。",
+      "程潇粉丝来报道",
+      "推荐看一下70多万字的长篇小说《媳妇幸福秘方》，上网搜索 媳妇幸福秘方 这几个字即可阅读，非常适合做成电视剧",
+      "好吃吗[我想开了]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0133",
+    "source_user_hash": "6ab0bc9a59b1",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好耶，宝贝今晚好美[好爱哦]"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0134",
+    "source_user_hash": "05093cb0c440",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "来啦来啦//@胡歌:我正在与@东方卫视番茄台 连麦，快来围观~",
+      "杀青大吉",
+      "诗宝，杀青大吉[心][心]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0135",
+    "source_user_hash": "8f4c532aefb8",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "再度回归上海，期待美丽欧嘉[哇]",
+      "四月和姐姐约会[赢牛奶]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0136",
+    "source_user_hash": "c9ce3145eb64",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "生日快乐",
+      "生日快乐[蛋糕]",
+      "向依姐看齐 做更好的自己[心][心]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0137",
+    "source_user_hash": "3b3c83ad8cb7",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "台湾必归",
+      "[哈哈]姐姐今晚的春晚节目好多[并不简单]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0138",
+    "source_user_hash": "4ff6d27f179a",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "姐姐变得美起来了呢[鼓掌]",
+      "这可太好看了吧！依依女神节快乐[打call]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0139",
+    "source_user_hash": "6b6ef080faa1",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 8.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "你是黄佳格吗",
+      "好美，依依子怎么都好看",
+      "中国人民万岁！",
+      "盛世华诞，爱我中华！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0140",
+    "source_user_hash": "17604ec42e22",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "女神节快乐姐！[打call]"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0141",
+    "source_user_hash": "23c3df680d61",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 11.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "节日快乐，永远年轻漂亮@黄圣依",
+      "勇敢追梦，我们才是自己的女王！",
+      "不败女神@陈乔恩",
+      "这有啥用呀？？"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0142",
+    "source_user_hash": "09ff430f8ab6",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好想姐姐",
+      "小明哥也去看了，射雕确实不错"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0143",
+    "source_user_hash": "65a55a903a65",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 50.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "美[赢牛奶][赢牛奶][赢牛奶]",
+      "收官快乐！你好，黄圣依[求关注]希望姐姐一直幸福！",
+      "你的美丽、温柔、善良、涵养、修养、情深、包容、隐忍、大体…换来的是：无情、无爱、利用、精控、踩底、贬低、钱控、忽悠、画饼、…实在看不下去，尽快逃脱枷锁，走出来，喘口气，一路向阳、活出自己、活出精彩[鲜花][拳头][鲜花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0144",
+    "source_user_hash": "29bee769fda8",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 25.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "蛇年开新篇，璀璨如星辰。让我们一起期待黄圣依大女主[送花花]",
+      "准备好隔着屏幕和姐一起当啦啦队啦[你好]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0145",
+    "source_user_hash": "cf322af8714f",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "@黄圣依 特别的爱给特别的你，生日快乐我的亲！ http://t.cn/RI9ePHL",
+      "老婆[招财进宝][招财进宝]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0146",
+    "source_user_hash": "47f65da55df1",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "别再让你那恶心的前夫上热搜了行不，大家都不想看见他，行行好，污染心灵和眼睛。他不应该再蹭你的名气",
+      "圣依，你应该是何惟芳，而不是胜意！！！！切记！"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0147",
+    "source_user_hash": "3c78faf3e909",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 72.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "以前看杨子采访，以不屑的语气说你没文化，十几年一直以为你是个没内涵又傍大款的女明星，否则被别人那么鄙视为什么不还嘴？这个真人秀才发现，你这么优秀，没有辜负你父母的栽培，杨子太逐利，他利用你的名气和你的工作能力赚利益，你怎么能允许他这么不尊重你啊，你父母得多伤心失望啊！",
+      "游逛马来西亚 好玩吗？"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0148",
+    "source_user_hash": "60c78a3d2196",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "生日快乐[鲜花]",
+      "@黄圣依 特别的爱给特别的你，生日快乐我的亲！ http://t.cn/RI9ePHL",
+      "收到[收到]会和你一起继续关注乡村孩子的[全力以赴][全力以赴]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0149",
+    "source_user_hash": "dc10bac22300",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "ee生日快乐[亲亲][亲亲][亲亲]",
+      "依依生日快乐[可爱]",
+      "收官快乐，ee要永远开心[兔子][爱你]",
+      "加油大女主！[心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0150",
+    "source_user_hash": "406d74e8da6e",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 8.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "祝你生日快乐！心想事成",
+      "生日快乐",
+      "敬请期待",
+      "杀青大吉！！姐姐期待你的精彩表现"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0151",
+    "source_user_hash": "931f37eed2f5",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "回归单身 第一个生日哦财产归你更好 董事长了 生日快乐[蛋糕]",
+      "生日快乐呀姐姐，爱你哦[送花花]",
+      "继续更新的 等她开播新剧吧",
+      "跟着宣传小能手一起沉浸追剧[可爱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0152",
+    "source_user_hash": "c8d702b280b8",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "姐姐，走花路啊！离开爹味男",
+      "小年快乐宝贝[淡淡的]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0153",
+    "source_user_hash": "2659e6be8cca",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "新年快乐宝宝",
+      "我的天姐姐太美了[泪][泪]！！！",
+      "[抱抱][抱抱]我的小狗狗 http://t.cn/A63Mh2ly"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0154",
+    "source_user_hash": "ee02451b8a66",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "支持导演[嘻嘻]",
+      "乌导演生日快乐呀！",
+      "[嘻嘻]支持",
+      "@陈坤 世界上排名靠前的女人……是最好的……其他的什么都不是……我只能被利用[怒][怒][怒]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0155",
+    "source_user_hash": "5ead5a841e25",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 33.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "恭喜发财[鲜花][咖啡][心]",
+      "新的一年一起蛇来运转，巳巳如意",
+      "新年快乐[心][心][心]",
+      "#周冬雨[超话]##可惜我是水瓶座# 周冬雨祝大家“元旦快乐”，BGM放的却是周杰伦的《黑色幽默》，嗯，可能就是随心情选的，是我熟悉的水瓶座，祝这个爱笑的女人2025大展宏图~[努力]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0156",
+    "source_user_hash": "73b5b96ad45d",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待黄圣依[送花花]",
+      "期待黄姐[可爱]",
+      "期待！！",
+      "认真搞事业的姐姐最棒[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0157",
+    "source_user_hash": "e444e4353158",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "搞事业了",
+      "搞事业👏",
+      "恭喜你自由了"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0158",
+    "source_user_hash": "100914ad2bdc",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "精彩的活",
+      "迷人的危险",
+      "这个好看[全力以赴]",
+      "#V力无限[超话]##赵薇# [鲜花][鲜花][鲜花]薇姐，今天你是最美观众，明天你仍是最美演员/导演/歌手/偶像[心][心][心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0159",
+    "source_user_hash": "fe168b22a8b8",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 40.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "祝福姐姐[给你小心心]     希望多多拍戏啊   小时候看你那么多剧[送花花][送花花]",
+      "庆祝你重生！",
+      "李镇长[哇][哇]",
+      "#赵丽颖李秋萍# 从滩涂到新城，@赵丽颖 以李秋萍之名，书写时代拓荒者的坚韧。一砖一瓦筑梦，期待她用角色诠释何为“造城者即造梦者”。#造城者首发预告#[打call] http://t.cn/A6D2diRa"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0160",
+    "source_user_hash": "65c7918f3d6e",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "准备好隔着屏幕和姐一起当啦啦队啦[你好]",
+      "黄姐，我的小闹钟定好了"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0161",
+    "source_user_hash": "9b32883b1dd0",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 6.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "英雄永垂不朽"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0162",
+    "source_user_hash": "f857d0f57e0d",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "期待黄圣依跨年演唱会出场[送花花][送花花]",
+      "还有，你交大附中的！！！上海顶尖公立四校！！你叫杨去考考看！说你没文化！太气人！"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0163",
+    "source_user_hash": "699b7b89642c",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待期待[心][心][心][心][心]",
+      "和姐姐不见不散[哇] http://t.cn/A6mmFwMW",
+      "节日快乐哥",
+      "@陈坤 [悲伤][悲伤][悲伤]不想看鸡汤了……"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0164",
+    "source_user_hash": "35806cf1ebd6",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好棒的福利[开学季][开学季]"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0165",
+    "source_user_hash": "caf88705e56a",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "你好[送花花]",
+      "平时工作太忙，没关注到，看了再见爱人才知道ee的音乐剧，想问问什么时候再演出呀？唱的好棒！喜欢发光的你！",
+      "百年大党    生日快乐"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0166",
+    "source_user_hash": "c48a64301345",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "马尾！我爱你",
+      "视频怎么保存啊？",
+      "啊啊宝贝待会见[doge]",
+      "爱你宝宝[亲亲][亲亲]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0167",
+    "source_user_hash": "c63329cf0dd7",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝宝贝",
+      "爱你❤️",
+      "你终于发自拍了 你知道吗 昨天下午我被人骂了 他们说我往楼下漏水 把阳台上晾的衣服全都打湿了 只有我知道那不是水 是我趴在阳台上想你流的眼泪",
+      "美貌与才华并重，真是令人向往。希望你@鞠婧祎 能带来更多优秀的作品。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0168",
+    "source_user_hash": "6cc44c15f30f",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "早上好鞠姐[送花花]",
+      "好久不见"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0169",
+    "source_user_hash": "7712045d0a02",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝晚安咯",
+      "宝贝晚安😴",
+      "宝宝真漂亮[吹风车][泪]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0170",
+    "source_user_hash": "f66b74a109ea",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "好久了[心]",
+      "卧槽卧槽姐你终于营业了！",
+      "吾辈自强[加油]",
+      "吾辈自强"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0171",
+    "source_user_hash": "8f8cdb38eb90",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老婆老婆[送花花][送花花][送花花]",
+      "六一快乐宝宝，我们做到了[打call]",
+      "啊啊啊啊啊[舔屏][舔屏][舔屏]",
+      "@小祎和小橘子 以匠心晕染复古鞋纹，以热爱描摹百态衣香，云履踏青霄，足底生风云，穿上属于你的复古潮流密码，和@AVIA 品牌代言人@鞠婧祎 一起赋运动以诗韵，步步皆生莲华。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0172",
+    "source_user_hash": "e8e007cf9485",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝元宵节快乐呀[哇][哇]",
+      "宝贝！！！！！[憧憬][憧憬][憧憬]",
+      "宝宝好美[送花花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0173",
+    "source_user_hash": "f851ff99eb35",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老婆早上好",
+      "啊啊啊啊我来了",
+      "老婆[爱慕]",
+      "太好看了叭"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0174",
+    "source_user_hash": "7fdfb276200a",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 6.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老公[亲亲]",
+      "晚安宝贝",
+      "老公[亲亲]#鞠婧祎#",
+      "周末愉快老婆"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0175",
+    "source_user_hash": "f4793ac24d47",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝好好吃饭[爱你]",
+      "宝宝天天开心[哇]",
+      "今日某蜜橘在某小区发出惊天尖叫十分扰民记者通过警方了解到详情警方声称此女子在家被抓时踩着拖鞋穿着睡衣凌乱地对着手机痴笑经过长达三小时的安抚劝调才发现真相原来是鞠婧祎发微博了！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0176",
+    "source_user_hash": "60bfb75aed8f",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 38.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "铭记历史",
+      "语文：难如登天☹️ 数学：难如登天☹️   英语：难如登天☹️ 物理：难如登天☹️    化学：难如登天☹️生物：难如登天☹️ 爱上你：易如反掌🤲😍@鞠婧祎",
+      "＂秋收冬藏，鸟语花香，你是来日方长.＂𝒜𝓊𝓉𝓊𝓂𝓃 𝒽𝒶𝓇𝓋𝓮𝓈𝓉 𝓌𝒾𝓃𝓉𝓮𝓇 𝒯𝒾𝒷𝓮𝓉𝒶𝓃, 𝒻𝓁𝓸𝓌𝓮𝓇𝓈"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0177",
+    "source_user_hash": "b03c345b8490",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "吾辈自强",
+      "铭记历史",
+      "铭记历史"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0178",
+    "source_user_hash": "5e8b9a1e6348",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "吾辈自强",
+      "勿忘历史",
+      "点染双唇宣言，书写自信格调，沉淀先锋态度，演绎百变真我，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探索色彩科学，解锁妆容无限可能。",
+      "恭喜鞠婧祎解锁新代言~[哇]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0179",
+    "source_user_hash": "e31e2f0ff8d7",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史 吾辈自强",
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "好诶！！！",
+      "和@鞠婧祎 一起㊗️高考生们金榜题名 高考顺利 （蜜橘粉丝宝宝们加油[努力]考个心仪的大学，让梦想高飞！✨ ​[亲亲] ）#高考#"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0180",
+    "source_user_hash": "80a3c7497afa",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬先烈",
+      "铭记历史",
+      "宝宝好美",
+      "宝宝早上好[抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0181",
+    "source_user_hash": "4c144c0cf34b",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "不忘历史",
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "🍊💙您好，我是一名普通的打工人，无意间看到了您的照片非常喜欢您，可是我只是一名普通的打工人，我没有钱，您能把自己送给我吗？我希望你不要不识抬举@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0182",
+    "source_user_hash": "dcc07e1ef0f6",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "勿忘历史",
+      "铭记历史吾辈自强",
+      "阿黛[心]",
+      "萌萌糖葫芦"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0183",
+    "source_user_hash": "fcad4bbb5c52",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "吾辈自强"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0184",
+    "source_user_hash": "cf2f76fcf8cb",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 41.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "牢记历史",
+      "婧祎宝宝生日快乐呀 这是我们一起过的第八个生日啦❣️ 爱你的这3255天里 我们并肩作战 携手同行 我愿做万千星辰的一颗，永远守护你💞[鲜花][鲜花]",
+      "宝宝今年的生日我不在[苦涩]但是我在学校无时无刻不在想你呢！你也想我了吗？宝贝？你要记住我爱你！我爱你不是三分钟热度的！天天开心哦！[抱一抱][抱一抱][抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0185",
+    "source_user_hash": "948661b5bada",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 5.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "吾辈自强",
+      "铭记历史，吾辈自强！",
+      "吾辈自强"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0186",
+    "source_user_hash": "e5d3a4d426fb",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "缅怀先烈",
+      "勿忘国耻￼",
+      "铭记历史",
+      "吾辈自强"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0187",
+    "source_user_hash": "c06ae79ded25",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "吾辈自强",
+      "🚞❗完美鞠婧祎来了👋🏻快让开🌱天使美貌🍬甜蜜笑颜🔥作词作曲编舞💐全能豆👑完美舞台🙀表现力💫露脸即吸粉🥳🏅业务能力📖教科书💙@鞠婧祎",
+      "好美好美！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0188",
+    "source_user_hash": "7937c0a54220",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "历史不容遗忘，和平需要捍卫！",
+      "铭记历史 吾辈自强[加油]",
+      "点染双唇宣言，书写自信格调，沉淀先锋态度，演绎百变真我，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探索色彩科学，解锁妆容无限可能。[羞嗒嗒]",
+      "[打call]好棒"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0189",
+    "source_user_hash": "2e2292cda3d0",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 12.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史 吾辈自强",
+      "铭记历史吾辈自强",
+      "好漂亮[亲亲][亲亲]",
+      "我对你是招摇过市、明目张胆、溢于言表的喜欢"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0190",
+    "source_user_hash": "26b057112473",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 9.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史 吾辈自强",
+      "致敬先烈 ！吾辈自强！！",
+      "宝宝拍戏辛苦了"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0191",
+    "source_user_hash": "ee0cf84438c3",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "勿忘国耻",
+      "吾辈自强[好喜欢]",
+      "宝宝生日快乐",
+      "#鞠婧祎歌曲落日未眠# 好听宝宝"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0192",
+    "source_user_hash": "b22f21f2ea9a",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 12.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "吾辈自强",
+      "铭记历史，缅怀先烈，吾辈自强！！",
+      "铭记历史，缅怀先烈，吾辈自强！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0193",
+    "source_user_hash": "05db4147bbf6",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史！",
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "宝宝[送花花]",
+      "宝宝你来啦[送花花]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0194",
+    "source_user_hash": "b34d01788aa8",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 5.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史！",
+      "勿忘历史",
+      "缅怀逝者！",
+      "勿忘历史，缅怀先烈"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0195",
+    "source_user_hash": "0c637767bb85",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 13.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "铭记历史！缅怀先烈！勿忘国耻！",
+      "绝了这组[给力]喜欢，老公与绿色很适配[舔屏]",
+      "想死你了宝贝[悲伤]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0196",
+    "source_user_hash": "536b280fc85d",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬先烈，吾辈自强！！",
+      "牢记历史",
+      "🍊💙你上辈子一定是碳酸饮料吧，不然为什么我一看到你就能开心的冒泡@鞠婧祎🍊💙",
+      "宝宝好美[色]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0197",
+    "source_user_hash": "311bb31dbf58",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 20.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "铭记历史 缅怀先烈 吾辈自强",
+      "🍊💙也幻想过自己是鼓手，是赛车手，是小提琴手，但最后发现还是最想牵你的手@鞠婧祎",
+      "宝宝[好爱哦][好爱哦]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0198",
+    "source_user_hash": "c569caef504c",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "勿忘国耻",
+      "牢记历史！！",
+      "好美[舔屏]",
+      "想你了小宝宝"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0199",
+    "source_user_hash": "fa20f08ec029",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 18.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "吾辈自强",
+      "宝贝六一快乐[亲亲]",
+      "姐姐六一快乐🙂 昨天的杂志尊嘟是太米了🥰 谁能拒绝这么米的杂志呢！ 迫不及待想现在就收到漂亮杂志 ◔.̮◔✧！😉"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0200",
+    "source_user_hash": "d11f317bb36f",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "不忘历史，吾辈自强。",
+      "不远万里 皆为你所奔赴 𝒜𝓁𝓁 𝓂𝓎 𝓂𝒾𝓁𝑒𝓈 𝒶𝓇𝑒 𝒻𝑜𝓇 𝓎𝑜𝓊.🦋"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0201",
+    "source_user_hash": "c0c6f9478815",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史",
+      "铭记历史 吾辈自强",
+      "宝宝萌哟[好喜欢]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0202",
+    "source_user_hash": "7acb27a179de",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 7.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "铭记历史，吾辈自强！",
+      "铭记历史"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0203",
+    "source_user_hash": "5d9c40095910",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史 吾辈自强",
+      "铭记历史，缅怀先烈，吾辈自强！[微笑]",
+      "宝宝萌哟[好喜欢]",
+      "“是初遇时的悸动，是一次又一次的心动.”"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0204",
+    "source_user_hash": "ffc60710b805",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "铭记历史！",
+      "铭记历史",
+      "宝宝[兔子]",
+      "🍊💙我特别喜欢你，想把电脑卖了，给你零花钱，可网管死活不让😭而且还想打我呢为啥🥺🥺@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0205",
+    "source_user_hash": "8b3916f2e1bb",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 11.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬先烈 ！吾辈自强！！",
+      "吾辈自强",
+      "宝宝生日快乐 第六年咯[亲亲]",
+      "宝宝祝你每天都开心[抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0206",
+    "source_user_hash": "6cbef6aaa1c6",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 38.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "缅怀先烈，吾辈自强！",
+      "铭记历史，缅怀先烈，吾辈自强！",
+      "🍊💙今天被领班表扬了，说我踩缝纫机很有天赋，她哪里知道，我根本没有天赋，我踩踏板的频率就是我想你的心跳@鞠婧祎🍊💙",
+      "鞠婧祎💕可可爱爱🎏鞠婧祎🍓善解人意☁️温柔体贴🎊从容淡定🎈无比优秀💧 鞠婧祎🍒神仙颜值🔵惊鸿一瞥💜️明月清风🔶你是全世界最好的鞠婧祎🚗@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0207",
+    "source_user_hash": "832d534c8e53",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 40.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "致敬先烈 吾辈自强",
+      "铭记历史",
+      "宝宝生日快乐",
+      "今天是2025年6月18日，迎来了我们小祎的生日，在这里祝鞠婧祎女士生日快乐，31岁的鞠婧祎正式启航啦，愿以后的生活所行皆坦途所遇皆温暖，所念皆如愿，多喜乐，长安宁，祎！19岁的风吹到了31岁，愿你未来像烛光一样永远明亮，每一岁都有新的成长，每一步都有新的收获，我亲爱的公主殿下生日快乐"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0208",
+    "source_user_hash": "1fcc7b732e28",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 20.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "晚安喔～[月亮]",
+      "鞠婧祎鞠婧祎鞠婧祎",
+      "感觉放松了点，拍戏辛苦啦～[哇]",
+      "🍊💙刚刚不小心被蜜蜂蛰了，半边脸都肿了还有点发紫。查了一下到底是什么蜂，原来是看见你的美貌甘拜下风"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0209",
+    "source_user_hash": "b7cd64a83b7e",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙 世界上有三种命 生命 寿命 还有鞠婧祎迷死人不偿命😭 🍊💙",
+      "绿色才是最有韵味的~",
+      "开机大吉 期待阿黛[抱一抱]",
+      "可惜我文笔不好 不能写下你这十年受的委屈"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0210",
+    "source_user_hash": "b9ff2a38429c",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼。",
+      "formality": "口语化",
+      "avg_unit_length": 4.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝好美",
+      "下午好宝宝",
+      "美美嘟～"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0211",
+    "source_user_hash": "1f3fff423e64",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老公好美",
+      "宝宝明天见",
+      "期待阿黛",
+      "哎呀！阿黛来咯😉 祝我们阿黛同学开机大吉 顺顺利利呀🥳 期待姐姐新角色✌︎˶╹ꇴ╹˶✌︎ 姐姐我们都很爱你😘"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0212",
+    "source_user_hash": "075e77561857",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "早上好呀[抱一抱]",
+      "晚上好宝宝",
+      "宝宝好可爱[打call]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0213",
+    "source_user_hash": "00333bea2692",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "高考加油[羞嗒嗒]",
+      "高考加油！！"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0214",
+    "source_user_hash": "3d1c0b44f6ef",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 49.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "晚安老婆[送花花][送花花][送花花]",
+      "人世间有百媚千红，唯独你是我情之所钟@鞠婧祎",
+      "宝宝生日快乐 永远爱你[送花花]",
+      "生日快乐宝宝🎂  陪你过得第七个生日啦✌️ 一定要好好照顾自己哦 在工作的同时也要好好爱自己  好好感受生活 我会尽自己最大能力给予你支持 我希望你去更远更广阔的天地 去展现你的光芒 我会永远为你骄傲 大胆往前走吧宝宝 每当你转身的时候  一定能看到有我们在你身后！@鞠婧祎 🎂"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0215",
+    "source_user_hash": "3bb3bb7e75ab",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 34.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝啊啊啊漂亮女鹅[给你小心心][抓狂][抓狂]",
+      "宝宝怎么这么美",
+      "祝小鞠生日快乐，愿你在新的一岁里，如星辰般愈发耀眼，每一次亮相都惊艳众人，所有的付出都能收获满满的回报，生活被幸福与欢笑填满，继续肆意绽放属于自己的独特光芒，一路繁花相送～[给你小心心]@鞠婧祎",
+      "宝宝生日快乐 爱与陪伴"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0216",
+    "source_user_hash": "a7ce6bb592a2",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝宝[拜托]",
+      "漂亮宝宝啦啦啦",
+      "宝宝[太开心]",
+      "拍戏辛苦[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0217",
+    "source_user_hash": "2228a67e5cc8",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 48.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝[憧憬]",
+      "晚安宝宝[抱一抱]",
+      "🍊💙 鞠婧祎🥵没有你我要怎么活😭有你的地方就是天堂🎇没你的地方不算人间！🥺我爱你的心人尽皆知😻为了你我愿意粉身碎骨🔥只要能吻你柔软的面颊🥰我愿堕入无底深渊！！！",
+      "婧祎生日快乐呀！匆匆忙忙又是一年生日 过去一年你真的特别棒！我们越来越好了呜呜呜 一起成长的感觉真棒😁👏🏻 谢谢你的坚持和努力 希望你在自己喜欢的领域能够一直闪闪发光 新一岁 继续勇往直前吧～[可爱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0218",
+    "source_user_hash": "cc9febbda733",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "今天是520，想把所有温柔和偏爱，都给独一无二的你💖",
+      "你终于来更新了[泪]",
+      "💙🍊我觉得你接近我就是在害我  害得我好喜欢你呀💙❤️～@鞠婧祎#鞠婧祎月鳞绮纪#",
+      "好美[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0219",
+    "source_user_hash": "cd97508d5525",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 25.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "想你🥰宝宝拍戏辛苦啦",
+      "宝宝好美",
+      "好想你[苦涩]",
+      "鞠婧祎🥰🥰我神魂颠倒🥵🥵躁动的心在放鞭炮🤩🤩我的丘比特在尖叫😇😇荷尔蒙的爆发因为你的到来😍😍神魂颠倒🥵🥵迷恋着你神魂颠倒🤤🤤是你踩碎我的解药🤕🤕全都没关系🥰🥰"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0220",
+    "source_user_hash": "7f04762b5fdb",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 19.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "中午吃饭了吗[比耶]",
+      "中午好呀[笑哈哈]",
+      "🍊💙蛙趣，直到遇见@鞠婧祎  才知道原来美到失语，想到发狂，爱到无法自拔是真的"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0221",
+    "source_user_hash": "2cacd1f58372",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "上帝的珠宝掉落一地 所以我看见满天繁星和你的眼睛💍✨💫@鞠婧祎",
+      "宝贝[亲亲]",
+      "🍊💙我特别喜欢你，想把电脑卖了，给你零花钱，可网管死活不让😭而且还想打我呢为啥🥺🥺@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0222",
+    "source_user_hash": "c14625635e5a",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 37.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝早上好",
+      "宝宝好美",
+      "🍊💙今天扛水泥，工友夸我力气大我瞬间就哭了我扛得动任何东西，就是扛不住想你啊@鞠婧祎 🍊💙",
+      "🍊💙妲己可以晕眩我1.5秒,张良可以控制我2.2秒,东皇也可以压制我2.2秒,墨子大招能眩晕我3.3秒,奕星大招能限制我4秒,老夫子大招能困住我5秒,可是宝宝你的魅力却困了我一辈子@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0223",
+    "source_user_hash": "69c73c7a34e8",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 22.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙宝宝真的好美，每次看到你都感觉像在欣赏一幅画，真是美的不可方物@鞠婧祎",
+      "宝宝 好想你呀"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0224",
+    "source_user_hash": "d67acf35a4aa",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 41.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "🍊💙我特别喜欢你，想把电脑卖了，给你零花钱，可网管死活不让😭而且还想打我呢为啥🥺🥺@鞠婧祎",
+      "我帮人刷了二十年墙壁了，上次在帮一个业主的家刷，突然在刷墙的时候姐姐过来不小心踢倒了我的紫色油漆桶，于是我大喊“我的漆紫！我的漆紫！我的漆紫！”😭😭😭",
+      "老婆老婆"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0225",
+    "source_user_hash": "1ae6333760d2",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 53.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝我想你了",
+      "勾勒旖旎眼波，演绎心动篇章，糅合自然光感，诠释刚柔力量，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 巧妙雕琢立体轮廓，捕捉溢彩光韵美学。",
+      "溯源色彩真谛，激发个性表达，焕耀肌肤光彩，融合摩登自信，以#M·A·C魅可品牌光彩代言人# @鞠婧祎 的精准笔触为语言，诠释刚柔并济的生命力，书写彩妆艺术里的锋芒与优雅。"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0226",
+    "source_user_hash": "fe0f32a9ba54",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝我爱你[抱一抱]@鞠婧祎",
+      "啊啊啊啊啊啊啊啊宝宝[打call]",
+      "🍊💙也幻想过自己是鼓手，是赛车手，是小提琴手，但最后发现还是最想牵你的手@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0227",
+    "source_user_hash": "89beeefeed58",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "晚安宝宝[抱一抱]",
+      "🍊💙宝宝我刚刚吃桃子了，你猜我吃的什么桃子，想你想的无处可逃@鞠婧祎",
+      "早安宝宝[鲜花]",
+      "[求关注][爱你]美神降临"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0228",
+    "source_user_hash": "7bf96d826818",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老婆美美哒(〃'▽'〃)",
+      "漂亮宝宝啦啦啦",
+      "老婆晚上好[春游家族][春游家族][春游家族]",
+      "盲猜一波！鞠姐 周六会发“周末快乐~”“库存一下~”🍊💙"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0229",
+    "source_user_hash": "09a2b5c36933",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "姐姐咋这么美呢～",
+      "晚上好[打call]",
+      "宝宝你来啦！",
+      "生日快乐[送花花][送花花][送花花]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0230",
+    "source_user_hash": "95ff871e217f",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "爱你[爱慕]",
+      "宝宝美[哆啦A梦花心][哆啦A梦花心]",
+      "小宝[爱慕]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0231",
+    "source_user_hash": "0a97223b956e",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 24.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "我有问题数不清，咕叽咕叽冒不停。 我有百万未达成，欠债欠债还不停。",
+      "我是图图小淘气，面对世界很好奇 我是🌲🍊小可爱，面对百万很着急。",
+      "美哇美哇[送花花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0232",
+    "source_user_hash": "4bc540622737",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 21.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "这么快就百万啦小橘子真牛",
+      "姐姐今天辛苦啦[打call][打call][打call][打call]",
+      "宝宝你再不发微博我就没图了[泪]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0233",
+    "source_user_hash": "26d0c6981acf",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 8.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "想你 宝贝拍戏辛苦",
+      "老公老公[心][心][心]",
+      "期待[哇]",
+      "期待你的阿黛"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0234",
+    "source_user_hash": "12870683e8c2",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 49.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "鞠婧祎怎么长这么好看和天上的星星月亮一样，脸蛋怎么比博物馆里的雕塑还完美无瑕,是哪个不负责任的把艺术品偷放出来了，我一定重金感谢他，让我们这些凡夫俗子见到了活生生的绝美仙子，不说了，鼻血狂流不止。@鞠婧祎",
+      "🚞❗完美鞠婧祎来了👋🏻快让开🌱天使美貌🍬甜蜜笑颜🔥作词作曲编舞💐全能豆👑完美舞台🙀表现力💫露脸即吸粉🥳🏅业务能力📖教科书💙@鞠婧祎",
+      "我们很爱你！😚开机大吉，期待早日与阿黛见面",
+      "期待宝宝[兔子]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0235",
+    "source_user_hash": "f78be439b401",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 36.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "救命好绝😍我心跳加速😘呼吸加快😍我净化雾霾的能力赶超热带雨林😊我将成为新的地球之肺🤤我扑通一声把青藏高原跪成盆地😙哭到不再需要南水北调工程😋嚎到产生的风力发电供应全球人民使用",
+      "宝宝[抱一抱]",
+      "期待我们阿黛[亲亲][亲亲]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0236",
+    "source_user_hash": "4c013966c9d6",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 26.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "姐姐[憧憬][憧憬]",
+      "bb我好想你",
+      "和你一起",
+      "科技与鞋履结合，匠心与衣袂交融，足尖裳舞轻鸿，凌波涧腾云履，温柔包裹给予心灵呵护，强力支撑开拓多维空间，共证@AVIA 与品牌代言人 @鞠婧祎 赴约山河云间，踏出时尚律动。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0237",
+    "source_user_hash": "e4dffbd21193",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "好漂亮！",
+      "宝宝太美！！[打call][打call][打call][心][心][心]",
+      "宝宝[太开心]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0238",
+    "source_user_hash": "2ac3a2722540",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝来啦[哇]",
+      "宝宝好美",
+      "祝宝宝《来战》开机大吉[抱一抱]",
+      "开机大吉，阿黛加油！等你霸屏！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0239",
+    "source_user_hash": "189445aa582a",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 62.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "💙🍊你知道吗昨天下午我被人骂了,她们说我往楼下滴水,把阳台上晾的衣服都打湿了,只有我知道那不是水,是我趴在阳台上刷到你的照片被美到流下来的眼泪",
+      "🔊满格讯号🚫容量不够思考💔天真无邪🥺难道一眼到老👀撤回祈祷🔙心愿请勿预告🔇黑屏来电😡转身不敢逃跑🏃@鞠婧祎"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0240",
+    "source_user_hash": "909bee2c1b2d",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 43.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "哇哇哇！好美",
+      "“山林与你同在，我一直都在热爱” 𝙏𝙝𝙚 𝙢𝙤𝙪𝙣𝙩𝙖𝙞𝙣𝙨 𝙖𝙧𝙚 𝙬𝙞𝙩𝙝 𝙮𝙤𝙪 𝙄'𝙫𝙚 𝙖𝙡𝙬𝙖𝙮𝙨 𝙡𝙤𝙫𝙚𝙙",
+      "宝宝生日快乐🎊",
+      "宝宝生日快乐～🎂希望你永远幸福快乐 无拘无束 永做自我 你是最最棒的😚又一起长大咯乖乖 新的一岁平安喜乐 万事顺遂！和你一起奔赴更好的未来🥰前方路途遥远 今后也一起走吧～💙🍊@鞠婧祎 我们永远在你身边"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0241",
+    "source_user_hash": "be7f5c82db78",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝 好想你呀",
+      "宝宝爱你",
+      "期待我们的阿黛宝宝[给你小心心]@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0242",
+    "source_user_hash": "3c9e2139ca91",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "欧尼[可怜]",
+      "宝宝爱你",
+      "可爱可爱[打call]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0243",
+    "source_user_hash": "44c1e94259f9",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 5.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝[色]",
+      "宝贝想死你了",
+      "宝宝[色]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0244",
+    "source_user_hash": "c97e91bebe1d",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 48.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝[抱一抱]",
+      "🍊💙你知道吗？昨天下午我被人骂了，她们说我往楼下滴水，把阳台上晾的衣服都打湿了，只有我知道那不是水，是我趴在阳台上想你流的眼泪",
+      "🍊💙因友情而心生厌恶？因爱情而心生憎恶？姜黎非身世终成谜！💕青丘孤女鞠婧祎姜黎非@鞠婧祎   与同窗们的修行之路隐藏多少谜踪？邀您一同揭秘🤘🏼",
+      "𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚  𝘽𝙖𝙗𝙮 𝙟𝙪𝙨𝙩 𝙝𝙪𝙜 𝙢𝙚 𝙝𝙪𝙜 𝙢𝙚每一次心动的原因，全部都是因为你"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0245",
+    "source_user_hash": "2f16324c3cf8",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 42.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙我去买生蚝回家的路上 生蚝跳下袋子 钻进泥土里 原来这叫蚝喜欢泥😍",
+      "宝宝好美[期待]@鞠婧祎",
+      "🍊💙刚刚不小心被蜜蜂蛰了，半边脸都肿了还有点发紫。查了一下到底是什么蜂，原来是看见你的美貌甘拜下风",
+      "我帮人刷了二十年墙壁了，上次在帮一个业主的家刷，突然在刷墙的时候姐姐过来不小心踢倒了我的紫色油漆桶，于是我大喊“我的漆紫！我的漆紫！我的漆紫！”😭😭😭"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0246",
+    "source_user_hash": "f39869558725",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 42.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙鞠婧祎👩‍🦰，我再说一遍，你是我老婆👩‍🦰，你不是单身👭，你不要✖️再让我听到你说你是单身。这2⃣️个字我不要✖️再听到了🦻🏻，听到🦻🏻没有。我再给你说1⃣️遍，我对你是真心的💓，你是我的老婆🙇🏻，你是我唯一的老婆🧎🏻@鞠婧祎",
+      "好美好美好美",
+      "六一儿童节快乐呀～🐷俊衣小朋友",
+      "🍊💙爱你一辈子 @鞠婧祎  我们一直是一起并肩作战！ 第一你值得！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0247",
+    "source_user_hash": "e95f9fb727fe",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 72.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙今天扛水泥，工友夸我力气大我瞬间就哭了我扛得动任何东西，就是扛不住想你啊@鞠婧祎 🍊💙",
+      "🍊💙鞠婧祎👩‍🦰，我再说一遍，你是我老婆👩‍🦰，你不是单身👭，你不要✖️再让我听到你说你是单身。这2⃣️个字我不要✖️再听到了🦻🏻，听到🦻🏻没有。我再给你说1⃣️遍，我对你是真心的💓，你是我的老婆🙇🏻，你是我唯一的老婆🧎🏻@鞠婧祎",
+      "🍊💙世界上有五种尺，直尺，卷尺，三角尺，游标卡尺，还有I love you very much @鞠婧祎[淡淡的]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0248",
+    "source_user_hash": "43c568654d8a",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 62.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝你怎么这么可爱[亲亲][亲亲]",
+      "一条道上有两个土坡，有一个是有了很多年的有一个是新的，有一天一个人过那个老坡的时候不小心撒了点辣椒面在上面。后来我正好摔了一跤舔到了辣椒面，赶紧爬起来哭着喊:“老坡好辣！老坡好辣！”😭😭😭😭🔥🔥🔥🔥😍😍🥵🥵🥵👊🏼👊🏼"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0249",
+    "source_user_hash": "7d116d07c0d3",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 50.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老公[羞嗒嗒]",
+      "是你打捞起我们#鞠婧祎月鳞绮纪#[锦鲤附体][太开心]",
+      "鞠婧祎🍊灵动演员 ＋满分爱豆＋音色流氓＝全能艺人🍊云合一番脱水播放量破百亿😭芸汐传集均破〖1.34亿〗🔥OST《叹云兮》经久不衰🙃b站百万舞台⓰支💞Q音音源收藏⑦首破百万👏个人单曲【恋爱告急】席卷各平台😘靠实力打破xnb👊🏻『我很满意我自己』鞠姐如是说道😭@鞠婧祎[打call]",
+      "期待宝宝的阿黛[爱你][爱你][舔屏][舔屏]@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0250",
+    "source_user_hash": "059f835864e0",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 6.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "哇好可爱！",
+      "祝你生日快乐！",
+      "鞠婧祎[抱一抱]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0251",
+    "source_user_hash": "164d170091fb",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 33.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "🍊💙你知道吗？昨天下午我被人骂了，她们说我往楼下滴水，把阳台上晾的衣服都打湿了，只有我知道那不是水，是我趴在阳台上想你流的眼泪",
+      "加油加油"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0252",
+    "source_user_hash": "d67608afa3c7",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 78.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "嫁我。（这句话虽然只有短短两个字，却透露出一丝高冷与漫不经心的从容，与人放荡不羁的身影相得益彰，结尾的句号礼貌又不失疏离感恰如其分地显示了本人高贵而优雅的气质美女你真是皎如玉树绝世无其二温其如玉乱我心绪盛世美颜恃靓行凶教科书级别的美貌）",
+      "🍊💙蛙趣 直到遇见@鞠婧祎  才知道原来美到失语 想到发狂 爱到无法自拔是真的"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0253",
+    "source_user_hash": "fc662ba183e3",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝晚安呀",
+      "宝宝[亲亲][亲亲][亲亲]",
+      "六一快乐！老婆[送花花]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0254",
+    "source_user_hash": "f6433f1c2297",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 23.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "姐姐拍戏辛苦啦[抓狂]！要注意休息呀",
+      "🍊💙今天扛水泥，工友夸我力气大我瞬间就哭了我扛得动任何东西，就是扛不住想你啊@鞠婧祎 🍊💙",
+      "为中国航天点赞！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0255",
+    "source_user_hash": "6576dcc9a32a",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 61.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "🍊💙宝贝！！我对你的爱就像拖拉机上山，轰轰烈烈，轰隆隆轰隆隆地德隆呛噼里啪啦稀里丁呤咣啷轰隆隆轰隆隆地德隆呛噼里啪啦稀里哗啦丁呤咣啷轰隆隆德隆呛噼里啪啦稀里哗啦丁呤 …… @鞠婧祎",
+      "宝宝早上好[哈哈]",
+      "以匠心晕染复古鞋纹，以热爱描摹百态衣香，云履踏青霄，足底生风云，穿上属于你的复古潮流密码，和@AVIA 品牌代言人@鞠婧祎 一起赋运动以诗韵，步步皆生莲华。",
+      "履裹琼霄流霞，纹刻繁花秀景，衣掀天地乾坤，步踏星斗万象，踏云霓，破霜华，@AVIA 与品牌代言人@鞠婧祎 破界共览境里璇玑，点亮河汉星辉。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0256",
+    "source_user_hash": "3197ebc41707",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 32.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝晚好呀[羞嗒嗒]",
+      "鞠婧祎🥰🥰我神魂颠倒🥵🥵躁动的心在放鞭炮🤩🤩我的丘比特在尖叫😇😇荷尔蒙的爆发因为你的到来😍😍神魂颠倒🥵🥵迷恋着你神魂颠倒🤤🤤是你踩碎我的解药🤕🤕全都没关系🥰🥰",
+      "宝宝[抱一抱]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0257",
+    "source_user_hash": "d0cc50d44b25",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "啊啊啊宝宝好想你[泪]",
+      "啊啊啊可爱宝宝[羞嗒嗒]",
+      "老婆[爱你]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0258",
+    "source_user_hash": "058c5b5cb2b0",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 10.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝，注意身体啊",
+      "啊啊啊宝宝[给你小心心]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0259",
+    "source_user_hash": "4315163f6684",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 55.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "好！漂！亮！",
+      "点染双唇宣言，书写自信格调，沉淀先锋态度，演绎百变真我，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探索色彩科学，解锁妆容无限可能。[色]",
+      "溯源色彩真谛，激发个性表达，焕耀肌肤光彩，融合摩登自信，以#鞠婧祎MAC品牌光彩代言人#@鞠婧祎 的精准笔触为语言，诠释刚柔并济的生命力，书写彩妆艺术里的锋芒与优雅。[开学季]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0260",
+    "source_user_hash": "755e44ee6435",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝晚上好[开学季]",
+      "宝宝想你[抱抱]",
+      "宝宝晚上好[开学季]",
+      "[吹风车]好可爱"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0261",
+    "source_user_hash": "26ae79c3149c",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 76.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "🚙╭══╮ ╭═══════╮                    ╭╯ 让路       🍊来接阿黛开学 ║               ╰⊙ ═ ⊙╯╰═⊙═⊙══⊙╯ ​​​",
+      "姐姐 生日快乐！🎂🎉这是我喜欢你的第2️⃣5️⃣2️⃣0️⃣天啦！很开心能够一直相互陪伴😚新的一岁希望你平安顺遂✌︎' ֊'永远开心快乐😉 喜欢你是一件超级超级无敌幸福的事情🥰 时间无法为谁而暂停 所以勿念往昔🥺 我们一定会走向更好的未来😊 爱与陪伴🍊💙 我会一直在🥳",
+      "老公老公"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0262",
+    "source_user_hash": "2b9a34583adc",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 26.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝开机大吉",
+      "期待阿黛！[彩虹屁]",
+      "宝宝[哇]",
+      "🍊💙宝宝 你就是世界你就是宇宙 你就是大陆，你就是国家，😍 你就是扰乱我之后又来拯救我的人，你就是神你就是上帝 你就是love 你就是天，你就是上天派来拯救我的精灵@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0263",
+    "source_user_hash": "cd00fa402a8a",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 33.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "期待[打call][打call]",
+      "宝宝好想你 开机大吉 期待阿黛！[卡皮巴拉]",
+      "🍊💙今天我拖地，拖完之后到处是油，我很惊讶，这地不是白拖了吗？然后我找遍了房子看哪里漏油了，原来是我对你的爱拉佛油@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0264",
+    "source_user_hash": "368e05b20c94",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 29.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待鞠婧祎来战[春游家族]",
+      "期待我们阿黛[亲亲][亲亲]",
+      "🍊💙宝宝辛苦了 好好休息捏😘我坦白了 其实我是个侦探 编号是2991 接近你是为了调查你 最后案子没破 我的心却被你破了😍@鞠婧祎",
+      "你说你到底对我施了什么魔法，让我对你一眼心动两眼沦陷！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0265",
+    "source_user_hash": "174e2d999155",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 6.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待[素龙比心]",
+      "非常期待"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0266",
+    "source_user_hash": "e3a1c9f8cafb",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 25.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "滴滴滴[哇][哇][哇]宝宝",
+      "明天见宝宝",
+      "宝宝[哇][哇][哇]",
+      "你美了♀美了👰美了👩我醉了🍷醉了🥂醉了🍻你是我这一辈子最美的玫瑰🌹你美了♀美了👰美了👩我醉了🍷醉了🥂醉了🍻带上我们的誓言🙌远走高飞✈@鞠婧祎."
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0267",
+    "source_user_hash": "dce2520850a7",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 48.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待阿黛[送花花]",
+      "爱你宝宝 开机大吉 特别期待[指定能行]",
+      "雕琢光彩秘钥，妆点素面潋滟，叙写唇间诗篇，点染浪漫景致，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同铺陈肌肤如艺术品般的细腻华章，探索妆容艺术的边界与可能。",
+      "聆听肌肤私语，揭秘光感新生，解码色彩基因，感知流光律动，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探寻色彩密码，以精准配方焕发肌肤活力光彩，启幕无瑕美肌秘章。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0268",
+    "source_user_hash": "4702fc7de3a7",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 18.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "卷王阿黛已就位，开始日夜苦修，早日逆袭修得最强战力，锤震八方！期待与阿黛@鞠婧祎 早日相见～",
+      "期待[哇]",
+      "好厉害！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0269",
+    "source_user_hash": "bbc6533b61a2",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝开机大吉！期待阿黛[吹风车]",
+      "🍊💙互相信任，各自努力。",
+      "漂亮宝贝~给你科普一下辣的级别😬：微辣🌶中辣🌶特辣🌶变态辣🌶还有我想你辣~@鞠婧祎",
+      "“心随你动，情为你燃。” 𝓣𝓱𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓵𝓲𝓯𝓮， 𝓯𝓸𝓻 𝓶𝓮𝓵𝓪𝓽𝓲𝓷𝓰."
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0270",
+    "source_user_hash": "b7dd764b1102",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "今天去乘电梯，电梯只能乘11人，当时电梯里面有10个人，我在电梯门口迟疑了一下还是走进去，进去后。电梯响起超载报警。唉，我心中装着姐姐这个事，终究无法骗过电梯。😍@鞠婧祎",
+      "期待阿黛",
+      "🍊💙永远真诚的小祎和纯爱橘子🍊💙",
+      "好美[打call]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0271",
+    "source_user_hash": "873ca353f6c4",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待阿黛[送花花]",
+      "宝宝[求关注]",
+      "以匠心晕染复古鞋纹，以热爱描摹百态衣香，云履踏青霄，足底生风云，穿上属于你的复古潮流密码，和@AVIA 品牌代言人@鞠婧祎 一起赋运动以诗韵，步步皆生莲华。"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0272",
+    "source_user_hash": "d17f02f37728",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 76.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "#鞠婧祎千香#为姐姐痴😭👊🏻为姐姐哐哐撞大墙😭👊🏻为姐姐痴😭👊🏻为姐姐狂😭👊🏻为姐姐哐哐撞大墙😭👊🏻为姐姐痴😭👊🏻为姐姐狂😭👊🏻为姐姐哐哐撞大墙@鞠婧祎"
+    ],
+    "total_available_comments": 1,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0273",
+    "source_user_hash": "158b0a208b12",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 35.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝期待你[吹风车]",
+      "鞠婧祎上官紫苏❤️鞠婧祎韩芸汐💚鞠婧祎雪飞霜🧡鞠婧祎傅容💖鞠婧祎兰茵💓鞠婧祎林九歌💖鞠婧祎魏枝💕鞠婧祎韩菱纱🖤鞠婧祎阿崖💜鞠婧祎司马忘月💙鞠婧祎雷初夏💗鞠婧祎白素贞❤️鞠婧祎宋茶茶",
+      "期待你的阿黛"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0274",
+    "source_user_hash": "fb08b5c0654a",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 39.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "开机大吉，期待@鞠婧祎 《来战》阿黛[羞嗒嗒]",
+      "宝宝加油[爱慕]",
+      "叮咚~小寿星请许愿，祝@鞠婧祎 小朋友生日快乐🎂你是最棒的，喜欢上你是件特别特别幸福的事情，大胆往前走，爱与陪伴一直都在💙🍊愿你身体健康，平安顺遂，做自己想做的事，手拉手一起成为更好的人，我们爱你😘",
+      "2.#鞠婧祎千香# jjy#鞠婧祎姜黎非# @鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0275",
+    "source_user_hash": "2fdb3fb0605d",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "哎呀，期待鞠婧祎阿黛呀[指定能行][指定能行]",
+      "非常期待",
+      "想把这一年所有的浪漫、温柔与爱都给你@鞠婧祎"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0276",
+    "source_user_hash": "de7ffbce381c",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝爱你！今天见到你很开心 期待阿黛[指定能行]",
+      "期待期待",
+      "宝宝好漂亮☺️今天超棒的🥰期待我们的每一次见面🍊💙期待五大！！",
+      "宝宝今天好美呀！"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0277",
+    "source_user_hash": "c51302bbff58",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 7.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "姐姐开机大吉",
+      "期待宝宝[哈哈]",
+      "祎料之外的小事～",
+      "宝宝生日快乐"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0278",
+    "source_user_hash": "83b45a799bf2",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "期待期待",
+      "老婆最厉害[心]",
+      "勾勒旖旎眼波，演绎心动篇章，糅合自然光感，诠释刚柔力量，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 巧妙雕琢立体轮廓，捕捉溢彩光韵美学。"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0279",
+    "source_user_hash": "0e652cd371d9",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 43.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "你要像蝴蝶一样自由飞翔，不被定义 𝐘𝐨𝐮 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐟𝐥𝐲 𝐥𝐢𝐤𝐞 𝐚 𝐛𝐮𝐭𝐭𝐞𝐫𝐟𝐥𝐲, 𝐧𝐨𝐭 𝐝𝐞𝐟𝐢𝐧𝐞𝐝.",
+      "快进时间⏩忘了到底从那一天起🧐开始变得不喜欢下雨👋想与太阳养成默契😍～好喜欢这场 @鞠婧祎[兔子][兔子][兔子]",
+      "生日快乐[心][心]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0280",
+    "source_user_hash": "41deda6550ce",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 26.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "非常期待",
+      "🚙╭══╮ ╭═══════╮                    ╭╯ 让路       🍊来接阿黛开学 ║               ╰⊙ ═ ⊙╯╰═⊙═⊙══⊙╯ ​​​",
+      "好期待啊啊啊啊",
+      "期待阿黛"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0281",
+    "source_user_hash": "0b52f8af5d75",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 50.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "来了来了——来自#鞠婧祎来战# jjy #鞠婧祎阿黛# ·鞠婧祎·阿黛·来战 客户端",
+      "台宝 台宝 台宝🤧 我每天都生活在痛苦中😫😭 对你情不自禁😿😘 对你言👄不由衷🖕🏻 对自己身🤦🏻‍♂️不由己🤷🏻‍♂️ 有一天我一定🤜🏻会告诉你一切🙌🏻 但也许那是你爱我的最后☝🏻秒💦 ​​​",
+      "哇哦🎉宝宝[爱你][爱你]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0282",
+    "source_user_hash": "b4e6239fdadb",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 17.7,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "婧祎婧祎婧祎婧祎婧祎（胖猫音）#鞠婧祎月鳞绮纪# [老师爱你][春游家族][泪]",
+      "高考加油啊⛽",
+      "高考祝福又来啦"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0283",
+    "source_user_hash": "22ba8de7597c",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 34.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "听说你的意中人是个盖世英雄，我不会盖世，但我会帮你盖被子@鞠婧祎",
+      "有录歌呀",
+      "你是神 🌹你是我的玫瑰 🌹你照亮了我黑暗的生命 让我的世界有了意义 我飞跑我猛跳 ⚡️⚡️我在珠穆朗玛峰顶跳起了探戈💃 💃 你让我意识到神确实存在 😢我爱到泪流不止 💗从此世界不再缺水😁",
+      "好美[给你小心心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0284",
+    "source_user_hash": "07a5acf3f255",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实。",
+      "formality": "书面表达",
+      "avg_unit_length": 44.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "啊啊啊啊啊啊啊",
+      "人间萌物",
+      "溯源色彩真谛，激发个性表达，焕耀肌肤光彩，融合摩登自信，以#M·A·C魅可品牌光彩代言人# @鞠婧祎 的精准笔触为语言，诠释刚柔并济的生命力，书写彩妆艺术里的锋芒与优雅",
+      "聆听肌肤私语，揭秘光感新生，解码色彩基因，感知流光律动，和#M·A·C魅可品牌光彩代言人# @鞠婧祎 一同探寻色彩密码，以精准配方焕发肌肤活力光彩，启幕无瑕美肌秘章。"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0285",
+    "source_user_hash": "4fbad05cff83",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 56.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝[羞嗒嗒]",
+      "🍊💙无语了这谁啊长这么好看和天上的星星月亮一样，脸蛋怎么比博物馆里的雕塑还完美无瑕,是哪个不负责任的把艺术品偷放出来了，我一定重金感谢他，让我们这些凡夫俗子见到了活生生的绝美仙子，不说了，鼻血狂流不止。@鞠婧祎",
+      "想把天上的星星摘给你，却发现它们早就在你的眼睛里。 ​​@鞠婧祎",
+      "这是蛋包饭，这是炒饭，这是我的芳心纵火犯。这是紫薯，这是红薯，这是我的归属。这是宇宙世界，这是海底世界，这是我的全世界。这是扇贝，这是仙贝，这是我的小宝贝🥰😘@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0286",
+    "source_user_hash": "c287bedb95c1",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 9.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "宝宝[抱抱]",
+      "高考加油 祝高考的🍊都金榜题名！",
+      "高考加油！"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0287",
+    "source_user_hash": "3d15861ee37a",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈。",
+      "formality": "书面表达",
+      "avg_unit_length": 34.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "有录歌呀",
+      "宝宝生日快乐呀~喜欢你的第七年~初时是韩芸汐，你用心投入每一个角色，认真对待舞台。自由肆意的生长，未来旖旎迎风，前路坦荡，自由循光！相信你，陪着你，我们一定是一起并肩作战的，要橘事顺利！🍊",
+      "生日快乐宝宝"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0288",
+    "source_user_hash": "bcca776f8dc7",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 69.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "想你啦[亲亲]🍊💙我给你介绍一下莓的种类，“草莓”“蔓越莓”“蓝莓”“你想我莓？”@鞠婧祎",
+      "生日快乐小祎💙🍊不知不觉已经认识第四个年头啦！这一年，从新视线到五大Cosmo，从鸭鸭到Mac，从glass到时尚芭莎，每一次的代言，每一次的红毯，每一个时刻，最闪耀的一面！未来我们也要一起成为更好，更好的人！💙🍊",
+      "🍊💙ପ꒰⑅•ᴗ•｡꒱໊੭ ┊♡┊♡最近手头有点紧🚜。◦⚪︎○ 你能借我手牵牵嘛(๑ᵔ⌔ᵔ๑)੭𖠚ᐝ@鞠婧祎 🍊💙"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0289",
+    "source_user_hash": "6d50367b0ca8",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 30.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "有时候睁一只眼闭一只眼 就是对生活wink咯（>_·）@鞠婧祎",
+      "听说你的意中人是个盖世英雄，我不会盖世，但我会帮你盖被子@鞠婧祎",
+      "有时候睁一只眼闭一只眼 就是对生活wink咯（>_·）@鞠婧祎[好爱哦]",
+      "我要去宇宙了，回来摘星星给你@鞠婧祎 [羞嗒嗒]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0290",
+    "source_user_hash": "295f64f24bf4",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 14.3,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "提前祝宝贝来战开机快乐！加油！",
+      "高考加油！",
+      "我会加油的[锦鲤附体][锦鲤附体][锦鲤附体]"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0291",
+    "source_user_hash": "969a6a3032a5",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 15.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝宝早上好[抱一抱]",
+      "听说你的意中人是个盖世英雄，我不会盖世，但我会帮你盖被子@鞠婧祎",
+      "宝宝晚上好[抱一抱]",
+      "鞠婧祎[送花花]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0292",
+    "source_user_hash": "7ec8dad5dcf7",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 65.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "慢吞吞💨总有借口拖延温存🌈你还想让时间停顿⏳距离☎分寸🏃快收紧到暧昧标准🎈情节即将升温🥵逐渐被加热的气氛🔥将代词调换为我们👭再悄无声息地近身💫幻想画面突然成真🌼@鞠婧祎",
+      "我觉得你真的不是个合格的朋友，你还是改行做我老婆吧",
+      "🍊💙🚞❗完美鞠婧祎来了👋🏻快让开🌱天使美貌🍬甜蜜笑颜🔥作词作曲编舞💐全能豆👑完美舞台🙀表现力💫露脸即吸粉🥳🏅业务能力📖教科书💙@鞠婧祎",
+      "小女子不才💔未得公子青睐🥀 扰公子良久 ，公子勿怪🙏公子向北走，小女子向南瞧👀，此生就此别过了😭难以忘怀💔愿你三冬暖☕️愿你春不寒[拥抱R]愿你天黑有灯💡，下雨有伞☔️"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0293",
+    "source_user_hash": "0f2ac971e3c1",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 54.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "想在你的睫毛上荡秋千[害羞]",
+      "宝宝[羞嗒嗒]",
+      "“先生，我认为文言文比白话文更加简洁”“请举例”  “就好像闭月羞花，沉鱼落雁这句成语不是比白话文更加简洁吗”  “闭月羞花，沉鱼落雁是八个字，该用白话文两个字足矣”  “怎样讲”🤔  “老婆”",
+      "你可以错过黄昏的末班车🚌，可以错过雨后彩虹🌈 ，你可以错过流星雨🌠，可以错过四月的樱花🌸，你可以错过精彩的电影🎦，可以错过奇妙的时光🕰️，你可以错过很多很多 ，但千万不要错过宝藏女孩鞠婧祎@鞠婧祎"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0294",
+    "source_user_hash": "f66b011210d0",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 27.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "老婆，你来了",
+      "宝贝你来啦",
+      "🍊💙有一说一，鞠婧祎你长得真的实在，真的，有点点，可能吧，就是，那种感觉，估摸着好像是，等一下，我想起来了，就是就是就是，那个啊，就是很像我老公@鞠婧祎🥹",
+      "宝宝[舔屏][抱一抱][抱一抱][抱一抱]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0295",
+    "source_user_hash": "04656a65b99e",
+    "language": "Chinese",
+    "archetype": "Critical / 批判保守者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；喜用表情包。",
+      "formality": "口语化",
+      "avg_unit_length": 16.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "#鞠婧祎月鳞绮纪#你是短暂的花朵，也是长久的琥珀",
+      "宝宝早上好呀",
+      "#鞠婧祎月鳞绮纪#此人只应天上有，人间难得几回闻",
+      "好好吃饭好好休息[泪]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0296",
+    "source_user_hash": "386d757c3839",
+    "language": "Chinese",
+    "archetype": "Cultural / 传统价值观持有者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "简短精炼；语气强烈。",
+      "formality": "口语化",
+      "avg_unit_length": 14.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "你说你到底对我施了什么魔法，让我对你一眼心动两眼沦陷！",
+      "信你，爱你，支持你！！",
+      "宝宝好漂亮"
+    ],
+    "total_available_comments": 3,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0297",
+    "source_user_hash": "4d542e798060",
+    "language": "Chinese",
+    "archetype": "Skeptical / 怀疑调侃者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 37.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "爱你宝宝[心]",
+      "鼓点敲响心跳波动🌹气质清冷肤白貌美🍯初春柔情含你眼波🏵风情万种见你妩媚知晓春天💐澄澈明亮长情只因遇见你✨万般柔情在心头💍想牵着你度过这个浪漫的WhiteNight 💝@鞠婧祎",
+      "宝宝好美啊[亲亲]",
+      "🍊💙今天扛水泥，工友夸我力气大我瞬间就哭了我扛得动任何东西，就是扛不住想你啊@鞠婧祎 🍊💙"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0298",
+    "source_user_hash": "9883705629ab",
+    "language": "Chinese",
+    "archetype": "Educator / 事实科普与理性分析者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 28.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "“当玫瑰降临的时候，神明就计划好这场名为救赎的相遇.”",
+      "宝宝六一快乐！[锦鲤附体]最近上海降温注意保暖[锦鲤附体]"
+    ],
+    "total_available_comments": 2,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0299",
+    "source_user_hash": "2b2d85f9232b",
+    "language": "Chinese",
+    "archetype": "Neutral Observer / 客观旁观者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；语气强烈；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 58.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_comments": [
+      "#鞠婧祎[超话]##祎料之外的小事# 在橘色晚霞下肆意奔跑，海风裹挟着自由在耳畔低语，任凭潮声漫过脚踝，温热的沙粒会记住你每一个跳跃的瞬间🌊期待每「祎」件意料之外的小事，也期待和你度过每一次心动💓//@鞠婧祎:同乐！！嘻嘻",
+      "宝宝生日快乐吖[爱慕]",
+      "#鞠婧祎[超话]#生日单曲「落日未眠」已在@QQ音乐 @酷狗音乐 @酷我音乐 上线啦～当橘子海的浪花拍打地平线，海风悄悄写下送给傍晚的十四行诗🌊和@鞠婧祎 一起，在日落之后继续热爱🍊🎵祝亲爱的你，生日快乐！",
+      "生日快乐宝贝[亲亲]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  },
+  {
+    "persona_id": "P_ZH_0300",
+    "source_user_hash": "f67d6eac5e45",
+    "language": "Chinese",
+    "archetype": "Supportive / 包容友善支持者",
+    "profile_bio": "社交网络普通活跃用户。",
+    "commenting_habits": {
+      "summary": "表达详实；喜用表情包。",
+      "formality": "书面表达",
+      "avg_unit_length": 31.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_comments": [
+      "宝贝生日快乐[送花花][送花花]",
+      "超级好看呀[开学季]",
+      "铅华净敷点绛朱唇，胭脂染颊玉肌生辉，花钿新语睫羽翩跹，魅色新妆绘心容颜，与#M·A·C魅可品牌光彩代言人# @鞠婧祎 携手以经典配方与前沿色彩，定义属于你的真我锋芒印记。",
+      "宝宝 你太棒啦[给你小心心]"
+    ],
+    "total_available_comments": 4,
+    "provenance": "Mined from SoMe social benchmark."
+  }
+]
