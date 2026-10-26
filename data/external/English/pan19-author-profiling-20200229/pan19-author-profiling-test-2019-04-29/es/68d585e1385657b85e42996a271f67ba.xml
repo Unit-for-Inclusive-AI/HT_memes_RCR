@@ -1,0 +1,158 @@
+<author lang="es">
+	<documents>
+		<document><![CDATA[RT @redblobgames: Playing with heuristics for A*, building some interactive diagrams to see their effect. It's a topic I *think* I know alr…]]></document>
+		<document><![CDATA[RT @opensourceway: 10 things to avoid in docker containers | https://t.co/6VLJeP3Avd]]></document>
+		<document><![CDATA[RT @rvkgrapevine: The Environment Agency of #Iceland will be measuring just how much lead, mercury, and other pollutants will rain down on…]]></document>
+		<document><![CDATA[The latest Alpine-based #perl6 Docker container has been released, imbued with the 2018.12 version of Rakudo+MoarVM. https://t.co/L6psDn8BBp
+Just use docker pull jjmerelo/alpine-perl6 or use any of the tags, including the latest 2018.11, just released.]]></document>
+		<document><![CDATA[RT @kraih: Happy 8th birthday #mojolicious! 🎈🎂🎁🎉🎈 https://t.co/qYmOxPtpGH #perl]]></document>
+		<document><![CDATA[@ibexsalad Quién levanta los olivos...]]></document>
+		<document><![CDATA[RT @mres: The launch of Scratch 3.0 is one week from today! Here’s a sneak peek... https://t.co/ScXZC0xQag]]></document>
+		<document><![CDATA[RT @papers_we_love: Serverless Computing: One Step Forward, Two Steps Back - Hellerstein, et al. https://t.co/ZI7v0MJdh0
+
+#aws #CloudComput…]]></document>
+		<document><![CDATA[RT @KabelSistemas: 'Debería haber enviado a la Luna a unos cuantos hombres más' 
+
+https://t.co/HoTSh3k3x2 by Margaret Hamilton, la mujer qu…]]></document>
+		<document><![CDATA[@juanpri No creo que le haya hecho mucha gracia... Pero habrá que ver otra serie de factores también, desde coste de la mano de obra hasta conocimiento medio de inglés, imagino.]]></document>
+		<document><![CDATA[@AlvaroCruz01 @jlantunez @CitySSWorldwide @GrupoCosentino Más, en el área IT:
+@Alhambra_bits , diseñando FPGAs libres para todo el mundo; @bitnami, desde Sevilla liderando la nube; @rti_software, desde Granada y Silicon Valley trabajando con sistemas en tiempo real, y posiblemente muchas más...]]></document>
+		<document><![CDATA[RT @davilagrau: Mandatory! Insightful Machine Learning Comes From Different Data https://t.co/Iy9iPv7Vsr #machinelearning #data #trends]]></document>
+		<document><![CDATA[@daviddeltoro Entonces los empresarios, ¿qué harán?
+1. Hacer contratos de cinco días y una hora.
+2. No hacer contratos de ningún tipo 
+De veras, yo no sé si es que no aprenden, o es que les da igual porque lo que cuenta es el titular, no los efectos reales de la medida...]]></document>
+		<document><![CDATA[RT @HackLabAl: Santa.js Cloud ha dejado un par de charlas bajo el árbol de @AlmeriaJS para ti. Pásate a recogerlas esta tarde en @laoficina…]]></document>
+		<document><![CDATA[RT @ozanjaquette: Thinking about making switch to R? Here is a link to (10 week) R course I developed with amazing TA Patricia Martin https…]]></document>
+		<document><![CDATA[RT @MuseoAlhambra: Si subis a la Alhambra por la Puerta de la Justicia fijaos en el muro lateral. En él podéis ver unas piedras talladas qu…]]></document>
+		<document><![CDATA[RT @juantomas: Ant Colonies Retain Memories That Outlast the Lifespans of Individuals https://t.co/L1ylkWitVY https://t.co/9ELN7s86PD]]></document>
+		<document><![CDATA[@isabelcabezasm Plus you were using lots of emojis already :-)]]></document>
+		<document><![CDATA[And the #perl6 Advent Calendar is completed! Take a look at all, one, or many articles on grammars, web services, machine learning at https://t.co/n3jakfpTk5 https://t.co/JmNfYOAP2O]]></document>
+		<document><![CDATA[RT @carlmasak: Thank you. 🦋
+
+As a companion to the (far too many) issues, also check out the roadmap, which makes a brave attempt at triagi…]]></document>
+		<document><![CDATA[RT @AlfareroUbeda: No hay nada mejor en Navidad que el calor de un hogar. Y un hogar es lo que precisamente hemos querido crear en La Casa…]]></document>
+		<document><![CDATA[RT @ProjectJupyter: Your favorite language not supported in Jupyter Notebooks yet? You can write a kernel to support it more easily than ev…]]></document>
+		<document><![CDATA[RT @codeorg: Wishing you a very Merry Christmas from @codeorg! Or, if you're a programmer, happy Halloween! 😂🎄❤ https://t.co/bC03nf8WVI]]></document>
+		<document><![CDATA[RT @gitlab: Our holiday gift: We're making GitLab ChatOps available to everyone https://t.co/KuKTHfHopw]]></document>
+		<document><![CDATA[@victorianoi Más le vale o le montan un Lizexit pero ya.]]></document>
+		<document><![CDATA[What @carlmasak does is issue-driven development https://t.co/6JtnabFdxk #perl6 #amazing]]></document>
+		<document><![CDATA[RT @opensourceway: What is an SRE and how does it relate to DevOps? with @craigs55 | https://t.co/NGtQR0OFjj #LISA18 https://t.co/QTu1flE1Tl]]></document>
+		<document><![CDATA[RT @radiotopia: Immerse yourself in stories this holiday season. To start, check out our Showcase Series with @theStoopPodcast!
+
+Binge the…]]></document>
+		<document><![CDATA[With amazing references to Botero... https://t.co/fGnOmXXJpD]]></document>
+		<document><![CDATA[RT @CompSciFact: 'The idea that people knew a thing or two in the '70s is strange to a lot of young programmers.' -- Donald Knuth]]></document>
+		<document><![CDATA[RT @cliodiaspora: 🎄 Merry Christmas 
+🎄 Frohe Weihnachten 
+🎄 Joyeux Noël 
+🎄 Feliz Navidad 
+🎄 Buon Natale 
+🎄 Vrolijk kerstfeest 
+🎄 Crăciun fe…]]></document>
+		<document><![CDATA[#perl6 allows you to program the metamodel in many different ways. However, it's not clear how to do it in this particular case: https://t.co/5faRUQoKFM Can you help?]]></document>
+		<document><![CDATA[➕Astrophysical constants on day 9 https://t.co/np5zoyedI0
+➕Cellular automata by @loltimo https://t.co/qRVYaeQTyb https://t.co/YV8sjqXerB]]></document>
+		<document><![CDATA[Are you interested in #Maths?  This year's #perl6 Advent Calendar gives you several occasions to enjoy them:
+➕Number theory, just today: https://t.co/Cvjsvr0Bw3
+➕Machine learning, yesterday: https://t.co/LrhQpqX9cO
+➕Propositional combinatorics: https://t.co/sJZDWxdtCU]]></document>
+		<document><![CDATA[RT @andrewshitov: 🎄 26/25. Overview of the Perl 6 One-Liner Advent Calendar 2018 https://t.co/ICFhRo60sL #perl6 #perl #advent]]></document>
+		<document><![CDATA[RT @ThePerlShop: During the season of giving we're reminded of this quote from Larry, and we're appreciative of what the #Perl community ha…]]></document>
+		<document><![CDATA[RT @juantomas: Una IA logra contar una a una todas las placas solares de EEUU partiendo únicamente de fotos de satélite https://t.co/Xsez5o…]]></document>
+		<document><![CDATA[My answer to Is Russia too strong for US to declare war with? https://t.co/3XQu0Y0uRk]]></document>
+		<document><![CDATA[RT @ThePracticalDev: "asyncio is a library to write concurrent code using the async/await syntax. In that way, even though you write asynch…]]></document>
+		<document><![CDATA[RT @lahoramaker: Europa quiere resucitar su industria microelectrónica con un macroproyecto de 8.000 millones de euros y 29 empresas de sen…]]></document>
+		<document><![CDATA[RT @ThePSF: SciPy 1.2.0 is the culmination of 6 months of hard work - https://t.co/U12J1yz1nS. This will be the last SciPy release to suppo…]]></document>
+		<document><![CDATA[Electric Lit’s 20 Best Novels of 2018 by @ElectricLit https://t.co/Mjky4GBNXc]]></document>
+		<document><![CDATA[Michael Chabon’s Advice to Young Writers: Put Away Your Phone by Erin Bartnett https://t.co/QiowA5jEIp]]></document>
+		<document><![CDATA[RT @Code_LikeAGirl: “4 Ways I Celebrated Women’s History Month This Year” by @khardsonhurley on #CodeLikeAgirl https://t.co/yIX0uf4XnF]]></document>
+		<document><![CDATA[RT @BBCSteveR: Learn Russian with Donald Trump.
+
+Today’s lesson:
+
+“I am all alone (poor me)”
+Я совсем один (бедный я)
+(Ya sov-SYEM o-DIN BY…]]></document>
+		<document><![CDATA[RT @mujerconciencia: La astrónoma Vera Cooper Rubin (1928-2016) falleció un 25 de diciembre.
+Sus mediciones probaron que las curvas de rota…]]></document>
+		<document><![CDATA[RT @opensourceway: Failure is an option in Perl 6 with Elizabeth Mattijsen | https://t.co/Pd6SItOcUU https://t.co/H9lFDcS0EY]]></document>
+		<document><![CDATA[Trump rants while 'all alone' in the White House on Christmas Eve @CNNPolitics https://t.co/uh7axWuqwa]]></document>
+		<document><![CDATA[RT @Spain_inMexico: Visitar #Granada en #invierno es un auténtico espectáculo porque la #nieve suele estar presente a pocos kilómetros de l…]]></document>
+		<document><![CDATA[Y si queréis que lo sigan hciendo, ¡donad, malditos!
+Ya se ha acabado la campaña de este año de @radiotopia , pero nada impide que pulséis en "Donate" y lo hagáis ahora 
+https://t.co/ujMWMkrgrY
+Venga, que es Navidad https://t.co/dGPnpbYc2p]]></document>
+		<document><![CDATA[Tema que, hasta que escuché este podcast 
+https://t.co/0qtIM04o8C de @eltshow no tenía ni idea, siendo como es que a este lado de los Pirineos somos más de Paquito el Chocolatero a la hora del baile coordinado. Los podcasts cambian la vida, supongo... https://t.co/NZOg6KUTO0]]></document>
+		<document><![CDATA[También ha habido un momento #chachaslide con @mereloc @CeciMerelo y @elens_merelo donde he conseguido con un 100% de fiabilidad hacer cosas to the left cuando era to the right y viceversa. 
+https://t.co/uYa6tnR5Ak
+Así que ¡Feliz Navidad everyone!]]></document>
+		<document><![CDATA[Y yo he estado leyendo "The age of American Unreason" mientras saboreaba un excelente Benedictine https://t.co/dHzUbR35pz https://t.co/zJxdRXfmO0]]></document>
+		<document><![CDATA[RT @RealTimeWWII: USA has refused to accept many refugees from Nazi Germany, admitting only 21,000 in last decade- fewer than most neutral…]]></document>
+		<document><![CDATA[@JostoMaffeo ¡Feliz Navidad!]]></document>
+		<document><![CDATA[RT @whitequark: something reminded me to say that nearly all of my FPGA work is done with, and much of it would be impossible without, Yosy…]]></document>
+		<document><![CDATA[Meanwhile, somewhere else in the world:
+Japan rejects Seoul's denial in radar incident - News - NHK WORLD - English https://t.co/u2ulGE4h2e]]></document>
+		<document><![CDATA[In the last day of the Advent Calendar, Luis Uceta writes about number theory and #perl6 https://t.co/Cvjsvr0Bw3 Merry Xmas, everyone!]]></document>
+		<document><![CDATA[RT @PerlConferences: Happy Holidays from TPC in Pittsburgh. Take advantage of our Special Anniversary sale. Tickets are $99 for 99 hours st…]]></document>
+		<document><![CDATA[Paseando por la playa #flickr https://t.co/zIag0iKKN1]]></document>
+		<document><![CDATA[RT @ThePerlShop: Itsuki Toyota demonstrates how to use Algorithm::LDA, a #Perl6 #MachineLearning module, to analyze quotes from Wikiquote,…]]></document>
+		<document><![CDATA[RT @b2gills: @Jinzang @googlenews Actually Perl6 was released on [a] Christmas. Namely back on 2015-12-25.]]></document>
+		<document><![CDATA[RT @perl6org: https://t.co/e83UPfqQqC Merry Christmas Eve everybody!]]></document>
+		<document><![CDATA[@joscani You'll love #perl6 then :-)]]></document>
+		<document><![CDATA[RT @YrsaSig: Merry Christmas everyone - I hope you get lots of books, if not a #Jolabokaflod then at least a trickle. Books are the best pr…]]></document>
+		<document><![CDATA[RT @ThePracticalDev: "Writing proper semantic HTML helps all kinds of users to properly consume content and navigate through your website n…]]></document>
+		<document><![CDATA[RT @mujerinformat: Así es la hacker malagueña que trabaja para el gobierno de Estados Unidos #ElFuturoEsApasionante
+ https://t.co/RB10p6tfPG]]></document>
+		<document><![CDATA[RT @Jose_Oliver: Aperspective and primer on deep learning applications for genome analysis: https://t.co/zJaAxoPL00]]></document>
+		<document><![CDATA[RT @estacion_olvido: En navidad regala cultura...regala libros.
+
+Estamos en Granada:  Librerías Ubú libros, Picasso, Babel, Dauro.
+
+En Guad…]]></document>
+		<document><![CDATA[RT @Kekeflipnote: I wish you a merry christmas 🌟🎄🎄❄️ https://t.co/jgEAzWC3OF]]></document>
+		<document><![CDATA[RT @Tekki_CH: Want to try how fast #Perl6 is?
+https://t.co/dHLlNDZPGq]]></document>
+		<document><![CDATA[RT @AlexHinojo: This pic turns 50 years old today. And it has been in the #PublicDomain since day 1.
+
+Promoting science and knowledge is al…]]></document>
+		<document><![CDATA[RT @charsbar: Will release the next stable DBD::SQLite with sqlite_defensive option next week https://t.co/R5GIXooc2K]]></document>
+		<document><![CDATA[RT @Daurmith: El mundo está a rebosar de gente que canta genial, escribe genial, dibuja genial, y se creen que no. SOIS GENIALES, os digo.]]></document>
+		<document><![CDATA[RT @DrFrancisYoung: In historical perspective, the phantom drone sightings at Gatwick make perfect sense. They are the 21st-century equival…]]></document>
+		<document><![CDATA[RT @slashML: Analyzing r/MachineLearning 2018 posts with Graphext unsupervised NLP algorithms https://t.co/xx3gdAik4z]]></document>
+		<document><![CDATA[RT @el_pais: En Islandia la tradición es regalarse libros después de cenar y pasarse el resto de la Nochebuena leyendo. El mercado literari…]]></document>
+		<document><![CDATA[RT @guadixporeltren: El 31 de diciembre nos concentraremos junto a los vecinos de las comarcas de Guadix-Baza. Por la reapertura de la líne…]]></document>
+		<document><![CDATA[RT @PAT_JarandillaV: Hoy nos visita María Encinar Cañadas, Concejala de Educación y Juventud del Ayuntamiento de Jarandilla de la Vera, par…]]></document>
+		<document><![CDATA[RT @andrewshitov: 🎄 24/25. Reading files with $*ARGFILES in Perl 6 https://t.co/UTevHofHOc #perl6 #perl #advent]]></document>
+		<document><![CDATA[RT @Tyilanmenyn: Another week, another #perl6 #weekly!
+
+https://t.co/tJnzlQtWXP]]></document>
+		<document><![CDATA[RT @opensourceway: Play Tetris at your Linux terminal - #24DaysOfLinux with @jehb | https://t.co/fB6gMvZbul https://t.co/baLzGMoo6C]]></document>
+		<document><![CDATA[RT @perlcareers: It's Christmas eve, have you gotten yourself a present yet? A fresh start with a chance for a career boost might hit the s…]]></document>
+		<document><![CDATA[RT @HackLabAl: 🎶Esta noche es nochebuena y mañana navidad... y pasado, los javascripters más cañeros @AlmeriaJS nos vemos en @laoficinalmer…]]></document>
+		<document><![CDATA[RT @opensourceway: Machine learning with Python: Essential hacks and tricks with @tirthajyotiS | https://t.co/KqmWxDRLcA https://t.co/eOEUt…]]></document>
+		<document><![CDATA[RT @Jose_Oliver: Deep learning in genomics has the potential to inform fields such as cancer diagnosis and treatment, clinical genetics, cr…]]></document>
+		<document><![CDATA[RT @rvkgrapevine: It's a red Christmas in #Iceland this year. No, that doesn't mean we'll be singing The Internationale around the tree.
+ht…]]></document>
+		<document><![CDATA[RT @programarfacilc: Las tecnologías abiertas nos permiten experimentar y romper las fronteras de las grandes compañías tecnológicas. Este…]]></document>
+		<document><![CDATA[RT @Joinup_eu: Did you know that #openaccess has now become mandatory for funding under the @EU_H2020
+programme? #Joinup https://t.co/xDB5F…]]></document>
+		<document><![CDATA[Tips and tricks for frequent hotel users https://t.co/0C7n2faZf1, on how to get a good night sleep (with zero or no accidents) out of a hotel room somewhere in the whole wide world.]]></document>
+		<document><![CDATA[We just reached 900! Yay!
+So if you know and want to know more about Perl 6, check the tag https://t.co/2kzZhjhdnM from time to time and/or create an alert. You'll help. You will be helped. The community will grow. Happiness will ensue. https://t.co/LVeT5IcYSn]]></document>
+		<document><![CDATA[StackOverflow is an essential part of the community for any language or open source tool. Is where people get their question answered, and also where search engines find answers to questions. In the #perl6 community, we are shooting for the 1k question mark https://t.co/Z1Yh944Clr]]></document>
+		<document><![CDATA[The #perl6 tag has reached 900 questions in StackOverflow https://t.co/jsMTFgzdxb
+It's not a whole lot, it's not steadily growing, but at least most questions get answered in very little time thanks to @raiph_mellor, @jnthnwrthngtn and people like them https://t.co/QWLhtgrdBH]]></document>
+		<document><![CDATA[The new #perl6 weekly is out, celebrating the third anniversary of #perl6 itself! https://t.co/YwvWzZHwkv]]></document>
+		<document><![CDATA[RT @PerlWeekly: Propositional combinatorics in Perl 6 https://t.co/Plq6eKEFMe https://t.co/19v7ATjYYS]]></document>
+		<document><![CDATA[RT @lancew: @missbarbell @preaction @sam_evaa /me recommends https://t.co/QLCPBJg3QT for all your #perl and #perl6 golfing needs (other lan…]]></document>
+		<document><![CDATA[Did you know you can also do #machinelearning with #perl6? Titsuki shows us how to use Latent Dirichlet Allocation in his Advent Calendar entry https://t.co/LrhQpqX9cO]]></document>
+		<document><![CDATA[RT @soydigitalwoman: Las mujeres estudiosas y desarrolladoras de la #ai han existido siempre, a pesar de su escasa visibilidad.
+
+https://t.…]]></document>
+		<document><![CDATA[5k from 500 karma in StackOverflow this year... Not bad 
+https://t.co/RPJjmW2h5Y https://t.co/gboDeskxAp]]></document>
+		<document><![CDATA[@carlmasak Let's say then it's going to be out for Christmas!]]></document>
+	</documents>
+</author>

@@ -1,37 +1,37 @@
 {
-  "n_evaluated": 956,
-  "accuracy": 0.36297071129707115,
+  "n_evaluated": 4,
+  "accuracy": 1.0,
   "classification_report": {
     "Homophobic": {
       "precision": 1.0,
-      "recall": 0.17163120567375886,
-      "f1-score": 0.2929782082324455,
-      "support": 705.0
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
     },
     "Transphobic": {
-      "precision": 0.6976744186046512,
-      "recall": 0.5454545454545454,
-      "f1-score": 0.6122448979591837,
-      "support": 55.0
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
     },
     "Non_Anti_LGBT": {
-      "precision": 0.2474747474747475,
+      "precision": 1.0,
       "recall": 1.0,
-      "f1-score": 0.3967611336032389,
-      "support": 196.0
+      "f1-score": 1.0,
+      "support": 2.0
     },
-    "accuracy": 0.36297071129707115,
+    "accuracy": 1.0,
     "macro avg": {
-      "precision": 0.6483830553597995,
-      "recall": 0.5723619170427682,
-      "f1-score": 0.43399474659828935,
-      "support": 956.0
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
     },
     "weighted avg": {
-      "precision": 0.8283233718915338,
-      "recall": 0.36297071129707115,
-      "f1-score": 0.33262373261282846,
-      "support": 956.0
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 4.0
     }
   },
   "confusion_matrix_labels_order": [
@@ -41,19 +41,19 @@
   ],
   "confusion_matrix": [
     [
-      121,
-      13,
-      571
+      1,
+      0,
+      0
     ],
     [
       0,
-      30,
-      25
+      1,
+      0
     ],
     [
       0,
       0,
-      196
+      2
     ]
   ],
   "note": "Metrics are preliminary if only a small --limit sample was processed."

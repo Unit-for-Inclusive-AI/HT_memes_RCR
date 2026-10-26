@@ -1,0 +1,265 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@davidiach @koeppelmann @LivepeerOrg You're missing the forest for the trees
+
+Also, for large holders , this doesn't end up mattering. Either they choose to hold in one address or multiple]]></document>
+		<document><![CDATA[@Hex_Capital @LivepeerOrg Those aren't problems. Those are part of mining]]></document>
+		<document><![CDATA[@mattdlockyer They could. But given the natural entropy of adding conflicting tx too the chain, this is not an optimal strategy]]></document>
+		<document><![CDATA[@itsjefftong @LivepeerOrg More PR can help this next time around. Livepeer community is small]]></document>
+		<document><![CDATA[@jonathanmarcus @LivepeerOrg It's normalized across all assets]]></document>
+		<document><![CDATA[Excited to share our latest blog post!
+
+TLDR: wealth is crypto too concentrated, and we need to figure out permissionless ways to increase distribution of coins
+
+The team @LivepeerOrg has pioneered the way. Excited to highlight their model
+
+https://t.co/5IQbkLLr6d]]></document>
+		<document><![CDATA[Fantastic overview of privacy in Grin - https://t.co/TicX3MCEtU]]></document>
+		<document><![CDATA[@mdudas @cburniske @Square @CashApp While technically correct, this is highly misleading
+
+Square doesn't report GMV as revenue. But they are showing all bitcoin trades as revenue
+
+If you normalize, BTC is &lt;.1% of revenue
+
+Also, $43M of volume is 90 days is &lt; 500k per day.]]></document>
+		<document><![CDATA[Over the last 20 years, consumers have been trained to trust Internet services with their data
+
+How do we untrain them?]]></document>
+		<document><![CDATA[@TheKaryl @preston_vanloon I use an app called robo killer]]></document>
+		<document><![CDATA[@jessewldn What are the use cases for composability beyond "any derivative you can conceive?"]]></document>
+		<document><![CDATA[@pfletcherhill Are we going to see meme markets on Veil?]]></document>
+		<document><![CDATA[In my 18 month window between Pristine and Multicoin, I half-started ~3 businesses, and I can say this was true for all 3 of them
+
+I'm fortunate this time around that my "product" is digesting information and making decisions, which is my favorite thing to do on the planet https://t.co/5SQqlALTLL]]></document>
+		<document><![CDATA[Absolutely mind boggling
+
+"The iPad Pro outperforms every MacBook Pro we tested except for the most recent, most powerful 15-inch MacBook Pro with an 8th generation Intel Core i9 CPU. Generally, these laptops cost three times as much as the iPad Pro"
+
+https://t.co/27ZzkH34Nr]]></document>
+		<document><![CDATA[Awesome read for all of your sharding nerds out there https://t.co/8fudA5tbal]]></document>
+		<document><![CDATA[@antisthenes01 Even competitors have capital constraints]]></document>
+		<document><![CDATA[@3solarmasses There is a middle ground between POW and AWS
+
+A scalable, usable neutral-ish database can be immensely valuable]]></document>
+		<document><![CDATA[@YouNoPronounceM There are over 200 BP candidates who receive blocks in real time. Just 21 who can produce blocks]]></document>
+		<document><![CDATA[20/ However, if you have any priority other than "withstand full frontal government assault" then the options for security and consensus become... looser and more interesting
+
+{fin}]]></document>
+		<document><![CDATA[19/ And to be clear, everything I've said above goes out the window if you assume the attacker is not economically motivated - ie a government
+
+Certainly systems like EOS are far more susceptible to such attacks than Bitcoin]]></document>
+		<document><![CDATA[18/ I don't mean to dismiss the value of academically rigorous BFT consensus research. But it is worth considering how a network can bootstrap it's way to success through sheer economics]]></document>
+		<document><![CDATA[17/ What's my point in all of this? To defend EOS? Not really
+
+Rather, to argue that any sufficiently valuable network becomes extra-ordinarily difficult to attack in an economically profitable way.]]></document>
+		<document><![CDATA[16/ Based on the back of the envelope math above, you just sit still
+
+(also, if it's a cartel, coordinating this attack is even harder as anyone can bail anytime... prisoner's dilemma)]]></document>
+		<document><![CDATA[15/ So if you're a BP cartel, what do you do? Do you just sit still and collect money in a growing system, or do you try to pull off the greatest attack of all time?]]></document>
+		<document><![CDATA[14/ Looking at these round numbers, it seems pretty clear that pulling off this attack profitably would be impossible today, and even still extraordinarily difficult as short markets develop]]></document>
+		<document><![CDATA[13/ Today, the market cap of EOS is about $5-6B. So You'd need to short $2B of EOS
+
+And as the marketcap of EOS grows, the amount in $ terms that you need to short grows too]]></document>
+		<document><![CDATA[12/ So in order to pull this off profitably, you'd need to get a short on 20-25% of all of EOS to break even, and then you'd probably want to be able to short another 30-40% of EOS to justify the risk
+
+Or in other words, you'd need to short 50% of EOS]]></document>
+		<document><![CDATA[11/ If this BP cartel has truly cornered the market on EOS voting, that means that they collectively control/strongly influence a massive percentage of the EOS tokens. Likely somewhere on the order of 20-25% (about 45% of EOS tokens are voting today)]]></document>
+		<document><![CDATA[10/ So the question facing this BP cartel is: do you short EOS and wreck the market, or do you simply collect inflation in a growing system?]]></document>
+		<document><![CDATA[9/
+
+Proving censorship is difficult, but possible, especially if censorship is happening at scale. Unclear how the market would react if this were to happen
+
+Producing invalid state transitions that steal people's money would almost certainly cause the price to fall off a cliff]]></document>
+		<document><![CDATA[8/ Broadly speaking, they can do two things:
+
+1) censor transactions
+2) produce invalid state transitions (take your money without your consent)]]></document>
+		<document><![CDATA[6/  So the real question is, what is that threshold? Is it $1B or $10B?
+
+I suspect it's somewhere in the neighborhood of $10B.
+
+Let's use EOS, which is the butt of most consensus jokes, as a though experiment]]></document>
+		<document><![CDATA[5/ That at some level of scale - in the case of BTC at $100B - that attacking the network is simply not economically worth it.
+
+Of course, this doesn't mean that the network won't be attacked by soverigns who are not economically motivated]]></document>
+		<document><![CDATA[4/ Now, miners could short BTC to hedge the risk and even profit on the way down, but again, they chose not to exploit the system at all
+
+So what does this tell us?]]></document>
+		<document><![CDATA[3/ The only incentive-compatible explanation for miners choosing not to exploit is that if they got caught, they expected the price of BTC to plummet so much that their investments in mining hardware would lose the substantial majority of their value
+
+Or simply ideology]]></document>
+		<document><![CDATA[2/ If #2 was in the fact the case - and there's no way to prove this - then this stands as the single largest game-theoretic test in the history of crypto
+
+For the purposes of this test, let's assume that they did know
+
+What does this mean? What can we extrapolate?]]></document>
+		<document><![CDATA[1/ The Bitcoin CVE bug that allowed miners to violate the supply schedule, but that was never actually exploited, is an incredible case study
+
+There are two fundamental explanations for why the bug wasn't exploited:
+
+1) no miners knew about the bug
+2) miners chose not to exploit]]></document>
+		<document><![CDATA[0/ Thought experiment around consensus, block production, and censorship resistance
+
+TLDR: consensus doesn't matter as much as most people think it matters]]></document>
+		<document><![CDATA[Does the gini coefficient of wealth concentration in a money matter *at the time of launch?*
+
+If so, how do you reconcile ethereum, which had the most concentrated Genesis state of them all?]]></document>
+		<document><![CDATA[@mdudas @stephendpalley @_jillruth @prestonjbyrne @lawmaster @RyanSAdams @Dogetoshi @QWQiao @tonysheng @iam_preethi @hasufl @cryptorae @AriDavidPaul @twobitidiot @AriannaSimpson Appreciate the kind words!]]></document>
+		<document><![CDATA[3/ perhaps the most amazing thing about ethereum is that it has both a strong community and a very aggressive product vision
+
+That may be the winning combo
+
+{Fin}]]></document>
+		<document><![CDATA[2/ But at some point, you have to cross the chasm.
+
+The next marginal bitcoin buyer doesn't care *at all* about Jimmy song, Pierre rochard, safaediean, Bitcoin core, etc
+
+They care about monetary policy, censorship resistance, being self sovereign
+
+Or in other words, the product]]></document>
+		<document><![CDATA[1/ anyone willing to engage in an online community is by definition a power user, an early adopter. In the early days, founders are surrounded by community
+
+Very easy to think this community is all that matters]]></document>
+		<document><![CDATA[0/ I pretty strongly disagree with @NTmoney 
+
+In the early days, community is key
+
+But strong community in no way guarantees perpetual growth. And is possibly counter productive
+
+https://t.co/ypkychGBc1]]></document>
+		<document><![CDATA[@itaidamti @AriDavidPaul @YangVentures @AriannaSimpson I think this is about the right mental framework]]></document>
+		<document><![CDATA[Can anyone make the case for Zcash over Grin (not generic MW implementation, but full Grin implementation)?
+
+Let's assume that enough Zcash users adopt z-addresses in Sapling over the next 6 months that the anonymity set is &gt; 25% of total users and wealth.]]></document>
+		<document><![CDATA[Can anyone make the case for Monero over Grin (not generic MW implementation, but full Grin implementation)?]]></document>
+		<document><![CDATA[@blokchainreport I'm talking about the idea of streaming payments, not the inherent overhead of $.25 base fee that Visa mandates]]></document>
+		<document><![CDATA[Wow, the A12X in the new iPad pros is nearly as fast as my 2-month old, 6-core MBP
+
+The countdown to ARM-based Macs has started. Given the whole "iOS apps coming to Mac" in 2019, I suspect we'll see the first ARM-powered Macs next year
+
+Exciting times ahead! https://t.co/6CRFSTu0Yr]]></document>
+		<document><![CDATA[7/ It is plausible for EOS BPs to buy votes, or trade votes. And there are some accusations that this is already happening
+
+Let's say these parties end up control 15/21 BPs. What should we expect?]]></document>
+		<document><![CDATA[@bloqboard ok done. feedback:
+
+1) The language/semantics around wrapping/unwrapping, making assets availability for liquidity is confusing
+
+2) You should combine the process of loan repayment + getting colateral back into into one tx. The second step was confusing]]></document>
+		<document><![CDATA[20/ In summary:
+
+Peer-to-peer trust on a micro-scale isn't a bug in the legacy payment system, but a feature of basic human social interaction. Trust is a lubricant for building relationships
+
+{fin}]]></document>
+		<document><![CDATA[19/ Even if true, it doesn't matter because each trust relationship is so small]]></document>
+		<document><![CDATA[18/ You could make the argument that there are 10,000,000,000,000,000,000,000 instances each in which micropayments reduce some trust barrier, and that the aggregate of those is greater than the macro central bank trust problem]]></document>
+		<document><![CDATA[17/ There are broadly speaking, 2 forms of trust. Macro and micro.
+
+Crypto in general solves the macro trust problem - that my purchasing power can't be arbitrarily reduced, can't be censored, can't be seized]]></document>
+		<document><![CDATA[16/ When finished, the charging station sees that actual usage was $25.50, so they charge visa for that tesla $25.50.]]></document>
+		<document><![CDATA[15/ "What about public infrastructure"
+
+Let's consider the future magical autonoous tesla that needs to charge. It pulls up to the charging station. No humans. It knows it needs ~$25 of charge. So it uses visa to pre-auth $25, gets the charge.]]></document>
+		<document><![CDATA[14/ "But what about selling anonymized machine data for IOT analytics?" 
+
+Ok great, you can batch the data and send it once a day. You can even stream it live, and receive payment every 24 hours. If they stop paying, you stop sending data. Easy]]></document>
+		<document><![CDATA[13/ First, let's consider a factory/refinery/large scale industrial operation.
+
+There's no need for machines to pay one another. They are all owned by the same company. No point in transferring money from your left pocket to your right pocket]]></document>
+		<document><![CDATA[12/ And then there's machine to machine (M2M) payments. This one is the most vague argument that micropayment proponents make
+
+"But there will be use cases you can't even imagine yet."
+
+Bullshit.]]></document>
+		<document><![CDATA[11/ It sounds nice in theory as each item is delivered, that that the customer pays. Eg as each of the 1M widgets arrives, pay 1/1Mth the total
+
+Why not just pay 50% before, 50% after, and trust the counterparty who you're going to buy/sell the next 1M widgets from anyways?]]></document>
+		<document><![CDATA[10/ Next let's talk about freight / b2b.
+
+Why the hell are invoices are net30? This is mostly a function of the pre-Visa era, when payments were processed with checks. It's also a function of the fact that credit cards aren't really intended for $100K+ b2b transactions]]></document>
+		<document><![CDATA[9/ Even if newspapers could have charged $.10 / article, they would have failed because competitors would've pushed the price down to $0 anyways
+
+Also, it's too mentally expensive for consumers, even the poorest consumers, to make $.10 decisions. Nick Szabo has written about this]]></document>
+		<document><![CDATA[8/ In the era of the Internet, content providers began competing with Facebook, Youtube, Netflix, and the long tail of blogs for the same amount of consumer attention]]></document>
+		<document><![CDATA[7/ Paying for media online. Eg $.10 / article
+
+The problem with online media in the age of the Internet is that their scope of competition increased 1,000,000x. In the paper era, printing presses had to be local, so competition was limited.]]></document>
+		<document><![CDATA[6/ The three examples that micro-payments proponents cite are: paying for media online, net 30 b2b payments, and machine-to-machine payments
+
+Let's walk through each and debunk why they don't matter:]]></document>
+		<document><![CDATA[5/ Prepaid cellphone: consumer trusts carrier to provide the minutes
+Postpaid cellphone: carrier trusts consumer to pay
+Prepaid gas: consumer trusts gas station to provide the gas
+Uber: pre-auth some charge, and finalize exact amount later
+Business freight: pay net 30]]></document>
+		<document><![CDATA[4/ In practice, society solved this hundreds of years ago through trust (aka counterparty risk) and batching of payments. Examples:]]></document>
+		<document><![CDATA[3/ There is a particular elegance to the idea of streaming payments:
+
+Receive one byte of data, pay for one byte of data!
+
+No counterparty risk!]]></document>
+		<document><![CDATA[2/ But trusting a central bank to manage the monetary supply and trusting that the gas station short changed you on the gas that you pre-paid for are very different things]]></document>
+		<document><![CDATA[1/ The foundation for crypto is reducing trust in 3rd parties, therefore allowing everyone to be self-sovereign. This started with Bitcoin and money, and the vision has since expanded to all personal data as part of the broader web3 vision]]></document>
+		<document><![CDATA[0/ A thread on micropayments in which I present a framework for thinking about micro vs macro trust
+
+TLDR: they don't solve a meaningful problem, although the thought of live-streaming payments does sound nice, especially to tech people]]></document>
+		<document><![CDATA[@bloqboard huh? this is what i see https://t.co/nntUjcp2UW]]></document>
+		<document><![CDATA[@bloqboard hey guys, trying to repay a loan that's now 24 hours overdo. When I click the red repay button, it asks me to sign metamask transaction, but metamask isn't asking me to sign anything. please advise?
+
+im the guy who borrowed 2 REP one week ago]]></document>
+		<document><![CDATA[https://t.co/NxJbH2d3rn]]></document>
+		<document><![CDATA[@APompliano For seed investing I think you're right
+
+For late stage investing, market is everything]]></document>
+		<document><![CDATA[Are there any projects/products out there that make it *dead simple* to host and manage your own email/storage/etc?]]></document>
+		<document><![CDATA[Why is the Bitcoin community perpetually negative? What is it about selfish, libertarian, Austrian hoarding that brings out the worst in people?]]></document>
+		<document><![CDATA[@rzurrer @MineFilecoin @polkadotnetwork Ryan, what are you thinking here? The filecoin blockchain is going to be overwhelmingly order book data + where the files are actually stored. This doesn't see that useful for other chains to query?]]></document>
+		<document><![CDATA[Actually market &gt; product and team
+
+https://t.co/RJc17kiCYb https://t.co/bj1Uv2YDPq]]></document>
+		<document><![CDATA[RT @marcan42: Allow me to summarize x86 side channel attacks:
+
+Spectre v1: speculation is insecure by design
+Spectre v2: secure branch pred…]]></document>
+		<document><![CDATA[RT @kaiynne: The fact that Coinbase can get to an 8b valuation selling cryptoassets to retail investors but can’t sell its own equity to th…]]></document>
+		<document><![CDATA[RT @elonmusk: Walked full length of Boring Co tunnel under LA tonight. Disturbingly long. On track for opening party Dec 10. Will be very o…]]></document>
+		<document><![CDATA[Know anyone working on continuous organizations? I wanna talk to them!]]></document>
+		<document><![CDATA[RT @dhruvbansal: 1\ Want to borrow USD using your #Bitcoin or #Ethereum as collateral but worried about giving up control of your assets? (…]]></document>
+		<document><![CDATA[Awesome tool https://t.co/DBwEpRMC2u]]></document>
+		<document><![CDATA[RT @izmeckler: Really proud to be showing the world our work. There are a lot of beautiful ideas in that codebase for scaling cryptocurrenc…]]></document>
+		<document><![CDATA[Is there a list of all the ICOs that were conducted listed chronologically that includes 2016?]]></document>
+		<document><![CDATA[Brutal. An early OMG supporter capitulates, and recounts the path to capitulation. In a couple of words: broken promises. Expect to see more of these in the coming months - https://t.co/GaIuXhmHR9]]></document>
+		<document><![CDATA[@panekkkk @hasufl I don't think this liquidations would be *that* meaningful, but $50M of market sell orders would move ETH quite a bit
+
+Volume can be $10B and the price doesn't have to change if there's $5B of market buys and $5B of market sells
+
+This situation is just straight sells though]]></document>
+		<document><![CDATA[Is there a good dashboard to show stats of Compound? Outstanding loans, assets for borrow, interest rates, and revenue to compound inc?]]></document>
+		<document><![CDATA[- Wow. The bullish case for TikTok. An app where users canott explicitly tell it what they want to see. AI only -]]></document>
+		<document><![CDATA[Robots are coming for all of our jobs, janitor at walmart edition -]]></document>
+		<document><![CDATA[@sassal0x @panekkkk @econoar Yes, that's exactly what I said
+
+The question is why eth 1.x is all of a sudden back on the table. When they committed to focus on 2.0 back in June/July, they knew it was a long ways out
+
+What changed between June and October?]]></document>
+		<document><![CDATA[@panekkkk @econoar Nothing in ETH 2.0 is impacted
+
+But please explain the white block report and Eth 1.x. Remember, vitalik went out of his way circa June to say that FFG and all future work on existing POW is cancelled in favor focusing on eth 2.0
+
+What changed between June and October?]]></document>
+		<document><![CDATA[@Ragnarly @StopAndDecrypt you're obviously taking it out of context. Without a date, it's hard to assign value to that tweet. That was May 2017. And yes, at that time, I was not aware that Ripple Labs was selling so much XRP on the market. So it was a genuine question]]></document>
+		<document><![CDATA[@psycho_sage @bytemaster7 no
+
+this assertion is just stupid
+
+He has $4B, effectively no board to report to, and an army of devs. There are no more than 100 engineering leaders on the planet earth who have these luxuries
+
+What greener pastures could he possibly leave for?]]></document>
+		<document><![CDATA[@econoar @panekkkk Given your role at EthHub, there's a very high probability that you live in an Ethereum-echo chamber]]></document>
+		<document><![CDATA[For those that didn't read all the way through this thread, it's *bullish ETH*
+
+Yes, I give ETH some shit, but if you make it through to the end, you'll realize that this makes me more bullish ETH https://t.co/JWyiQ2YG29]]></document>
+		<document><![CDATA[@Omikronn the thread is bullish ETH...]]></document>
+	</documents>
+</author>

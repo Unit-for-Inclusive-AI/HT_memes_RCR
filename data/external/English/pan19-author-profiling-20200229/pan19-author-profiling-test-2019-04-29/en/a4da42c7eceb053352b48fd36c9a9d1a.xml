@@ -1,0 +1,272 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@KyberSwap Will try late this week / early next week]]></document>
+		<document><![CDATA[Per this tweet, is someone working on an abstraction layer on top of all lending services where I have a default (eg compound), and set some risk parameters and such for higher interest loans?
+
+I think with the right SC logic, this can be made 100% trustless https://t.co/Ia8xfmFYYu]]></document>
+		<document><![CDATA[@scott_lew_is i thought POET was proof of existence that's programmed for written content use case, not full blown CMS?]]></document>
+		<document><![CDATA[@benoror @blockstack @civickey Yes, or just use the public key associated with your private key]]></document>
+		<document><![CDATA[@morganpolotan Assume 24/7 liquidity and seamless access]]></document>
+		<document><![CDATA[@kubakostecki My question said "if you have access to"
+
+I'm trying to delineate between need for access to state-free money, vs need to access some asset that's not local fiat]]></document>
+		<document><![CDATA[Assuming seamless access of Turing-complete plasma chains that inherit security of the main chain, why would anyone want a sidechain with the same state transition machine as the main chain that generates its own security, other than for the sake of sovereignty?]]></document>
+		<document><![CDATA[If you live in a country with a crappy gov/central bank, why store your wealth in a non-productive money asset if you can access a productive asset like S&amp;P 500 or some other equity index instead?]]></document>
+		<document><![CDATA[Excited to participate in a few days! https://t.co/i3pJrMzOws]]></document>
+		<document><![CDATA[3/ This turns out to be an interesting use case that I had previously thought didn't make sense in the web3 stack
+
+Curious for everyone's thoughts. Please weigh in!]]></document>
+		<document><![CDATA[2/ So this got me thinking: if you host the content underlying a CMS on decentralized infrastructure, can you get the best of both worlds?
+
+I think the answer is yes!]]></document>
+		<document><![CDATA[1/ If you read that post, there's a common thread among the challenges of decentralization that self-hosting Ghost users face: setting everything up by hand
+
+Turns out, one of the greatest traits of centralized system is the ability to Oauth into all kinds of 3rd party services]]></document>
+		<document><![CDATA[0/ Since reading this excellent post from the Ghost blog platform, I've been thinking about if decentralized CMS makes any sense.
+
+Because really, if you think about it, Ghost allows for decentralized CMS *today*
+
+https://t.co/IUmQh3aihO]]></document>
+		<document><![CDATA[I'll be going to Devcon4 in Prague! Hope to see you all there!]]></document>
+		<document><![CDATA[RT @RyanTheGentry: 0) I spent the last two days at #CESC2018, and wanted to share a few highlights. 
+
+What were your favorite events, and d…]]></document>
+		<document><![CDATA[@leeorshimron @CelsiusNetwork Nope. Will this week]]></document>
+		<document><![CDATA[Because I have nothing better to do on a Friday night, I reviewed 121 ETH SF submissions
+
+Here are my favorites
+
+Amazing job hackers! https://t.co/lZR4jHkXU1]]></document>
+		<document><![CDATA[Tried out compound finance (to lend) for the first time with $100 of ETH! UX was pretty slick. Will try borrowing later this week
+
+The interest rate graph seems a bit off though. Can't have .2% twice... https://t.co/NCYBK7BW47]]></document>
+		<document><![CDATA[@j_larrieux you should check out what's being built in the EOS ecosystem :)]]></document>
+		<document><![CDATA[And that's a wrap!
+
+{fin}]]></document>
+		<document><![CDATA[Divisible, fungible ownership of NFTs. Clever
+
+https://t.co/AzDkUAqRmi]]></document>
+		<document><![CDATA[Collateralize loans against non-fungible assets
+
+Intriguing
+
+https://t.co/7T8lCUxrPc]]></document>
+		<document><![CDATA[Proxy re-encryption on mobile devices. Impressive
+
+https://t.co/9MEaD8QmSv]]></document>
+		<document><![CDATA[Stress test your smart contract
+
+https://t.co/TvUiUO4iiP]]></document>
+		<document><![CDATA[Augur pro for iOS!
+
+https://t.co/zy1zOCBIaT]]></document>
+		<document><![CDATA[Sell access to your twitter account, one tweet at a time
+
+I guess that's why they call me shilami, right?
+
+https://t.co/6zGv13MHPZ]]></document>
+		<document><![CDATA[A realtime solidity debugger
+
+https://t.co/EZsatnFO1W]]></document>
+		<document><![CDATA[What's better than one stablecoin?
+
+A basket of stablecoins!
+
+https://t.co/4EwclbFzel]]></document>
+		<document><![CDATA[Automatically rebalance a Set using Chainlink oracle
+
+https://t.co/dvDs2wrpRy]]></document>
+		<document><![CDATA[Generate wallets and store them locally, on the fly, no chrome extension required
+
+https://t.co/SOyhJIA2JL]]></document>
+		<document><![CDATA[Quick tool to get paid against accounts receivable
+
+https://t.co/YSxbeQS2Pi]]></document>
+		<document><![CDATA[e-signing on blockchain. Looking at you @jasonlk 
+
+https://t.co/h69sSSwruU]]></document>
+		<document><![CDATA[A better gas profiler
+
+https://t.co/uaDrq33lmL]]></document>
+		<document><![CDATA[Generate DAI collateralized against... your genomic data. If pharma buys the data, they close out the CDP for you.
+
+Very clever
+
+https://t.co/t5mvVNLmz4]]></document>
+		<document><![CDATA[Allow miners to accept gas payments in non-ETH
+
+https://t.co/migs9HOCML]]></document>
+		<document><![CDATA[@antimatter15 Just saw hypermask from ETH SF... cool idea. Can you share more details on how it works?]]></document>
+		<document><![CDATA[Rollup many txs into a SNARK proof, enabling massive scalability
+
+https://t.co/zAufaPI92p]]></document>
+		<document><![CDATA[credit default swap Maker CDPs. awesome
+
+https://t.co/1PmLM3vwmQ]]></document>
+		<document><![CDATA[ETH-gas abstraction to enable a DAI-only P2P payments app
+
+https://t.co/ifeE5FgIXN]]></document>
+		<document><![CDATA[Wrap ENS domains in ERC721 so you can trade them through 0x v2
+
+https://t.co/7a9OkUm7ny]]></document>
+		<document><![CDATA[Dynamic, on the fly gas pricing. Clever
+
+https://t.co/tOtBaEUqiL]]></document>
+		<document><![CDATA[Arbitrage bot between kyber and bancor
+
+https://t.co/9nUtR2rcaV]]></document>
+		<document><![CDATA[Py-EVM with nucypher's FHE
+
+https://t.co/iHQAUy4IOD]]></document>
+		<document><![CDATA[A way for anyone to get exposure to any regulated capital market, anywhere in the world. awesome
+
+https://t.co/AhFkkyzvcX]]></document>
+		<document><![CDATA[A prediction market built not using augur, but using celer + chainlink
+
+https://t.co/AWv1VuQO9W]]></document>
+		<document><![CDATA[*seriously impressive*
+
+@VladZamfir builds cross-shard atomic txs with smart routing
+
+https://t.co/bzthf6sR2F]]></document>
+		<document><![CDATA[Tokenized plasma exits!
+
+https://t.co/ss0iZ1uibQ]]></document>
+		<document><![CDATA[@techbubble Hey Nik, just saw https://t.co/1FkDHTPtGm
+
+I'd love to try this out once it's ready to go. Can you let me know when that is?
+
+Thanks]]></document>
+		<document><![CDATA[A TCR for git commits
+
+Decentralization maximalists, I'm looking at you :)
+
+https://t.co/mEQpDglt7K]]></document>
+		<document><![CDATA[Porting NFTs cross-chain without Cosmos
+
+https://t.co/r4P1U3lZZP]]></document>
+		<document><![CDATA[An end to end gasless on boarding experience for ETH. Seriously cool
+
+https://t.co/w5UwCciVLk]]></document>
+		<document><![CDATA[A TCR for human identity. Clever idea. In some ways, Facebook is just this, but gamified
+
+https://t.co/xq386A8xSD]]></document>
+		<document><![CDATA[Analytics for smart contract usage
+
+https://t.co/NH7qov2gkz]]></document>
+		<document><![CDATA[Clever! An investment platform built using Bloom identity and storing investment contracts as 721s
+
+https://t.co/6IMArxcvRs]]></document>
+		<document><![CDATA[zkSNARKS on ethereum! Obfuscate token balances within a smart contract!
+
+https://t.co/xB9tXAdDvU]]></document>
+		<document><![CDATA[Cool tool to allow anyone to mine ETH into a smart contract, which can then be gifted to anyone/anything based on community vote. Nifty
+
+https://t.co/538WoDxxEq]]></document>
+		<document><![CDATA[My favorite projects from ETH SF, one week late! (been on the road)
+
+Threaded this time]]></document>
+		<document><![CDATA[DNS with infinite TLDs on Ethereum, and somehow integrates with handshake
+
+https://t.co/cZWfTwcPIc]]></document>
+		<document><![CDATA[If you didn't have a chance to attend CESC, here's an awesome summary from our very own @RyanTheGentry ! https://t.co/VX28RHIrR1]]></document>
+		<document><![CDATA[@Nouriel Professor Roubini
+
+I am Stern graduate turned tech entrepreneur turned crypto hedge fund manager.
+
+Would love to grab coffee. I'll be in NYC the week of October 22]]></document>
+		<document><![CDATA[Question: In what world does Apple/phone OEMs not dominate key management?]]></document>
+		<document><![CDATA[RT @VitalikButerin: I officially predict a financial crisis some time between now and 2021.
+
+Not because I have any special knowledge or ev…]]></document>
+		<document><![CDATA[Was watching the Alabama game and there is no good color for drawing a football. My friend thought it was a sweet potato until I added the laces]]></document>
+		<document><![CDATA[The color picker on screenshot mock up is great. It should also be in digital touch drawings]]></document>
+		<document><![CDATA[@tim_cook can Apple add more colors to iMessage digital touch drawings? It's one of my favorite features in iOS but lack of color options limits my expressivity]]></document>
+		<document><![CDATA[@owocki They argued that EOS is not a blockchain because it doesn't have a state trie. Bitcoin doesn't have a state trie]]></document>
+		<document><![CDATA[RT @ali01: Scaling a system past its limits by more than an order of magnitude almost always requires a complete re-architecture.
+
+Layer 2…]]></document>
+		<document><![CDATA[Agreed
+
+The range of applications beyond "money" are going to grow exponentially https://t.co/5kqZ9UflWb]]></document>
+		<document><![CDATA[@coryklippsten @nntaleb There are plenty of old cos that are dying, see Kodak and Sears]]></document>
+		<document><![CDATA[@mccluskey_chris This is a bug of 2018. I expect it will be resolved on a go forward basis with clarity from the SEC
+
+Also, stuff like merkle mining makes it permissionless for anyone to get coins in decentralized projects - https://t.co/5IQbkLLr6d
+#distribut]]></document>
+		<document><![CDATA[Are there any good visualizations of the IPFS network? Please share if you know of an]]></document>
+		<document><![CDATA[3/ Frameworks like the Lindy effect can be useful if you can define the settings/scenarios in which it applies.
+
+So the question is: are there any parameters around the idea of the Lindy effect that make it more useful?
+
+{fin}]]></document>
+		<document><![CDATA[2/ 
+
+The average time a company spends in the S&amp;P 500 is decreasing
+Electric batteries will replace ICE, even though ICE is 100+ years old
+
+On the other hand, we still use forks to eat, and no one seems to have a better solution]]></document>
+		<document><![CDATA[1/ I find the Lindy effect to be not very useful for making predictions. It's a nice story to describe historical phenomena, but there are too many exceptions to the rule for this to really work
+
+Examples:]]></document>
+		<document><![CDATA[0/ A thread on the Lindy effect, with a fun, open question at the end]]></document>
+		<document><![CDATA[8/ In summary, this situations makes it clear that social consensus does matter. Hash power alone does not make a chain successful
+
+{fin}]]></document>
+		<document><![CDATA[7/ Instead, we're left with the status quo - a stalemate in which exchanges don't want to re-enable deposits or withdrawals for either asset. This is net bad for both chains as both chains are effectively unusable right now]]></document>
+		<document><![CDATA[6/ If exchanges list SV, they create the potential for SV's price to go up. The higher SV's price, the more resources that SV miners have to attack ABC
+
+Therefore exchanges have no interest in supporting this]]></document>
+		<document><![CDATA[5/ Given the outstanding threat against ABC, and that exchanges are the most at risk from block-org attacks, exchanges are very clearly not in support of SV]]></document>
+		<document><![CDATA[4/ In order to "win" SV needs to convince both exchanges AND users that it should be worth more than ABC]]></document>
+		<document><![CDATA[3/ Recognizing the credibility of SV's threat, ABC added a checkpointing feature to prevent large block re-orgs. This is technically a point of centralization, but it could be removed at a later date]]></document>
+		<document><![CDATA[2/ 
+
+Unlike the BCH-BTC fork, neither side claimed they would attack the other. There was no "hash war"]]></document>
+		<document><![CDATA[1/ The crux of the fundamental game theoretic challenges around this fork is that SV has publicly stated their intention to attack ABC, and they have publicly showcased that they have enough hash power to make a credible threat]]></document>
+		<document><![CDATA[0/ An analysis of the game theory around the BCH fork
+
+A thread
+
+TLDR: In almost all scenarios, both SV and ABC lose]]></document>
+		<document><![CDATA[Absolutely outstanding read by @morganhousel on how the US economy got from WWII to 2018
+
+https://t.co/I2utjPelg4]]></document>
+		<document><![CDATA[4/ Once this guidance is out, I would expect a new wave of compliant ICOs
+
+I suspect this new wave will not roar like the 2017 wave did. But once there's clarity, I would expect a trickle, and eventually that trickle will turn into a wave
+
+{fin}]]></document>
+		<document><![CDATA[3/ Although the SEC has not yet provided strong guidance, they did say there were aiming to do so in the Paragon announcement
+
+In our circles, rumbling indicate that the SEC will provide guidance of some form in 2019]]></document>
+		<document><![CDATA[2/ The party ended when the SEC made it clear they were paying attention, but failed to provide guidance on what they considered kosher]]></document>
+		<document><![CDATA[1/ If anything, the ICO party has been dead for all of 2018, and we are on the verge of a new ICO party. Private sales like Telegram, Dfinity, Oasis, and others were not ICOs. They private sales of securities to professional investors]]></document>
+		<document><![CDATA[0/ I could not disagree more with "ICO party is over" meme
+
+A short thread
+
+https://t.co/Ub9kKiSUkJ]]></document>
+		<document><![CDATA[What are examples of insurance markets for retail consumers that are large and not legally mandated (car, healthcare, house, etc)?]]></document>
+		<document><![CDATA[RT @backus: Failed early internet businesses seem awfully familiar.
+
+&gt; I basically think all the ideas of the 90s that everybody had about…]]></document>
+		<document><![CDATA[RT @BMBernstein: Many BTC-ers are living in a naive echochamber. The narrative needs to be refined for BTC to win.
+
+We’re on the precipice…]]></document>
+		<document><![CDATA[RT @AriDavidPaul: Looking forward to talking governance and consensus mechanisms on this conference call with @shurder, @KyleSamani , @alex…]]></document>
+		<document><![CDATA[I've been nominated as a candidate for Coindesk's most influential Investor in crypto. If you think I've been influential, I would appreciate your vote! https://t.co/8vacRjBuSd]]></document>
+		<document><![CDATA[Congrats to @alpackaP ! https://t.co/kq6yy6RqNS]]></document>
+		<document><![CDATA[@Peter___o_o Doesn't matter in the long run]]></document>
+		<document><![CDATA[@MustStopMurad See here
+
+https://t.co/oWHm71q4ny]]></document>
+		<document><![CDATA[@MustStopMurad Story of the month bro]]></document>
+		<document><![CDATA[Misspoke here. I mentally skipped a few steps
+
+Hard money comes from supply schedule and inability to Change it
+
+But on a long time scale, other assets like ETH will be considered 98% as hard as BTC. Point still stands https://t.co/basbyVD1fQ]]></document>
+	</documents>
+</author>

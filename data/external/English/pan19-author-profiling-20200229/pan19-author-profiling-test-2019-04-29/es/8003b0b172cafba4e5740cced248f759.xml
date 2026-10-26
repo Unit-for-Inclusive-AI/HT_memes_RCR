@@ -1,0 +1,104 @@
+<author lang="es">
+	<documents>
+		<document><![CDATA[#Paysandu Jueves:Nubes matinales que se disiparán por la tarde. Máxima de 26 C. Vientos del SSE de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Paysandu Miércoles:Chubascos matinales. Máxima de 25 C. Vientos del SSE de 15 a 25 km/h. 60% probab. de lluvia.Noche del Miércoles:Cielo mayormente despejado. Mínima de 15 C. Vientos del SSE de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Tacuarembo Jueves:Nubes matinales que se disiparán por la tarde. Máxima de 26 C. Vientos del S de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Tacuarembo Miércoles:Tormentas dispersas. Máxima de 27 C. Vientos del ESE de 10 a 15 km/h. 60% probab. de lluvia.Noche del Miércoles:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del S de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Rivera Miércoles:Noche del Miércoles:Jueves:]]></document>
+		<document><![CDATA[#Salto Jueves:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del SSE de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Salto Miércoles:Cielo parcialmente cubierto, probabilidad de tormenta. Máxima de 28 C. Vientos del SSE de 15 a 25 km/h. 30% probab. de lluvia.Noche del Miércoles:Cielo mayormente despejado. Mínima de 16 C. Vientos del SSE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Artigas Jueves:Cielo parcialmente cubierto. Máxima de 28 C. Vientos del S de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Artigas Miércoles:Chubascos tormentosos. Máxima de 29 C. Vientos del SSO de 10 a 15 km/h. 80% probab. de lluvia.Noche del Miércoles:Cielo parcialmente cubierto. Mínima de 18 C. Vientos del SSE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Uruguay #Faselunar: Salida lunar: :Hs. Puesta lunar: 9:38Hs. Fase: Gibosa menguante. Luminosidad: 72%. #FaseSolar: Salida del sol: 5:25Hs. Puesta de sol: 19:39Hs.]]></document>
+		<document><![CDATA[#Montevideo Noche del viernes:Chubascos. Mínima de 17 C. Vientos del ESE de 15 a 25 km/h. 50% probab. de lluvia.]]></document>
+		<document><![CDATA[#Montevideo Viernes:Chubascos matinales. Máxima de 22 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Montevideo Noche del jueves:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Jueves:Cielo parcialmente cubierto y viento. Máxima de 21 C. Vientos del ESE de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Noche del Miércoles:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Miércoles:Viento con chubascos matinales. Máxima de 20 C. Vientos del E de 30 a 50 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Trinidad Jueves:Nuboso. Máxima de 25 C. Vientos del SSE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Miércoles:Viento con chubascos matinales. Máxima de 21 C. Vientos del E de 30 a 50 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Montevideo Martes:Nuboso. Máxima de 22 C. Vientos del E de 15 a 30 km/h.Noche del martes:Chubascos de madrugada. Mínima de 17 C. Vientos del E de 25 a 40 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Chuy Miércoles:Lluvia y viento. Máxima de 21 C. Vientos del E de 30 a 50 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Chuy Martes:Cielo parcialmente cubierto y viento. Máxima de 25 C. Vientos del E de 30 a 50 km/h.Noche del martes:Formación de lluvias a última hora. Mínima de 18 C. Vientos del E de 15 a 30 km/h. 70% probab. de lluvia.]]></document>
+		<document><![CDATA[#LaPaloma Miércoles:Viento con chubascos matinales. Máxima de 20 C. Vientos del E de 30 a 50 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#LaPaloma Martes:Cielo parcialmente cubierto y viento. Máxima de 23 C. Vientos del ENE de 30 a 50 km/h.Noche del martes:Chubascos de madrugada. Mínima de 17 C. Vientos del ENE de 25 a 40 km/h. 50% probab. de lluvia.]]></document>
+		<document><![CDATA[#PdelEste Miércoles:Cielo parcialmente cubierto y viento. Máxima de 21 C. Vientos del E de 30 a 50 km/h.]]></document>
+		<document><![CDATA[#PdelEste Martes:Nuboso y viento. Máxima de 22 C. Vientos del ENE de 40 a 55 km/h.Noche del martes:Viento con chubascos a última hora. Mínima de 18 C. Vientos del ENE de 30 a 50 km/h. 30% probab. de lluvia.]]></document>
+		<document><![CDATA[#Montevideo Miércoles:Cielo parcialmente cubierto y viento. Máxima de 21 C. Vientos del E de 30 a 50 km/h.]]></document>
+		<document><![CDATA[#Montevideo Martes:Cielo mayormente despejado. Máxima de 24 C. Vientos del E de 25 a 40 km/h.Noche del martes:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Martes:Cielo mayormente despejado. Máxima de 24 C. Vientos del E de 25 a 40 km/h.Noche del martes:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 25 a 40 km/h.Miércoles:Cielo parcialmente cubierto y viento. Máxima de 21 C. Vientos del E de 30 a 50 km/h.]]></document>
+		<document><![CDATA[#Canelones Martes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Nuboso. Mínima de 15 C. Vientos del E de 15 a 25 km/h.Miércoles:Chubascos. Máxima de 23 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#SanJose Miércoles:Chubascos por la tarde. Máxima de 23 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#SanJose Martes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Cielos que se despejarán a lo largo de la noche. Mínima de 15 C. Vientos del E de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Minas Miércoles:Chubascos matinales. Máxima de 22 C. Vientos del E de 15 a 30 km/h. 50% probab. de lluvia.]]></document>
+		<document><![CDATA[#Minas Martes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del ENE de 25 a 40 km/h.Noche del martes:Chubascos de madrugada. Mínima de 15 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Trinidad Miércoles:Chubascos matinales. Máxima de 23 C. Vientos del E de 15 a 30 km/h. 50% probab. de lluvia.]]></document>
+		<document><![CDATA[#Trinidad Martes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Chubascos. Mínima de 16 C. Vientos del E de 15 a 25 km/h. 60% probab. de lluvia.]]></document>
+		<document><![CDATA[#Durazno Miércoles:Chubascos. Máxima de 23 C. Vientos del E de 15 a 30 km/h. 60% probab. de lluvia.]]></document>
+		<document><![CDATA[#Durazno Martes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Lluvia. Mínima de 16 C. Vientos del E de 15 a 30 km/h. 70% probab. de lluvia. Lluvias de unos 6 mm.]]></document>
+		<document><![CDATA[#Maldonado Miércoles:Cielo parcialmente cubierto y viento. Máxima de 21 C. Vientos del E de 30 a 50 km/h.]]></document>
+		<document><![CDATA[#Maldonado Martes:Cielo mayormente despejado con viento. Máxima de 25 C. Vientos del ENE de 30 a 50 km/h.Noche del martes:Chubascos de madrugada. Mínima de 17 C. Vientos del ENE de 25 a 40 km/h. 30% probab. de lluvia.]]></document>
+		<document><![CDATA[#Rocha Miércoles:Chubascos matinales. Máxima de 21 C. Vientos del E de 25 a 40 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Rocha Martes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del ENE de 25 a 40 km/h.Noche del martes:Chubascos de madrugada. Mínima de 16 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#TreintaYTres Miércoles:Lluvia. Máxima de 22 C. Vientos del E de 15 a 30 km/h. 80% probab. de lluvia. Lluvias de unos 6 mm.]]></document>
+		<document><![CDATA[#TreintaYTres Martes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del E de 25 a 40 km/h.Noche del martes:Lluvia. Mínima de 17 C. Vientos del E de 15 a 30 km/h. 90% probab. de lluvia. Lluvias de unos 12 mm.]]></document>
+		<document><![CDATA[#Melo Miércoles:Chubascos. Máxima de 24 C. Vientos del ESE de 15 a 30 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Melo Martes:Nubes matinales que se disiparán por la tarde. Máxima de 26 C. Vientos del E de 25 a 40 km/h.Noche del martes:Formación de lluvias a última hora. Mínima de 17 C. Vientos del ESE de 15 a 30 km/h. 90% probab. de lluvia.]]></document>
+		<document><![CDATA[#Colonia Miércoles:Cielo parcialmente cubierto. Máxima de 22 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Colonia Martes:Cielo prácticamente cubierto. Máxima de 24 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Cielos que se despejarán a lo largo de la noche. Mínima de 17 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Mercedes Miércoles:Lluvia débil por la mañana. Máxima de 25 C. Vientos del E de 15 a 30 km/h. 60% probab. de lluvia.]]></document>
+		<document><![CDATA[#Mercedes Martes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del E de 15 a 30 km/h.Noche del martes:Lluvia. Mínima de 17 C. Vientos del E de 15 a 25 km/h. 70% probab. de lluvia. Lluvias de unos 6 mm.]]></document>
+		<document><![CDATA[#FrayBentos Miércoles:Chubascos matinales. Máxima de 24 C. Vientos del E de 15 a 30 km/h. 50% probab. de lluvia.]]></document>
+		<document><![CDATA[#FrayBentos Martes:Cielo prácticamente cubierto. Máxima de 24 C. Vientos del E de 15 a 30 km/h.Noche del martes:Lluvia. Mínima de 17 C. Vientos del E de 15 a 25 km/h. 70% probab. de lluvia. Lluvias de unos 6 mm.]]></document>
+		<document><![CDATA[#Paysandu Martes:Nuboso. Máxima de 27 C. Vientos del ESE de 15 a 30 km/h.Noche del martes:Chubascos. Mínima de 18 C. Vientos del ESE de 15 a 25 km/h. 50% probab. de lluvia.Miércoles:Chubascos matinales. Máxima de 26 C. Vientos del ESE de 15 a 25 km/h. 30% probab. de lluvia.]]></document>
+		<document><![CDATA[#Tacuarembo Miércoles:Lluvia. Máxima de 26 C. Vientos del ESE de 15 a 25 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Tacuarembo Martes:Chubascos por la tarde. Máxima de 28 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.Noche del martes:Lluvia. Mínima de 17 C. Vientos del E de 15 a 30 km/h. 80% probab. de lluvia. Lluvias de unos 6 mm.]]></document>
+		<document><![CDATA[#Rivera Miércoles:Lluvia y truenos. Máxima de 27 C. Vientos del ESE de 10 a 15 km/h. 70% probab. de lluvia.]]></document>
+		<document><![CDATA[#Rivera Martes:Formación de tormentas por la tarde. Máxima de 28 C. Vientos del E de 15 a 30 km/h. 80% probab. de lluvia.Noche del martes:Tormentas. Mínima de 17 C. Vientos del E de 15 a 25 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Salto Miércoles:Tormentas dispersas. Máxima de 28 C. Vientos del ESE de 10 a 15 km/h. 60% probab. de lluvia.]]></document>
+		<document><![CDATA[#Salto Martes:Chubascos por la tarde. Máxima de 29 C. Vientos del E de 15 a 30 km/h. 30% probab. de lluvia.Noche del martes:Chubascos con posibilidad truenos durante la noche. Mínima de 19 C. Vientos del ESE de 10 a 15 km/h. 70% probab. de lluvia.]]></document>
+		<document><![CDATA[#Artigas Martes:Noche del martes:Miércoles:]]></document>
+		<document><![CDATA[#Uruguay #Faselunar: Salida lunar: 23:14Hs. Puesta lunar: 8:33Hs. Fase: Gibosa menguante. Luminosidad: 82%. #FaseSolar: Salida del sol: 5:25Hs. Puesta de sol: 19:39Hs.]]></document>
+		<document><![CDATA[#Montevideo Noche del jueves:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Jueves:Cielo parcialmente cubierto. Máxima de 23 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Noche del Miércoles:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Miércoles:Cielo parcialmente cubierto. Máxima de 23 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Noche del martes:Cielos que se despejarán a lo largo de la noche. Mínima de 17 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Martes:Cielo parcialmente cubierto. Máxima de 24 C. Vientos del ENE de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Florida Martes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del ENE de 15 a 30 km/h.Noche del martes:Chubascos de madrugada. Mínima de 15 C. Vientos del E de 15 a 25 km/h. 40% probab. de lluvia.Miércoles:Nuboso. Máxima de 23 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Lunes:Cielo prácticamente cubierto. Máxima de 24 C. Vientos del SE de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del ENE de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Lunes:Cielo mayormente despejado. Máxima de 25 C. Vientos del NNO que pasarán a ser del SE de 15 a 25 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del ENE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Montevideo Martes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Lunes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del NNO que pasarán a ser del SE de 15 a 25 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del ENE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#SanJose Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del NE de 10 a 15 km/h.Noche del lunes:Cielo prácticamente cubierto. Mínima de 14 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 27 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Minas Lunes:Cielo parcialmente cubierto. Máxima de 28 C. Vientos del NE de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 13 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Florida Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del NE de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 14 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 26 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Trinidad Lunes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del ENE de 10 a 15 km/h.Noche del lunes:Nuboso. Mínima de 15 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Durazno Lunes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del ENE de 10 a 15 km/h.Noche del lunes:Nuboso. Mínima de 15 C. Vientos del E de 10 a 15 km/h.Martes:Nuboso. Máxima de 26 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Maldonado Lunes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del S de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 15 C. Vientos del NE de 10 a 15 km/h.Martes:Cielo parcialmente cubierto y viento. Máxima de 24 C. Vientos del ENE de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Rocha Lunes:Cielo prácticamente cubierto. Máxima de 28 C. Vientos del NE de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 14 C. Vientos del NE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#TreintaYTres Lunes:Cielo parcialmente cubierto. Máxima de 28 C. Vientos del ENE de 15 a 25 km/h.Noche del lunes:Nuboso. Mínima de 15 C. Vientos del E de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 26 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Melo Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del E de 15 a 30 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 15 C. Vientos del ESE de 15 a 25 km/h.Martes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Colonia Lunes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del ENE de 10 a 15 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 18 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo parcialmente cubierto. Máxima de 24 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Mercedes Lunes:Nuboso. Máxima de 26 C. Vientos del ENE de 15 a 25 km/h.Noche del lunes:Nuboso. Mínima de 17 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 26 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#FrayBentos Lunes:Nuboso. Máxima de 25 C. Vientos del ENE de 15 a 25 km/h.Noche del lunes:Nuboso. Mínima de 17 C. Vientos del ENE de 10 a 15 km/h.Martes:Cielo prácticamente cubierto. Máxima de 25 C. Vientos del ENE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Paysandu Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del ENE de 15 a 30 km/h.Noche del lunes:Cielo prácticamente cubierto. Mínima de 17 C. Vientos del E de 15 a 25 km/h.Martes:Nuboso. Máxima de 27 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Tacuarembo Martes:Chubascos por la tarde. Máxima de 27 C. Vientos del E de 15 a 30 km/h. 40% probab. de lluvia.]]></document>
+		<document><![CDATA[#Tacuarembo Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del E de 15 a 30 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 15 C. Vientos del E de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Rivera Martes:Formación de tormentas por la tarde. Máxima de 27 C. Vientos del E de 15 a 30 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Rivera Lunes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del E de 15 a 30 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 14 C. Vientos del ESE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Salto Lunes:Cielo parcialmente cubierto. Máxima de 28 C. Vientos del ENE de 15 a 30 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 15 a 30 km/h.Martes:Cielo prácticamente cubierto. Máxima de 27 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Artigas Martes:Formación de tormentas por la tarde. Máxima de 28 C. Vientos del E de 25 a 40 km/h. 80% probab. de lluvia.]]></document>
+		<document><![CDATA[#Artigas Lunes:Cielo parcialmente cubierto. Máxima de 27 C. Vientos del E de 25 a 40 km/h.Noche del lunes:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del ESE de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Uruguay #Faselunar: Salida lunar: 22:16Hs. Puesta lunar: 7:33Hs. Fase: Gibosa menguante. Luminosidad: 90%. #FaseSolar: Salida del sol: 5:25Hs. Puesta de sol: 19:38Hs.]]></document>
+		<document><![CDATA[#Montevideo Noche del Miércoles:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del E de 15 a 30 km/h.]]></document>
+		<document><![CDATA[#Montevideo Miércoles:Cielo parcialmente cubierto. Máxima de 23 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Noche del martes:Cielo parcialmente cubierto. Mínima de 17 C. Vientos del ENE de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Martes:Cielo parcialmente cubierto. Máxima de 24 C. Vientos del E de 25 a 40 km/h.]]></document>
+		<document><![CDATA[#Montevideo Noche del lunes:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del ENE de 15 a 25 km/h.]]></document>
+		<document><![CDATA[#Montevideo Lunes:Cielo parcialmente cubierto. Máxima de 25 C. Vientos del ENE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Montevideo Domingo:Cielo parcialmente cubierto. Máxima de 21 C. Vientos del SSE de 10 a 15 km/h.Noche del domingo:Cielo parcialmente cubierto. Mínima de 16 C. Vientos del N de 10 a 15 km/h.Lunes:Cielo parcialmente cubierto. Máxima de 26 C. Vientos del ENE de 10 a 15 km/h.]]></document>
+		<document><![CDATA[#Chuy Domingo:Cielo mayormente despejado. Máxima de 22 C. Vientos del S de 15 a 30 km/h.Noche del domingo:Cielo parcialmente cubierto. Mínima de 13 C. Vientos del SE de 10 a 15 km/h.Lunes:Cielo parcialmente cubierto. Máxima de 24 C. Vientos del ENE de 15 a 25 km/h.]]></document>
+	</documents>
+</author>

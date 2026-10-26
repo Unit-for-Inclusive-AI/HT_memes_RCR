@@ -247,6 +247,8 @@ def load_image_label_map(xlsx_path: str) -> dict[int, str]:
         if pd.isna(row["id"]) or pd.isna(row["label"]):
             continue
         label = str(row["label"]).strip()
+        # The English split uses noun forms while the debate schema uses adjective forms.
+        label = {"Homophobia": "Homophobic", "Transphobia": "Transphobic"}.get(label, label)
         if label not in LABELS:
             raise ValueError(f"Unexpected label {label!r}. Expected one of {LABELS}")
         result[int(row["id"])] = label
@@ -413,13 +415,20 @@ def summarize_meme(client: OpenAI, model: str, image_url: str) -> dict:
 
 
 def select_image_persona_candidates(client, model: str, personas: list[dict], meme_summary: dict,
-                                   candidate_count: int) -> list[dict]:
-    """Build an image-specific shortlist before selecting the final debate trio."""
+                                   candidate_count: int, selection_seed: int = 0) -> list[dict]:
+    """Build an image-specific shortlist with a stable, per-image persona order."""
+    # Vary prompt positions by image to reduce repeated first-item selections while
+    # keeping the same image reproducible if its run is retried.
+    ordered_personas = sorted(
+        personas,
+        key=lambda p: hashlib.sha256(
+            f"{selection_seed}:{p.get('persona_id', '')}".encode("utf-8")
+        ).digest(),
+    )
     council = []
-    for persona in personas:
+    for persona in ordered_personas:
         council.append({
             "persona_id": persona.get("persona_id"),
-            "archetype": persona.get("archetype", ""),
             "profile": persona.get("profile_bio", persona.get("observed_profile_text", "")),
             "style": persona.get("commenting_habits", persona.get("commenting_style", "")),
             "historical_comments": persona.get("sample_historical_comments", persona.get("historical_comments", [])),
@@ -427,10 +436,13 @@ def select_image_persona_candidates(client, model: str, personas: list[dict], me
     system = (
         f"Select exactly {candidate_count} candidate simulated personas for this specific meme. "
         "This is a broad shortlist for a separate downstream trio selection step; do not select "
-        "only the final three. Choose candidates whose documented comments, style, or stated "
-        "archetype could contribute to interpreting this meme, while including varied perspectives. "
-        "Do not infer protected traits, treat archetype labels as facts about real people, or use "
-        "or guess the dataset label. Return JSON only: "
+        "only the final three. Choose candidates only when their supplied profile details, "
+        "observable commenting style, or historical comments provide a plausible basis for "
+        "contributing to this meme's interpretation, while including varied perspectives. Ground "
+        "each reason in that evidence; do not invent interests or beliefs. Archetype labels are "
+        "synthetic experimental labels and are deliberately not provided as evidence for this step. "
+        "Evaluate each candidate independently; do not favor candidates because they appear earlier in the list. "
+        "Do not infer protected traits or use or guess the dataset label. Return JSON only: "
         '{"candidates":[{"persona_id":"...","image_fit":"brief reason grounded in the supplied analysis and persona evidence"}]}'
     )
     prompt = json.dumps({"meme_analysis": meme_summary, "persona_council": council}, ensure_ascii=False)
@@ -459,7 +471,7 @@ def select_image_persona_candidates(client, model: str, personas: list[dict], me
     ))
     print("  [!] Using deterministic image-relevance fallback to build persona candidates.")
     _, fallback = select_personas(
-        personas, ranking_text, shortlist_size=candidate_count, final_count=candidate_count
+        ordered_personas, ranking_text, shortlist_size=candidate_count, final_count=candidate_count
     )
     return fallback
 
@@ -708,11 +720,28 @@ def main():
     out_path = Path(args.output)
     already_done = set()
     if out_path.exists():
-        for line in out_path.read_text(encoding="utf-8").splitlines():
+        existing_ids = []
+        for line_number, line in enumerate(out_path.read_text(encoding="utf-8").splitlines(), start=1):
             try:
-                already_done.add(int(json.loads(line)["image_id"]))
-            except Exception:
-                continue
+                image_id = int(json.loads(line)["image_id"])
+            except Exception as exc:
+                raise ValueError(
+                    f"Existing output {out_path} has an invalid JSONL record on line {line_number}. "
+                    "Move or delete the output before starting a clean run."
+                ) from exc
+            if image_id in already_done:
+                raise ValueError(
+                    f"Existing output {out_path} contains duplicate image ID {image_id}. "
+                    "Move or delete the output before starting a clean run."
+                )
+            if existing_ids and image_id <= existing_ids[-1]:
+                raise ValueError(
+                    f"Existing output {out_path} is not in strictly increasing image_id order "
+                    f"(line {line_number}: {image_id}). Move or delete it before restarting; "
+                    "the pipeline will not append to a shuffled file."
+                )
+            existing_ids.append(image_id)
+            already_done.add(image_id)
 
     with out_path.open("a", encoding="utf-8") as out:
         for n, image_id in enumerate(ids, start=1):
@@ -730,7 +759,8 @@ def main():
                 str(meme_summary.get("context_clues", "")),
             ])
             image_candidate_pool = select_image_persona_candidates(
-                client, model, personas, meme_summary, args.candidate_count
+                client, model, personas, meme_summary, args.candidate_count,
+                selection_seed=image_id,
             )
             candidates, selected = select_personas(
                 image_candidate_pool, ranking_text,
