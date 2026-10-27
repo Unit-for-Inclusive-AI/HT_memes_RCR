@@ -49,6 +49,27 @@ def build_debate_context(record: dict[str, Any]) -> str:
     return json.dumps({"meme_analysis": analysis, "rcr_debate": compact}, ensure_ascii=False)
 
 
+def debate_consensus_label(record: dict[str, Any]) -> str | None:
+    """Read a saved consensus or derive a strict majority from refined persona votes."""
+    explicit = record.get("consensus_label")
+    if explicit in LABELS:
+        return explicit
+    votes = [
+        response.get("label")
+        for response in record.get("rcr_refined_responses", [])
+        if isinstance(response, dict) and response.get("label") in LABELS
+    ]
+    counts = Counter(votes)
+    if not counts:
+        return None
+    highest = max(counts.values())
+    leaders = [label for label, count in counts.items() if count == highest]
+    if highest >= 2 and len(leaders) == 1:
+        return leaders[0]
+    judge_label = (record.get("critic_judge") or {}).get("label")
+    return judge_label if judge_label in LABELS else None
+
+
 def make_prompt(record: dict[str, Any]) -> list[dict[str, str]]:
     lang = record.get("language", "Unknown")
     return [
@@ -138,7 +159,7 @@ def load_training_rows(
             "image_id": image_id,
             "language": language,
             "gold_label": expected,
-            "consensus_label": record.get("consensus_label"),
+            "consensus_label": debate_consensus_label(record),
             "prompt": make_prompt(record),
         })
     if max_samples is not None:
