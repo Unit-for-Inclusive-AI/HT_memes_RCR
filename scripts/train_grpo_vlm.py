@@ -18,6 +18,7 @@ sys.path.insert(0, str(PROJECT_ROOT / "src"))
 from meme_pipeline.training.data import load_training_rows, read_trace_files, split_train_validation
 from meme_pipeline.training.rewards import (
     classification_accuracy_reward,
+    consensus_accuracy_reward,
     evidence_reward,
     structured_output_reward,
     parse_completion,
@@ -86,19 +87,23 @@ def predict_rows(model_name: str, adapter_path: str | None, rows: list[dict[str,
     }
 
 
-def materialize_dataset(rows: list[dict[str, Any]]):
+def materialize_dataset(rows: list[dict[str, Any]], include_gold_label: bool):
     from datasets import Dataset
     from PIL import Image
 
     examples = []
     for row in rows:
         with Image.open(row["image_path"]) as image:
-            examples.append({
+            example = {
                 "image": image.convert("RGB").copy(),
                 "prompt": row["prompt"],
-                "gold_label": row["gold_label"],
                 "language": row["language"],
-            })
+            }
+            if include_gold_label:
+                example["gold_label"] = row["gold_label"]
+            else:
+                example["consensus_label"] = row["consensus_label"]
+            examples.append(example)
     return Dataset.from_list(examples)
 
 
@@ -109,6 +114,10 @@ def main() -> None:
     parser.add_argument("--data-root", default=str(PROJECT_ROOT / "data" / "raw"))
     parser.add_argument("--output-dir", default=str(PROJECT_ROOT / "artifacts" / "grpo_meme_model"))
     parser.add_argument("--model", default=DEFAULT_MODEL)
+    parser.add_argument("--init-adapter", default=None,
+                        help="Optional prior-round PEFT adapter to continue training from")
+    parser.add_argument("--reward-target", choices=["gold", "consensus"], default="gold",
+                        help="Use train gold labels (baseline) or debate consensus (evolution mode)")
     parser.add_argument("--validation-fraction", type=float, default=0.1)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--max-samples", type=int, default=None,
@@ -146,6 +155,16 @@ def main() -> None:
 
     records = read_trace_files(args.traces)
     rows = load_training_rows(records, args.data_root, max_samples=args.max_samples)
+    if args.reward_target == "consensus":
+        invalid_consensus = [
+            (row["language"], row["image_id"], row.get("consensus_label"))
+            for row in rows if row.get("consensus_label") not in LABELS
+        ]
+        if invalid_consensus:
+            raise SystemExit(
+                "Consensus-reward training requires a valid consensus_label on every trace; "
+                f"first invalid row: {invalid_consensus[0]}"
+            )
     train_rows, validation_rows = split_train_validation(
         rows, validation_fraction=args.validation_fraction, seed=args.seed
     )
@@ -161,7 +180,7 @@ def main() -> None:
     processor = AutoProcessor.from_pretrained(args.model)
 
     print(f"Evaluating base model on {len(validation_rows)} validation memes...")
-    base_metrics = predict_rows(args.model, None, validation_rows)
+    base_metrics = predict_rows(args.model, args.init_adapter, validation_rows)
     (output_dir / "base_validation_metrics.json").write_text(
         json.dumps(base_metrics, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -169,7 +188,9 @@ def main() -> None:
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
 
-    train_dataset = materialize_dataset(train_rows)
+    train_dataset = materialize_dataset(
+        train_rows, include_gold_label=args.reward_target == "gold"
+    )
     processor = AutoProcessor.from_pretrained(args.model)
     use_bf16 = torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bf16 else torch.float16
@@ -198,16 +219,38 @@ def main() -> None:
             "the requested prompt limit will not be applied."
         )
     config = GRPOConfig(**config_kwargs)
+    if args.init_adapter:
+        from peft import PeftModel
+        from transformers import Qwen2_5_VLForConditionalGeneration
+
+        initial_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            args.model,
+            torch_dtype=model_dtype,
+        )
+        initial_model = PeftModel.from_pretrained(
+            initial_model, args.init_adapter, is_trainable=True
+        )
+        model_for_training = initial_model
+        peft_config = None
+    else:
+        model_for_training = args.model
+        peft_config = LoraConfig(
+            r=16, lora_alpha=32, lora_dropout=0.05,
+            target_modules=["q_proj", "v_proj"], task_type="CAUSAL_LM",
+        )
+    reward_functions = [
+        consensus_accuracy_reward if args.reward_target == "consensus"
+        else classification_accuracy_reward,
+        structured_output_reward,
+        evidence_reward,
+    ]
     trainer = GRPOTrainer(
-        model=args.model,
-        reward_funcs=[classification_accuracy_reward, structured_output_reward, evidence_reward],
+        model=model_for_training,
+        reward_funcs=reward_functions,
         args=config,
         train_dataset=train_dataset,
         processing_class=processor,
-        peft_config=LoraConfig(
-            r=16, lora_alpha=32, lora_dropout=0.05,
-            target_modules=["q_proj", "v_proj"], task_type="CAUSAL_LM",
-        ),
+        peft_config=peft_config,
     )
     trainer.train()
     adapter_dir = output_dir / "final_adapter"
@@ -223,6 +266,8 @@ def main() -> None:
     promoted = promotion_eligible and tuned_metrics["macro_f1"] > base_metrics["macro_f1"]
     summary = {
         "base_model": args.model,
+        "initial_adapter_path": args.init_adapter,
+        "reward_target": args.reward_target,
         "adapter_path": str(adapter_dir),
         "train_rows": len(train_rows),
         "validation_rows": len(validation_rows),
@@ -230,7 +275,7 @@ def main() -> None:
         "grpo_group_size": args.num_generations,
         "promotion_eligible": promotion_eligible,
         "rewards": {
-            "classification_accuracy": 1.0,
+            ("consensus_accuracy" if args.reward_target == "consensus" else "classification_accuracy"): 1.0,
             "valid_structured_output": 0.1,
             "nonempty_evidence": 0.1,
         },
@@ -246,6 +291,8 @@ def main() -> None:
         "model": args.model,
         "data_root": os.path.abspath(args.data_root),
         "traces": [os.path.abspath(path) for path in args.traces],
+        "init_adapter": os.path.abspath(args.init_adapter) if args.init_adapter else None,
+        "reward_target": args.reward_target,
         "validation_fraction": args.validation_fraction,
         "seed": args.seed,
         "epochs": args.epochs,

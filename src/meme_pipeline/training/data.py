@@ -123,7 +123,7 @@ def load_training_rows(
         expected = label_maps[language].get(image_id)
         if expected is None:
             raise ValueError(f"Image {image_id} is not in the {language} training labels.")
-        if record.get("gold_label") != expected:
+        if record.get("gold_label") is not None and record.get("gold_label") != expected:
             raise ValueError(
                 f"Trace label mismatch for {language} image {image_id}: "
                 f"trace={record.get('gold_label')!r}, train workbook={expected!r}"
@@ -138,6 +138,7 @@ def load_training_rows(
             "image_id": image_id,
             "language": language,
             "gold_label": expected,
+            "consensus_label": record.get("consensus_label"),
             "prompt": make_prompt(record),
         })
     if max_samples is not None:

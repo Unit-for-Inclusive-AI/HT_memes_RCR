@@ -526,7 +526,7 @@ def classify_with_persona(client: OpenAI, model: str, image_url: str, meme_summa
 
 
 def rcr_refine(client: OpenAI, model: str, image_url: str, meme_summary: dict,
-               persona: dict, initial: dict, peers: list[dict]) -> dict:
+               persona: dict, initial: dict, peers: list[dict], round_number: int = 1) -> dict:
     system = (
         "Follow Reflect-Critique-Refine (RCR). Reflect: identify a possible weakness in your initial "
         "classification. Critique: assess exactly two peer responses when available, identifying evidence "
@@ -539,9 +539,10 @@ def rcr_refine(client: OpenAI, model: str, image_url: str, meme_summary: dict,
     prompt = (
         f"Meme analysis: {json.dumps(meme_summary, ensure_ascii=False)}\n"
         f"Persona: {json.dumps({'persona_id': persona['persona_id'], 'language': persona.get('language'), 'style': persona.get('commenting_style')}, ensure_ascii=False)}\n"
-        f"Your initial response: {json.dumps(initial, ensure_ascii=False)}\n"
+        f"Your current response before RCR round {round_number}: {json.dumps(initial, ensure_ascii=False)}\n"
         f"Two peer responses to critique: {json.dumps(peer_pair, ensure_ascii=False)}\n"
-        "Complete the three RCR phases and return a refined decision."
+        "Complete the three RCR phases and return a refined decision. On later rounds, "
+        "critique the current response and the latest peer responses, not an older round."
     )
     response = chat_text(
         client, model, system,
@@ -551,6 +552,17 @@ def rcr_refine(client: OpenAI, model: str, image_url: str, meme_summary: dict,
     parsed = safe_json(response)
     parsed["persona_id"] = persona["persona_id"]
     return parsed
+
+
+def debate_consensus(responses: list[dict]) -> tuple[str | None, dict[str, int]]:
+    votes = [item.get("label") for item in responses if item.get("label") in LABELS]
+    counts = dict(Counter(votes))
+    if not counts:
+        return None, counts
+    highest = max(counts.values())
+    leaders = [label for label, count in counts.items() if count == highest]
+    consensus = leaders[0] if highest >= 2 and len(leaders) == 1 else None
+    return consensus, counts
 
 
 def critic_judge(client: OpenAI, model: str, image_url: str, meme_summary: dict,
@@ -625,6 +637,16 @@ def main():
                         help="Vertex AI location for --backend vertex (default: global)")
     parser.add_argument("--adapter-path", default=None,
                         help="Optional trained PEFT adapter directory for --backend local")
+    parser.add_argument("--rcr-rounds", type=int, default=1,
+                        help="Maximum RCR debate rounds per meme (default preserves one-round behavior)")
+    parser.add_argument("--evolution-round", type=int, default=None,
+                        help="Optional evolution round number to record in traces")
+    parser.add_argument("--hide-labels", action="store_true",
+                        help="Do not load, store, or score workbook labels during trace generation")
+    parser.add_argument("--consensus-only", action="store_true",
+                        help="Use the three refined persona votes; call the judge if there is no clear majority")
+    parser.add_argument("--skip-counter-narrative", action="store_true",
+                        help="Skip optional counter-narrative generation")
     parser.add_argument("--agents", type=int, default=3, help="Final debate personas; DTE RCR uses 3")
     parser.add_argument("--candidate-count", type=int, default=6,
                         help="Personas to score before choosing the final trio")
@@ -639,6 +661,8 @@ def main():
 
     if args.agents != 3:
         raise ValueError("This DTE RCR workflow uses exactly three debate personas.")
+    if args.rcr_rounds < 1:
+        raise ValueError("--rcr-rounds must be at least 1")
     if not 6 <= args.candidate_count <= 10:
         raise ValueError("--candidate-count must be between 6 and 10")
     model = args.model or os.getenv({"local": "LOCAL_MODEL", "gemini": "GEMINI_MODEL", "vertex": "VERTEX_MODEL", "openai": "OPENAI_MODEL"}[args.backend]) or {
@@ -692,16 +716,21 @@ def main():
     else:
         print(f"Loaded {len(personas)} personas from {persona_pool_path}")
 
-    labels = load_image_label_map(args.labels_xlsx)
+    labels = {} if args.hide_labels else load_image_label_map(args.labels_xlsx)
     image_root = prepare_images(args.images_zip, args.image_dir)
     image_files = {}
     for path in image_root.iterdir():
         if path.is_file():
             image_id = extract_image_id(path.name)
             if image_id is not None:
+                if image_id in image_files:
+                    raise ValueError(
+                        f"Multiple image files map to ID {image_id}: "
+                        f"{image_files[image_id].name!r} and {path.name!r}"
+                    )
                 image_files[image_id] = path
 
-    ids = sorted(set(labels) & set(image_files))
+    ids = sorted(set(image_files) if args.hide_labels else set(labels) & set(image_files))
     if args.image_id is not None:
         ids = [i for i in ids if i == args.image_id]
         if not ids:
@@ -790,37 +819,86 @@ def main():
                     client, model, image_url, meme_summary, persona
                 ))
 
+            current = initial
+            debate_rounds = []
             refined = []
-            for i, persona in enumerate(selected):
-                peer_responses = [r for j, r in enumerate(initial) if j != i]
-                refined.append(rcr_refine(
-                    client, model, image_url, meme_summary,
-                    persona, initial[i], peer_responses
-                ))
+            consensus = None
+            vote_counts = {}
+            for round_number in range(1, args.rcr_rounds + 1):
+                refined = []
+                for i, persona in enumerate(selected):
+                    peer_responses = [r for j, r in enumerate(current) if j != i]
+                    refined.append(rcr_refine(
+                        client, model, image_url, meme_summary,
+                        persona, current[i], peer_responses, round_number=round_number
+                    ))
+                consensus, vote_counts = debate_consensus(refined)
+                debate_rounds.append({
+                    "round": round_number,
+                    "responses": refined,
+                    "vote_counts": vote_counts,
+                    "consensus_reached": len(vote_counts) == 1 and sum(vote_counts.values()) == 3,
+                })
+                current = refined
+                if len(vote_counts) == 1 and sum(vote_counts.values()) == 3:
+                    break
 
-            final = critic_judge(client, model, image_url, meme_summary, initial, refined)
-            counter_narrative = generate_counter_narrative_for_meme(
-                client, model, image_url, meme_summary, final, args.language
-            )
+            if args.consensus_only and consensus is not None:
+                final = {
+                    "label": consensus,
+                    "confidence": None,
+                    "evidence": [r.get("evidence") for r in refined if r.get("evidence")],
+                    "disagreement_summary": "Persona vote consensus/majority after RCR.",
+                    "uncertainty": None,
+                    "agent_vote_counts": vote_counts,
+                    "final_reason": "Label selected by majority vote of the three refined persona responses.",
+                    "selection_method": "rcr_majority_vote",
+                }
+            else:
+                final = critic_judge(client, model, image_url, meme_summary, initial, refined)
+                final["selection_method"] = "independent_critic_judge"
+            if consensus is None and final.get("label") in LABELS:
+                consensus = final["label"]
+                consensus_source = "critic_fallback_no_clear_majority"
+            else:
+                consensus_source = "persona_majority_vote"
+            if args.skip_counter_narrative:
+                counter_narrative = {"status": "skipped", "text": None, "language": args.language}
+            else:
+                counter_narrative = generate_counter_narrative_for_meme(
+                    client, model, image_url, meme_summary, final, args.language
+                )
             record = {
                 "image_id": image_id,
                 "image_file": image_path.name,
                 "language": args.language,
                 "split": args.split,
-                "gold_label": labels[image_id],
                 "predicted_label": final.get("label"),
-                "correct": final.get("label") == labels[image_id],
                 "meme_analysis": meme_summary,
                 "persona_candidates": image_candidates,
                 "selected_personas": selected,
                 "initial_debate": initial,
                 "rcr_refined_responses": refined,
+                "debate_rounds": debate_rounds,
+                "consensus_label": consensus,
+                "consensus_source": consensus_source,
+                "consensus_vote_counts": vote_counts,
                 "critic_judge": final,
                 "counter_narrative": counter_narrative,
                 "model": model,
+                "adapter_path": args.adapter_path,
+                "evolution_round": args.evolution_round,
                 "persona_selection_method": "Two-stage: model selects six to ten image-specific candidates from the full council; deterministic relevance scoring uses each candidate's image-fit rationale and historical comments, with evidence, diversity, and complementarity scoring selecting the final three from that shortlist.",
                 "method_note": "Gold labels are stored for evaluation and GRPO rewards only; they are not sent to persona selection, persona agents, or the counter-narrative generator.",
             }
+            if not args.hide_labels:
+                record["gold_label"] = labels[image_id]
+                record["correct"] = final.get("label") == labels[image_id]
+            else:
+                record["method_note"] = (
+                    "Labels were not loaded during trace generation; debate, persona selection, "
+                    "and counter-narrative generation received no ground-truth labels."
+                )
             out.write(json.dumps(record, ensure_ascii=False) + "\n")
             out.flush()
             persona_ids = ", ".join(persona["persona_id"] for persona in selected)
@@ -833,6 +911,9 @@ def main():
 
     # Evaluate every completed prediction that has a valid gold label.
     completed = []
+    if args.hide_labels:
+        print("Label loading and evaluation were disabled for this trace-generation run.")
+        return
     for line in out_path.read_text(encoding="utf-8").splitlines():
         try:
             item = json.loads(line)

@@ -59,6 +59,21 @@ def classification_accuracy_reward(completions, gold_label, **kwargs) -> list[fl
     ]
 
 
+def consensus_accuracy_reward(completions, consensus_label, **kwargs) -> list[float]:
+    """Reward agreement with the debate consensus, without using dataset gold labels."""
+    del kwargs
+    labels = (
+        consensus_label
+        if isinstance(consensus_label, list)
+        else [consensus_label] * len(completions)
+    )
+    return [
+        1.0 if (parsed := parse_completion(completion)) is not None
+        and parsed.get("label") == expected else 0.0
+        for completion, expected in zip(completions, labels)
+    ]
+
+
 def structured_output_reward(completions, **kwargs) -> list[float]:
     del kwargs
     return [
