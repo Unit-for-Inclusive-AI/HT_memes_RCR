@@ -420,7 +420,8 @@ def summarize_meme(client: OpenAI, model: str, image_url: str) -> dict:
 
 
 def select_image_persona_candidates(client, model: str, personas: list[dict], meme_summary: dict,
-                                   candidate_count: int, selection_seed: int = 0) -> list[dict]:
+                                   image_url: str, candidate_count: int,
+                                   selection_seed: int = 0) -> list[dict]:
     """Build an image-specific shortlist with a stable, per-image persona order."""
     # Vary prompt positions by image to reduce repeated first-item selections while
     # keeping the same image reproducible if its run is retried.
@@ -795,7 +796,7 @@ def main():
                 str(meme_summary.get("context_clues", "")),
             ])
             image_candidate_pool = select_image_persona_candidates(
-                client, model, personas, meme_summary, args.candidate_count,
+                client, model, personas, meme_summary, image_url, args.candidate_count,
                 selection_seed=image_id,
             )
             candidates, selected = select_personas(
