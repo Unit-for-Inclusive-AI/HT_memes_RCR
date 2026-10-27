@@ -452,7 +452,9 @@ def select_image_persona_candidates(client, model: str, personas: list[dict], me
     )
     prompt = json.dumps({"meme_analysis": meme_summary, "persona_council": council}, ensure_ascii=False)
     try:
-        result = safe_json(chat_text(client, model, system, prompt, temperature=0.0))
+        result = safe_json(chat_text(
+            client, model, system, image_content(image_url, prompt), temperature=0.0
+        ))
         selections = result.get("candidates", [])
         by_id = {str(p.get("persona_id")): p for p in personas}
         picked = []
