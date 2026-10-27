@@ -1,0 +1,1185 @@
+[
+  {
+    "persona_id": "P_HI_KOO_PILOT_002",
+    "source_user_hash": "012b1049b0a3",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 287.5,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "ये टूलकिट वाले और मानवाधिकार के नाम पर हो हल्ला मचाने वाले धरनाकर्मी पृथ्वीलोक को छोड़ चुके हैं क्या ? ये निजता के अधिकारों की दुहाई देने वाले मंगल ग्रह पर चले गए क्या ? अफगानिस्तान में अमानवीयता इन्हें नहीं दिखाई दे रहा क्या ?? #SanctionPakistan",
+      "अफगानिस्तान में जितने भी विषम घटनाएं घट रहीं हैं वो सब तालिबानी राज स्थापित करने के लिए ही हो रही हैं। अमेरिका को लगता है कि कोई भी देश उसके जितना जोखिम नहीं उठा सकता ! लेकिन अमेरिकन को ये नहीं मालूम कि उनके सर्वनाश के लिए एक व्यक्ति भी काफी है। #BanAmerica #BanTaliban",
+      "ये जो पाकिस्तान आतंकवादियों को पालता है ये भी अमेरिका की ही रणनीति है! अगर पाकिस्तान आतंकियों को नहीं पालेगा तो कोई देश हथियार नहीं खरीदेंगे और जब हथियार नहीं बिकेंगे तो अमेरिका का घाटा होगा ! इसलिए सबसे पहले अमेरिका को बैन करने की जरूरत है। #BanAmerica",
+      "नए स्मार्ट युवाओं और इलेक्ट्रॉनिक मीडिया द्वारा प्रायोजित आदर्श व्यक्तित्व हनी सिंह घरेलू हिंसा केस का आरोपी है। छोटी मोटी गलतियों के लिए परिवार का सदस्य केस दर्ज नहीं करवाता है, पानी सर ऊपर बहने पर ये नौबत आती है। यदि ऐसे लोगों को युवाओं का आदर्श प्रोजेक्ट किया जाएगा तो आने वाला समाज बहुत बड़े दलदल में फंस जाएगा। #BanFilmyStars_Fanisam #PaidActorForActingOnly #फिल्मीकलाकार_पैसों_के_लिए_नाचते_हैं",
+      "आज अगर सलमान खुर्शीद और मणिशंकर अय्यर वाली कांग्रेस सरकार होती तो गांधी परिवार और उनके मंत्री दुबई में होते और भारत में हाफिज सईद का हुकूमत चलता ! #ISupportBJP #iamanationalist #कांग्रेसमुक्तभारत",
+      "नेताओं की गणित भी अजीब है। 1. पंजाब सरकार को यूपी हिंसा में मरे किसानों की चिन्ता है लेकिन पंजाबी किसानों की नहीं। 2. राजस्थान सरकार को भी यूपी की चिंता है लेकिन राजस्थान में एक दलित को सरेआम पीट-पीटकर मार दिया गया उसकी नहीं ! 3. महाराष्ट्र के गठबंधन सरकार को भी यूपी की चिन्ता है लेकिन महाराष्ट्र के मजदूरों और आत्महत्या कर रहे किसानों की नहीं ! #maharashtrabandh"
+    ],
+    "sample_historical_comments": [
+      "ये टूलकिट वाले और मानवाधिकार के नाम पर हो हल्ला मचाने वाले धरनाकर्मी पृथ्वीलोक को छोड़ चुके हैं क्या ? ये निजता के अधिकारों की दुहाई देने वाले मंगल ग्रह पर चले गए क्या ? अफगानिस्तान में अमानवीयता इन्हें नहीं दिखाई दे रहा क्या ?? #SanctionPakistan",
+      "अफगानिस्तान में जितने भी विषम घटनाएं घट रहीं हैं वो सब तालिबानी राज स्थापित करने के लिए ही हो रही हैं। अमेरिका को लगता है कि कोई भी देश उसके जितना जोखिम नहीं उठा सकता ! लेकिन अमेरिकन को ये नहीं मालूम कि उनके सर्वनाश के लिए एक व्यक्ति भी काफी है। #BanAmerica #BanTaliban",
+      "ये जो पाकिस्तान आतंकवादियों को पालता है ये भी अमेरिका की ही रणनीति है! अगर पाकिस्तान आतंकियों को नहीं पालेगा तो कोई देश हथियार नहीं खरीदेंगे और जब हथियार नहीं बिकेंगे तो अमेरिका का घाटा होगा ! इसलिए सबसे पहले अमेरिका को बैन करने की जरूरत है। #BanAmerica",
+      "नए स्मार्ट युवाओं और इलेक्ट्रॉनिक मीडिया द्वारा प्रायोजित आदर्श व्यक्तित्व हनी सिंह घरेलू हिंसा केस का आरोपी है। छोटी मोटी गलतियों के लिए परिवार का सदस्य केस दर्ज नहीं करवाता है, पानी सर ऊपर बहने पर ये नौबत आती है। यदि ऐसे लोगों को युवाओं का आदर्श प्रोजेक्ट किया जाएगा तो आने वाला समाज बहुत बड़े दलदल में फंस जाएगा। #BanFilmyStars_Fanisam #PaidActorForActingOnly #फिल्मीकलाकार_पैसों_के_लिए_नाचते_हैं",
+      "आज अगर सलमान खुर्शीद और मणिशंकर अय्यर वाली कांग्रेस सरकार होती तो गांधी परिवार और उनके मंत्री दुबई में होते और भारत में हाफिज सईद का हुकूमत चलता ! #ISupportBJP #iamanationalist #कांग्रेसमुक्तभारत",
+      "नेताओं की गणित भी अजीब है। 1. पंजाब सरकार को यूपी हिंसा में मरे किसानों की चिन्ता है लेकिन पंजाबी किसानों की नहीं। 2. राजस्थान सरकार को भी यूपी की चिंता है लेकिन राजस्थान में एक दलित को सरेआम पीट-पीटकर मार दिया गया उसकी नहीं ! 3. महाराष्ट्र के गठबंधन सरकार को भी यूपी की चिन्ता है लेकिन महाराष्ट्र के मजदूरों और आत्महत्या कर रहे किसानों की नहीं ! #maharashtrabandh"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_004",
+    "source_user_hash": "04c8de623973",
+    "language": "Hindi",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; uses emphatic punctuation; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 109.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "#arnavgoswami इस एक मामले की वजह से उद्धव जी का करिअर ना बैठ जाए। 😂😂",
+      "#westbengalelection2021 सुना है मोटा भाई बंगाल घूम रहे हें??? ममता दीदी बॉर्डर तरफ़ ना जाने लगें देखना। 😝",
+      "#दीपावली #diwali2020 पॉलीथिन और गुटका, जिनको लोग छोड़ना चाहते हैं तो ढंग से आज तक बैन नही कर पाए, फटाके तो दीवाली पर पूरे मन से चलाने वाली चीज है। करो कोशिश करो बैन करने की ... 😂😂😂",
+      "#दीपावली #diwali2020 #crackerban आपके त्यौहार में, आपको बता दिया, कि आप कैसे मनाएंगे त्योहार और कैसे नहीं।",
+      "#pslvc49 सॅटॅलाइट लॉन्च के लिए सरकार को बहुत बहुत बधाईयाँ.. बस विनती है जनता को भी दिवाली पे ऐसे ही रॉकेट और फटाके चलाने दो। 😝",
+      "#भाग_ठाकरे_अर्नब_आया ठाकरे से यहाँ मतलब उद्धव से है, बालासाहब से कतई नहीं।"
+    ],
+    "sample_historical_comments": [
+      "#arnavgoswami इस एक मामले की वजह से उद्धव जी का करिअर ना बैठ जाए। 😂😂",
+      "#westbengalelection2021 सुना है मोटा भाई बंगाल घूम रहे हें??? ममता दीदी बॉर्डर तरफ़ ना जाने लगें देखना। 😝",
+      "#दीपावली #diwali2020 पॉलीथिन और गुटका, जिनको लोग छोड़ना चाहते हैं तो ढंग से आज तक बैन नही कर पाए, फटाके तो दीवाली पर पूरे मन से चलाने वाली चीज है। करो कोशिश करो बैन करने की ... 😂😂😂",
+      "#दीपावली #diwali2020 #crackerban आपके त्यौहार में, आपको बता दिया, कि आप कैसे मनाएंगे त्योहार और कैसे नहीं।",
+      "#pslvc49 सॅटॅलाइट लॉन्च के लिए सरकार को बहुत बहुत बधाईयाँ.. बस विनती है जनता को भी दिवाली पे ऐसे ही रॉकेट और फटाके चलाने दो। 😝",
+      "#भाग_ठाकरे_अर्नब_आया ठाकरे से यहाँ मतलब उद्धव से है, बालासाहब से कतई नहीं।"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.6871,
+        0.9244,
+        0.9999,
+        0.8716,
+        0.7851,
+        0.8119
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_008",
+    "source_user_hash": "04baa55bd19a",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 131.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "रौशनी हमेशा हमें धोखा देती है इस लिए इसकी रोशनी पर नहीं जाना चाहिए",
+      "ये सही तो नहीं की सोच हमेशा एक दूसरे से मिले हर किसी की सोच अलग होती है, शब्द भी अलग होते है, और उनका मतलब भी, बस हमें समझना होता है, उनके शब्दों को और उनकी भावनाओ को और जब समझ लेते है, तब कभी कोई ग़लती नहीं होती, नहीं रिश्तो में, नहीं प्यार में, बस हमें समझने की जरूर होती है",
+      "ज़िंदगी एक पल में बदल जाती है, चाहत तो बहुत कुछ पाने की है, पर चाहत चाहत में रह जाती है, कुछ पाने की चाहत नहीं करते हम अब जो ज़िंदगी दे उसे अपना लेते है अब हम.",
+      "जो चीज आसानी से मिल जाए उसकी हम कद्र नहीं करते जो चीज मिस्किल से मिलती है उसको हम कभी नहीं छोड़ते",
+      "भक्ति मन से होती है, तन से नहीं, तन क्या पता आज है, कल नहीं."
+    ],
+    "sample_historical_comments": [
+      "रौशनी हमेशा हमें धोखा देती है इस लिए इसकी रोशनी पर नहीं जाना चाहिए",
+      "ये सही तो नहीं की सोच हमेशा एक दूसरे से मिले हर किसी की सोच अलग होती है, शब्द भी अलग होते है, और उनका मतलब भी, बस हमें समझना होता है, उनके शब्दों को और उनकी भावनाओ को और जब समझ लेते है, तब कभी कोई ग़लती नहीं होती, नहीं रिश्तो में, नहीं प्यार में, बस हमें समझने की जरूर होती है",
+      "ज़िंदगी एक पल में बदल जाती है, चाहत तो बहुत कुछ पाने की है, पर चाहत चाहत में रह जाती है, कुछ पाने की चाहत नहीं करते हम अब जो ज़िंदगी दे उसे अपना लेते है अब हम.",
+      "जो चीज आसानी से मिल जाए उसकी हम कद्र नहीं करते जो चीज मिस्किल से मिलती है उसको हम कभी नहीं छोड़ते",
+      "भक्ति मन से होती है, तन से नहीं, तन क्या पता आज है, कल नहीं."
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.875,
+        1.0,
+        0.9697,
+        0.9931,
+        0.7081
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_012",
+    "source_user_hash": "018c89e3df7e",
+    "language": "Hindi",
+    "archetype": "Neutral Observer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; uses emphatic punctuation.",
+      "formality": "Colloquial",
+      "avg_unit_length": 201.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "कू बहुत बढिया है लेकिन अंग्रेज़ी में कुछ लिख नहीं पा रहा हूँ। मुझे कोई दिक्कत नहीं है लेकिन बड़े बड़े सेलेब्रिटीज़ यहां कैसे आएंगे जो सिर्फ अंग्रेज़ी में लिखना चाहते हैं। जैसे अगर कोई कन्नड़ में लिखेगा तो जिनको कन्नड़ नहीं आता है वो कैसे समझेंगे?",
+      "मेरे आँसुओं के खरीदार तो बहुत मिले पर क़ीमत कोई लगा ना सका, मैं बोली लगा रहा था अपने जज्बातों की, पर वो बेग़ैरत बाज़ार आ ना सका, दावत-ए-सुख़न मिला था मुझे उसके सालगिरह की, वो अपने यार के साथ पहली सफ़ में थे, मैं गीत कोई गा ना सका। ©नीतिश तिवारी। ऐसे ही और शायरी ग़ज़ल कविता कहानी के लिए मेरे ब्लॉग पर आपका स्वागत है। किंक बायो में है। जरूर आइये।",
+      "#हम_संघी_है सैनिक बनकर देश की रक्षा नही कर सकते तो कोई बात नही... 50 लोगो को भी कांग्रेस को वोट देने से रोक लो... यह भी देश सेवा से कम नहीं...!!!",
+      "स्त्री हार तभी स्वीकारती है जब हार सोने का हो 😊😊",
+      "#जागो_हिन्दू_जागो 20 रुपये का पंचांग और नासा के अरबों का सेटेलाइट दोनों हर बार ग्रहण का एक ही समय बताता है। अपने धर्म का सम्मान करो, सनातन धर्म सर्वश्रेष्ठ है।"
+    ],
+    "sample_historical_comments": [
+      "कू बहुत बढिया है लेकिन अंग्रेज़ी में कुछ लिख नहीं पा रहा हूँ। मुझे कोई दिक्कत नहीं है लेकिन बड़े बड़े सेलेब्रिटीज़ यहां कैसे आएंगे जो सिर्फ अंग्रेज़ी में लिखना चाहते हैं। जैसे अगर कोई कन्नड़ में लिखेगा तो जिनको कन्नड़ नहीं आता है वो कैसे समझेंगे?",
+      "मेरे आँसुओं के खरीदार तो बहुत मिले पर क़ीमत कोई लगा ना सका, मैं बोली लगा रहा था अपने जज्बातों की, पर वो बेग़ैरत बाज़ार आ ना सका, दावत-ए-सुख़न मिला था मुझे उसके सालगिरह की, वो अपने यार के साथ पहली सफ़ में थे, मैं गीत कोई गा ना सका। ©नीतिश तिवारी। ऐसे ही और शायरी ग़ज़ल कविता कहानी के लिए मेरे ब्लॉग पर आपका स्वागत है। किंक बायो में है। जरूर आइये।",
+      "#हम_संघी_है सैनिक बनकर देश की रक्षा नही कर सकते तो कोई बात नही... 50 लोगो को भी कांग्रेस को वोट देने से रोक लो... यह भी देश सेवा से कम नहीं...!!!",
+      "स्त्री हार तभी स्वीकारती है जब हार सोने का हो 😊😊",
+      "#जागो_हिन्दू_जागो 20 रुपये का पंचांग और नासा के अरबों का सेटेलाइट दोनों हर बार ग्रहण का एक ही समय बताता है। अपने धर्म का सम्मान करो, सनातन धर्म सर्वश्रेष्ठ है।"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        0.8612,
+        0.6823,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_014",
+    "source_user_hash": "00fedc29a477",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 102.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "देश मे रेल्वे गाडियो की रफ्तार करने के लिए काम कर रहा है",
+      "ज्ञानवापी मंदिर केश में मुस्लिम पक्षकारों के वकील श्री अजय नाथ यादव का निधन हो गया है।",
+      "टी20 विश्व कप के आज के मैच में भारत ने जिंबाब्वे के खिलाफ 186 रन बनाए जिसमें सूर्यकुमार यादव ने ताबड़तोड़ 25 साल में 61 रन बनाकर अंत तक नाबाद रहे ।।",
+      "टी २० वर्ल्ड कप क्रिकेट के सेमी फाइनल मुकाबले फाइनल भारत की करारी शिकस्त । इंग्लैंड ने १० विकेट से हराया।।",
+      "यह बेहद सुखद समाचार है कि इजराइल जम्मू कश्मीर व लद्दाख मे उन्नत खेती करने का प्रशिक्षण देगा।"
+    ],
+    "sample_historical_comments": [
+      "देश मे रेल्वे गाडियो की रफ्तार करने के लिए काम कर रहा है",
+      "ज्ञानवापी मंदिर केश में मुस्लिम पक्षकारों के वकील श्री अजय नाथ यादव का निधन हो गया है।",
+      "टी20 विश्व कप के आज के मैच में भारत ने जिंबाब्वे के खिलाफ 186 रन बनाए जिसमें सूर्यकुमार यादव ने ताबड़तोड़ 25 साल में 61 रन बनाकर अंत तक नाबाद रहे ।।",
+      "टी २० वर्ल्ड कप क्रिकेट के सेमी फाइनल मुकाबले फाइनल भारत की करारी शिकस्त । इंग्लैंड ने १० विकेट से हराया।।",
+      "यह बेहद सुखद समाचार है कि इजराइल जम्मू कश्मीर व लद्दाख मे उन्नत खेती करने का प्रशिक्षण देगा।"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.8782,
+        0.7311,
+        0.7598,
+        0.7362,
+        0.8952
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_016",
+    "source_user_hash": "032168b1e713",
+    "language": "Hindi",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 138.8,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "मोहब्बत नहीं थी तो एक बार समझाया तो होता,नादान दिल तेरी खामोशी को इश्क समझ बैठा। 😓😓",
+      "क्यू बार बार ताकते हो शीशे को, नज़र लगाओगे क्या मेरी इकलौती मुहब्बत को…..!!!",
+      "मुझसे छीनो न दिल की वीरानी, यह अमानत किसी अजनबी की है ।",
+      "प्रेमिका – जानू हम न्यू ईयर के दिन पार्टी करेंगे प्रेमी – ओह नहीं मेरी बीवी बीमार है मुझे उसे अस्पताल ले जाना है प्रेमिका – क्या तुम शादी शुदा हो तुमने मुझे धोखा दिया प्रेमी – पर मैंने तो पहले ही बताया था ना कि मेरे घर एक मुसीबत है! 🤣😆😆😆😆🤣",
+      "दो आत्माएं मरने के बाद आपस में बात कर रही थी पहली आत्मा (दूसरी से) – आत्महत्या दो तरह की होती है। पहली (तेज और आसान) – गले में रस्सी डालो और पंखे से लटक जाओ। और दूसरी (धीमी और दर्दनाक) – गले में वरमाला डालो और जिंदगी भर लटके रहो। 🤣🤣🤣🤣🤣🤣🤔🤔",
+      "जो दिल के हो करीब उसे रुसवा नहीं करते,यूँ अपनी दोस्ती का तमाशा नहीं करते,खामोश रहोगे तो घुटन और बढ़ेगी,अपनों से कोई बात छुपाया नहीं करते। 😇😇🤬🤬😇😇"
+    ],
+    "sample_historical_comments": [
+      "मोहब्बत नहीं थी तो एक बार समझाया तो होता,नादान दिल तेरी खामोशी को इश्क समझ बैठा। 😓😓",
+      "क्यू बार बार ताकते हो शीशे को, नज़र लगाओगे क्या मेरी इकलौती मुहब्बत को…..!!!",
+      "मुझसे छीनो न दिल की वीरानी, यह अमानत किसी अजनबी की है ।",
+      "प्रेमिका – जानू हम न्यू ईयर के दिन पार्टी करेंगे प्रेमी – ओह नहीं मेरी बीवी बीमार है मुझे उसे अस्पताल ले जाना है प्रेमिका – क्या तुम शादी शुदा हो तुमने मुझे धोखा दिया प्रेमी – पर मैंने तो पहले ही बताया था ना कि मेरे घर एक मुसीबत है! 🤣😆😆😆😆🤣",
+      "दो आत्माएं मरने के बाद आपस में बात कर रही थी पहली आत्मा (दूसरी से) – आत्महत्या दो तरह की होती है। पहली (तेज और आसान) – गले में रस्सी डालो और पंखे से लटक जाओ। और दूसरी (धीमी और दर्दनाक) – गले में वरमाला डालो और जिंदगी भर लटके रहो। 🤣🤣🤣🤣🤣🤣🤔🤔",
+      "जो दिल के हो करीब उसे रुसवा नहीं करते,यूँ अपनी दोस्ती का तमाशा नहीं करते,खामोश रहोगे तो घुटन और बढ़ेगी,अपनों से कोई बात छुपाया नहीं करते। 😇😇🤬🤬😇😇"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.8602,
+        0.9302,
+        0.8795,
+        1.0,
+        1.0,
+        0.9757
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_017",
+    "source_user_hash": "00e17772afc6",
+    "language": "Hindi",
+    "archetype": "Educator / Factual Explainer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 191.2,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "दुखद हेलीकॉप्टर दुर्घटना में श्री #BipinRawat ,उनकी पत्नी मधुलिका रावत और सेना के 11 जवानों के निधन के बारे में सुनकर बेहद दुख हुआ। राष्ट्र के लिए उनकी अद्भुत सेवा के लिए आभार। ओम शांति 🙏🏼🌸",
+      "दुखद हेलीकॉप्टर दुर्घटना में श्री #BipinRawat ,उनकी पत्नी मधुलिका रावत और सेना के 11 जवानों के निधन के बारे में सुनकर बेहद दुख हुआ। राष्ट्र के लिए उनकी अद्भुत सेवा के लिए आभार। ओम शांति 🙏🏼🌸",
+      "मैँने अपने जीवन में एक टारगेट लिया जिसे सुनकर बहोत लोगों ने मुझे पागल समझा है लेकिन मैं उन लोगों से गुस्सा नहीं हु बल्कि उससे और उत्साहित हु क्योंकि कोई भी साधारण ब्यक्ति अगर बोले की मेरा मकसद आमिर बनना नहीं बल्कि हर गरीब को अमीर बनाना है जिसने मुझे पागल समझा वे लोग इस वीडियो को देखें की कोसिस करने वालों की कभी हार नहीं होती",
+      "इस गधे को कोई बोले की प्रधान मंत्री कोई बिना परिचय पत्र के कैसे बन सकता है . फिरहाद हाकिम तुम बांग्लादेश के मुस्लिमो को बेंगाल में बसाना चाहते हो हम भारत माँ के सपूत है तुम्हारे मकसद में तुम्हे हम कभी कामयाब नहीं होने देंगे .",
+      "आजकलकी दुनिया कुछ इस तरह है"
+    ],
+    "sample_historical_comments": [
+      "दुखद हेलीकॉप्टर दुर्घटना में श्री #BipinRawat ,उनकी पत्नी मधुलिका रावत और सेना के 11 जवानों के निधन के बारे में सुनकर बेहद दुख हुआ। राष्ट्र के लिए उनकी अद्भुत सेवा के लिए आभार। ओम शांति 🙏🏼🌸",
+      "दुखद हेलीकॉप्टर दुर्घटना में श्री #BipinRawat ,उनकी पत्नी मधुलिका रावत और सेना के 11 जवानों के निधन के बारे में सुनकर बेहद दुख हुआ। राष्ट्र के लिए उनकी अद्भुत सेवा के लिए आभार। ओम शांति 🙏🏼🌸",
+      "मैँने अपने जीवन में एक टारगेट लिया जिसे सुनकर बहोत लोगों ने मुझे पागल समझा है लेकिन मैं उन लोगों से गुस्सा नहीं हु बल्कि उससे और उत्साहित हु क्योंकि कोई भी साधारण ब्यक्ति अगर बोले की मेरा मकसद आमिर बनना नहीं बल्कि हर गरीब को अमीर बनाना है जिसने मुझे पागल समझा वे लोग इस वीडियो को देखें की कोसिस करने वालों की कभी हार नहीं होती",
+      "इस गधे को कोई बोले की प्रधान मंत्री कोई बिना परिचय पत्र के कैसे बन सकता है . फिरहाद हाकिम तुम बांग्लादेश के मुस्लिमो को बेंगाल में बसाना चाहते हो हम भारत माँ के सपूत है तुम्हारे मकसद में तुम्हे हम कभी कामयाब नहीं होने देंगे .",
+      "आजकलकी दुनिया कुछ इस तरह है"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9901,
+        0.9901,
+        1.0,
+        1.0,
+        0.9238
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_018",
+    "source_user_hash": "008283bf8471",
+    "language": "Hindi",
+    "archetype": "Neutral Observer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 199.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "तुर्की में हुई शादी भारत में मान्य नहीं तो अरब में पैदा हुआ इस्लाम भारत में मान्य कैसे?प",
+      "नोटबंदी की लाईन मे सेकड़ो मर गये थे .... पर मजाल है फ्री वैक्सीन और फ्री राशन की लाईन मे किसी को चक्कर भी आया हो 😂😂",
+      "तृणमूल कांग्रेस CAA को लेकर अफवाहें फैला रही है कि CAA जमीन पर लागू नहीं होगा। मैं आज कहता हूं कि कोरोना की लहर समाप्त होते ही CAA को हम जमीन पर उतारेंगे। कान खोलकर तृणमूल वाले सुन लो, CAA वास्तविकता था, वास्तविकता है और वास्तविकता रहने वाला है। गृहमंत्री श्री अमित शाह जी जय भाजपा तय भाजपा 🚩",
+      "गाँव बेचकर शहर खरीदा कीमत बड़ी चुकाई है जीवन के उल्लास बेच के खरीदी हमने तन्हाई है बेचा है ईमान धरम तब घर में शानो शौकत आई है संतोष बेच तृष्णा खरीदी देखो कितनी मंहगाई है बीघा बेच स्कवायर फीट खरीदा ये कैसी सौदाई है संयुक्त परिवार के वट वृक्ष से टूटी ये पीढ़ी मुरझाई है रिश्तों में है भरी चालाकी हर बात में दिखती चतुराई है कहीं गुम हो गई मिठास जीवन से हर जगह कड़वाहट भर आई है रस्सी की बुनी खाट बेच दी मैट्रेस ने वहां जगह बनाई है अचार, मुरब्बे को धकेल कर शो केस में सजी दवाई है",
+      "तुम तोड़ो चाहे वादा हम निभाते रहेंगे नाराज़गी ऐसे भी हम दिखाते रहेंगे ✈️ जब तक नही है आते पंद्रह लाख खाते में 😄 तब तक तुम्हे मोदी जी हम जिताते रहेंगे ♂️ 😜😜😜 अवतरण दिवस की हार्दिक शुभकामनाएं प्रधानमंत्री जी 🌹🌹🌹🌹💐💐💐",
+      "जिंदगी क्या है?"
+    ],
+    "sample_historical_comments": [
+      "तुर्की में हुई शादी भारत में मान्य नहीं तो अरब में पैदा हुआ इस्लाम भारत में मान्य कैसे?प",
+      "नोटबंदी की लाईन मे सेकड़ो मर गये थे .... पर मजाल है फ्री वैक्सीन और फ्री राशन की लाईन मे किसी को चक्कर भी आया हो 😂😂",
+      "तृणमूल कांग्रेस CAA को लेकर अफवाहें फैला रही है कि CAA जमीन पर लागू नहीं होगा। मैं आज कहता हूं कि कोरोना की लहर समाप्त होते ही CAA को हम जमीन पर उतारेंगे। कान खोलकर तृणमूल वाले सुन लो, CAA वास्तविकता था, वास्तविकता है और वास्तविकता रहने वाला है। गृहमंत्री श्री अमित शाह जी जय भाजपा तय भाजपा 🚩",
+      "गाँव बेचकर शहर खरीदा कीमत बड़ी चुकाई है जीवन के उल्लास बेच के खरीदी हमने तन्हाई है बेचा है ईमान धरम तब घर में शानो शौकत आई है संतोष बेच तृष्णा खरीदी देखो कितनी मंहगाई है बीघा बेच स्कवायर फीट खरीदा ये कैसी सौदाई है संयुक्त परिवार के वट वृक्ष से टूटी ये पीढ़ी मुरझाई है रिश्तों में है भरी चालाकी हर बात में दिखती चतुराई है कहीं गुम हो गई मिठास जीवन से हर जगह कड़वाहट भर आई है रस्सी की बुनी खाट बेच दी मैट्रेस ने वहां जगह बनाई है अचार, मुरब्बे को धकेल कर शो केस में सजी दवाई है",
+      "तुम तोड़ो चाहे वादा हम निभाते रहेंगे नाराज़गी ऐसे भी हम दिखाते रहेंगे ✈️ जब तक नही है आते पंद्रह लाख खाते में 😄 तब तक तुम्हे मोदी जी हम जिताते रहेंगे ♂️ 😜😜😜 अवतरण दिवस की हार्दिक शुभकामनाएं प्रधानमंत्री जी 🌹🌹🌹🌹💐💐💐",
+      "जिंदगी क्या है?"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.7958,
+        0.7703,
+        1.0,
+        1.0,
+        1.0,
+        0.6778
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_019",
+    "source_user_hash": "00193cd229c7",
+    "language": "Hindi",
+    "archetype": "Supportive / Pro-LGBTQ+ Ally",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 95.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "राजनीतì बड़ी विचित्र है विचारों के बदले व्यक्तिगत हमले हो रहे हैं",
+      "संविधान में संशोधन कर के अगले २० वर्ष तक चुनावो पर रोक होनी चाहिए तथा वर्तमान सर्कार ही तब तक कार्य करे. देश सुधर जायेगा.",
+      "फ़ोन एक तिलिस्म है जो जितनी जल्दी बहार आएगा उतना सुखी रहेगा",
+      "जब जब होय धर्म का हानि बडहि असुर अधम अभिमानी तब तब प्रभु धरी विविध शरीरा और प्रभु ने अब मोदी जी के रूप में अवतार लिया है",
+      "भारतीय जनता पार्टी देश में तेजी से बदलाव ला रही है यह देश के लिए अच्छा है. लेकिन मध्यम वर्गी आदमी चटपटा रहा है. सरकारी टैक्स और महंगाई सुरसा की तरह बढ़ रही है. सर्कार ध्यान दे ."
+    ],
+    "sample_historical_comments": [
+      "राजनीतì बड़ी विचित्र है विचारों के बदले व्यक्तिगत हमले हो रहे हैं",
+      "संविधान में संशोधन कर के अगले २० वर्ष तक चुनावो पर रोक होनी चाहिए तथा वर्तमान सर्कार ही तब तक कार्य करे. देश सुधर जायेगा.",
+      "फ़ोन एक तिलिस्म है जो जितनी जल्दी बहार आएगा उतना सुखी रहेगा",
+      "जब जब होय धर्म का हानि बडहि असुर अधम अभिमानी तब तब प्रभु धरी विविध शरीरा और प्रभु ने अब मोदी जी के रूप में अवतार लिया है",
+      "भारतीय जनता पार्टी देश में तेजी से बदलाव ला रही है यह देश के लिए अच्छा है. लेकिन मध्यम वर्गी आदमी चटपटा रहा है. सरकारी टैक्स और महंगाई सुरसा की तरह बढ़ रही है. सर्कार ध्यान दे ."
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9233,
+        0.7001,
+        0.9806,
+        0.6629,
+        0.9934
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_020",
+    "source_user_hash": "0470f3e13a2c",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 190.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "मजहब के नाम पर दंगा फसाद करने आतंग फैलाने वालो के लिए परमात्मा का सन्देश मुझको कहा ढूढो हे बन्दों मै तो तेरे पास में , ना मै मंदिर ना मै मस्जिद ना काबा कैलाश में खोजो तो पा जाओगे एक पल की तालाश में मैं तो रचा बसा रहता हूँ हर स्वासो की सांस में मुझको कहा ढूढो हे मानव मैं तो तेरे पास में ,",
+      "कायर डरपोक और भीरू लोग किसी काम को करना शुरू तो करते हैं लेकिन मुसीबत आने पर वह काम बीच में ही छोड़ कर बैठ जाते है , लेकिन धीर वीर लोग सभी मुशीबतो का सामना करते हुए कार्य काम को पूरा करते हैं झुण्ड बना कर सूअर और कुत्ते निकलते हैं लेकिन शेर अकेला ही निकल पड़ता है शूरवीर बने कायर नहीं ,",
+      "पशुपति (शिव) के सेवक नंदी (बैल) का भाग्य उदय होने वाला है .क्योकि जो पुरे विश्व का नाथ यानि विश्वनाथ जी है. वह अपने सेवक नंदी को उसकी तपस्या का फल जरूर देना चाहिए .क्योकि नन्दी हजारो वर्षो से उनकी ओर अपना मुँह घूमा कर बैठा एक टक निहारता रहा है . ॐ नमः शिवाय .",
+      "Koo.डेली chek इन नहीं चल रहा है. चालू करने की कृपा करे.",
+      "अपराधी अपराध करके कुछ सबूत छोड़ देते है , शिव (शम्भू) जिधर विराजमान हो तो (नंदी) भी अपना मुख (मुँह) उधर ही मोड़ लेते है / ॐ नमः शिवाय ,",
+      "Koo का पैसा balance पर भेजे. Koo का पैसा bauchar पर ना भेजे Koo App पर कमाई का पैसा बैलेंस पर क्यों नहीं भेजा जा रहा है ."
+    ],
+    "sample_historical_comments": [
+      "मजहब के नाम पर दंगा फसाद करने आतंग फैलाने वालो के लिए परमात्मा का सन्देश मुझको कहा ढूढो हे बन्दों मै तो तेरे पास में , ना मै मंदिर ना मै मस्जिद ना काबा कैलाश में खोजो तो पा जाओगे एक पल की तालाश में मैं तो रचा बसा रहता हूँ हर स्वासो की सांस में मुझको कहा ढूढो हे मानव मैं तो तेरे पास में ,",
+      "कायर डरपोक और भीरू लोग किसी काम को करना शुरू तो करते हैं लेकिन मुसीबत आने पर वह काम बीच में ही छोड़ कर बैठ जाते है , लेकिन धीर वीर लोग सभी मुशीबतो का सामना करते हुए कार्य काम को पूरा करते हैं झुण्ड बना कर सूअर और कुत्ते निकलते हैं लेकिन शेर अकेला ही निकल पड़ता है शूरवीर बने कायर नहीं ,",
+      "पशुपति (शिव) के सेवक नंदी (बैल) का भाग्य उदय होने वाला है .क्योकि जो पुरे विश्व का नाथ यानि विश्वनाथ जी है. वह अपने सेवक नंदी को उसकी तपस्या का फल जरूर देना चाहिए .क्योकि नन्दी हजारो वर्षो से उनकी ओर अपना मुँह घूमा कर बैठा एक टक निहारता रहा है . ॐ नमः शिवाय .",
+      "Koo.डेली chek इन नहीं चल रहा है. चालू करने की कृपा करे.",
+      "अपराधी अपराध करके कुछ सबूत छोड़ देते है , शिव (शम्भू) जिधर विराजमान हो तो (नंदी) भी अपना मुख (मुँह) उधर ही मोड़ लेते है / ॐ नमः शिवाय ,",
+      "Koo का पैसा balance पर भेजे. Koo का पैसा bauchar पर ना भेजे Koo App पर कमाई का पैसा बैलेंस पर क्यों नहीं भेजा जा रहा है ."
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        1.0,
+        0.9526,
+        0.9081,
+        0.8393
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_021",
+    "source_user_hash": "01ff3b8c5244",
+    "language": "Hindi",
+    "archetype": "Cultural / Traditional Norms",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 236.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "बंगाल की धरती अब परिवर्त्तन के लिए तैयार है आप थोड़ा साथ दे तो परिवर्तन हो जाएगा",
+      "बंगाल में चुनाव जीतते ही खुनी खेल चालू हो गया दीदी से बिनम्रा निवेदन है की अपने लोगो को खून खराबा करने से रोका जाय चुनाव होता है तो अनेक पार्टिया चुनाव लड़ती है उनके अपने अपने पसंद की पार्टियों को लोग सप्पोर्ट करते है लेकिन यहां पे एक पार्टी द्वारा किसी और को सपोर्ट करने से जितने वाले इनलोगो को मारपीताजाता है ये अच्छी बात नहीं है किसी का घर जला दिया जाता है किसी को मारा पीटा जाता है",
+      "सॉरी रबिश कुमार जी मै आपके बातो से सहमत नहीं हु मै आपको बता दू की आप जैसा बेसरम आदमी मैंने नहीं देखा अगर हमारे प्रधानमंत्री कुछ भी करे आपको कभी भी अच्छा नहीं लगा आप कभी किसी और भी मंत्रियो के बारे में कुछ बोल दीजिए",
+      "आप पार्टी के नेता संजय सिंह जी आप अपने नेता केजरीवाल जी का बात कीजिए आप लोग दिल्ली को नहीं संभल सकते यूपी की बात करते हो आपकी दिल्ली आपसे नहीं संभालती तो जरा सोचिए इतने बड़े स्टेट के बारे में बात कैसे करते हो बात बात में केंद्र से मदद की भीख मांगते रहते हो आजतक यूपी के मंत्री ने केंद्र के आगे आपलोग जैसा रोना नहीं रोया",
+      "संजय सिंह आप नेता सोनिया की बेटी प्रियंका वाड्रा आज जो लोग रामजन्मभूमि ट्रस्ट को घोटाले में फंसा रही है ये जितने बीजेपी पार्टी को छोड़कर बाकि सभी पार्टिया राममंदिर बनने नहीं दे रहे थे आज वो फिर मंदिर बनाने में अर्चन दाल रहे है सूअर कुत्ते लोग आज तक हिन्दुओ की कभी क़द्र नहीं की आज वो फिर हिन्दुओ की एकता को तोरने में लग गए लेकिन कुत्ते की पूंछ जैसा है ये कभी सीधी नहीं हो सकती लेकिन आज सर"
+    ],
+    "sample_historical_comments": [
+      "बंगाल की धरती अब परिवर्त्तन के लिए तैयार है आप थोड़ा साथ दे तो परिवर्तन हो जाएगा",
+      "बंगाल में चुनाव जीतते ही खुनी खेल चालू हो गया दीदी से बिनम्रा निवेदन है की अपने लोगो को खून खराबा करने से रोका जाय चुनाव होता है तो अनेक पार्टिया चुनाव लड़ती है उनके अपने अपने पसंद की पार्टियों को लोग सप्पोर्ट करते है लेकिन यहां पे एक पार्टी द्वारा किसी और को सपोर्ट करने से जितने वाले इनलोगो को मारपीताजाता है ये अच्छी बात नहीं है किसी का घर जला दिया जाता है किसी को मारा पीटा जाता है",
+      "सॉरी रबिश कुमार जी मै आपके बातो से सहमत नहीं हु मै आपको बता दू की आप जैसा बेसरम आदमी मैंने नहीं देखा अगर हमारे प्रधानमंत्री कुछ भी करे आपको कभी भी अच्छा नहीं लगा आप कभी किसी और भी मंत्रियो के बारे में कुछ बोल दीजिए",
+      "आप पार्टी के नेता संजय सिंह जी आप अपने नेता केजरीवाल जी का बात कीजिए आप लोग दिल्ली को नहीं संभल सकते यूपी की बात करते हो आपकी दिल्ली आपसे नहीं संभालती तो जरा सोचिए इतने बड़े स्टेट के बारे में बात कैसे करते हो बात बात में केंद्र से मदद की भीख मांगते रहते हो आजतक यूपी के मंत्री ने केंद्र के आगे आपलोग जैसा रोना नहीं रोया",
+      "संजय सिंह आप नेता सोनिया की बेटी प्रियंका वाड्रा आज जो लोग रामजन्मभूमि ट्रस्ट को घोटाले में फंसा रही है ये जितने बीजेपी पार्टी को छोड़कर बाकि सभी पार्टिया राममंदिर बनने नहीं दे रहे थे आज वो फिर मंदिर बनाने में अर्चन दाल रहे है सूअर कुत्ते लोग आज तक हिन्दुओ की कभी क़द्र नहीं की आज वो फिर हिन्दुओ की एकता को तोरने में लग गए लेकिन कुत्ते की पूंछ जैसा है ये कभी सीधी नहीं हो सकती लेकिन आज सर"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.8406,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_023",
+    "source_user_hash": "0161524b08b5",
+    "language": "Hindi",
+    "archetype": "Educator / Factual Explainer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "usually concise.",
+      "formality": "Colloquial",
+      "avg_unit_length": 58.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "क़लम उठी थी बदनामी करने और आज फ़िर उनकी तारीफ़ो का अफ़साना लिख बेठे|",
+      "फ्रिज का कितना भी ठंडा पानी हो......पर प्यास तो घड़े के पानी से ही शांत होती है",
+      "रोज मेरी पोस्ट पड़ते हो कभी हाल चाल भी पूछ लिया करो",
+      "हर चीज़ की इजाजत नहीं होती इश्क़ में कुछ पाबंदियां भी जरूरी है",
+      "इंसान खुद की नज़र में सही होना चाहिए, दुनिया तो भगवान से भी दुखी है",
+      "सोच रहा हूँ कि क्या सोचूँ 🤔🤨"
+    ],
+    "sample_historical_comments": [
+      "क़लम उठी थी बदनामी करने और आज फ़िर उनकी तारीफ़ो का अफ़साना लिख बेठे|",
+      "फ्रिज का कितना भी ठंडा पानी हो......पर प्यास तो घड़े के पानी से ही शांत होती है",
+      "रोज मेरी पोस्ट पड़ते हो कभी हाल चाल भी पूछ लिया करो",
+      "हर चीज़ की इजाजत नहीं होती इश्क़ में कुछ पाबंदियां भी जरूरी है",
+      "इंसान खुद की नज़र में सही होना चाहिए, दुनिया तो भगवान से भी दुखी है",
+      "सोच रहा हूँ कि क्या सोचूँ 🤔🤨"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9335,
+        0.8905,
+        0.9904,
+        0.7762,
+        0.7992,
+        0.7068
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_026",
+    "source_user_hash": "0127da3df2f9",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 167.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "मेने जिंदगी में कुछ नहीं किआ मेरा आना इस दुनिआ में सायद बेकार हे beta कहता हे तुमने क्या किआ मेरे लिए बस सायद मेरा जनम ही क्यों हुआ",
+      "किसी की मदद करनी हे तो उसे भीख नहीं उसे रोजगार दो भीख से इंसान गिरता हे रोजगार से उठता हे किसी को उठाओ गिराओ नहीं देश भी जभी आगेबरडता हे",
+      "हाड मॉस के पुतले हम हमने कब ये जाना था क्या होगा नाम मेरा क्या धरम अपनाना था किस्क्को माँ कहना था किसको बहन बनाना था ये रिश्ते हमने खुद बनाए बाहर क्यों पूछने जाना था इतना समज हे इंसान इस मिटटी में पैदा हुए इसी में मिल जाना हे फिर क्या तेरा मेरा हे सब यही रह जाना है",
+      "खुदा एक शक्ति शिव एक शक्ति खुदा शिव में मिला या शिव खुदा में मिला उन्हें कोई एतराज नहीं तो हम कोअन होते हे इन्हे अलग अलग बताने वाले न बड़ा मोलाना न कोई पंडित हिन्दुस्तान एक घर हे हम सब एक परिवार बहार वालो के कहने पर क्यों उठा रहे हतियार",
+      "क्या हो गया आज के इंसान को वो प्यार मुहब्बत वो भाईचारा वो ईद वो दिवाली फर्क नहीं था इनमे भूल गए वो अपनापन अब अपना अपना करते हे अपना तो कुछ भी नही किसी को कुछ ले जाते देखा है"
+    ],
+    "sample_historical_comments": [
+      "मेने जिंदगी में कुछ नहीं किआ मेरा आना इस दुनिआ में सायद बेकार हे beta कहता हे तुमने क्या किआ मेरे लिए बस सायद मेरा जनम ही क्यों हुआ",
+      "किसी की मदद करनी हे तो उसे भीख नहीं उसे रोजगार दो भीख से इंसान गिरता हे रोजगार से उठता हे किसी को उठाओ गिराओ नहीं देश भी जभी आगेबरडता हे",
+      "हाड मॉस के पुतले हम हमने कब ये जाना था क्या होगा नाम मेरा क्या धरम अपनाना था किस्क्को माँ कहना था किसको बहन बनाना था ये रिश्ते हमने खुद बनाए बाहर क्यों पूछने जाना था इतना समज हे इंसान इस मिटटी में पैदा हुए इसी में मिल जाना हे फिर क्या तेरा मेरा हे सब यही रह जाना है",
+      "खुदा एक शक्ति शिव एक शक्ति खुदा शिव में मिला या शिव खुदा में मिला उन्हें कोई एतराज नहीं तो हम कोअन होते हे इन्हे अलग अलग बताने वाले न बड़ा मोलाना न कोई पंडित हिन्दुस्तान एक घर हे हम सब एक परिवार बहार वालो के कहने पर क्यों उठा रहे हतियार",
+      "क्या हो गया आज के इंसान को वो प्यार मुहब्बत वो भाईचारा वो ईद वो दिवाली फर्क नहीं था इनमे भूल गए वो अपनापन अब अपना अपना करते हे अपना तो कुछ भी नही किसी को कुछ ले जाते देखा है"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9003,
+        0.8901,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_027",
+    "source_user_hash": "01bc67528a6f",
+    "language": "Hindi",
+    "archetype": "Cultural / Traditional Norms",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; uses emphatic punctuation.",
+      "formality": "Colloquial",
+      "avg_unit_length": 80.7,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "#शायरीजो दिखाई देता है वो हंमेशा सच नहीं होता, कहीं धोखे में आँखे है और कहीं आँखों के धोखे है !!",
+      "मेरा मजहब तो ये दो हथेलियाँ बताती है, जुड़े तो पूजा और खुले तो दुआ कहलाती है !!",
+      "सियासत नफ़रतों का जख्म भरने ही नहीं देती, जहाँ भरने पे आता हैं तो मक्खी बैठ जाती हैं",
+      "#mannkibaat मुझ पर हंसने वाला ही मेरा अपना है उसे ही मेरा फीकर बस शायद उसका तरीका कुछ अलग है जो समय-समय पर बदलता है",
+      "#koopekahouparchado काश ऐसा कानून होता की भारत में रहना है तो मां-बाप कहना है",
+      "अच्छा यह बताओ आप बड़ा या अहंकार ,?"
+    ],
+    "sample_historical_comments": [
+      "#शायरीजो दिखाई देता है वो हंमेशा सच नहीं होता, कहीं धोखे में आँखे है और कहीं आँखों के धोखे है !!",
+      "मेरा मजहब तो ये दो हथेलियाँ बताती है, जुड़े तो पूजा और खुले तो दुआ कहलाती है !!",
+      "सियासत नफ़रतों का जख्म भरने ही नहीं देती, जहाँ भरने पे आता हैं तो मक्खी बैठ जाती हैं",
+      "#mannkibaat मुझ पर हंसने वाला ही मेरा अपना है उसे ही मेरा फीकर बस शायद उसका तरीका कुछ अलग है जो समय-समय पर बदलता है",
+      "#koopekahouparchado काश ऐसा कानून होता की भारत में रहना है तो मां-बाप कहना है",
+      "अच्छा यह बताओ आप बड़ा या अहंकार ,?"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.8295,
+        0.9904,
+        0.8205,
+        0.917,
+        0.9721,
+        0.776
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_028",
+    "source_user_hash": "039bb5473a1a",
+    "language": "Hindi",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 163.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "#yogaforhumanity #आत्मनिर्भर_भारत #aajadikaamrutmahotsav योग के ध्यान से हम अपने जीवन में सभी मुश्किलों और दुखों को आसानी से झेल सकते हैं। योग का प्रकाश कभी बंद नहीं होता। आपका अभ्यास जितना बेहतर होगा, आपकी चमक उतनी ही शानदार होगी। योग प्रत्येक कोशिका का नृत्य है, जिसमें प्रत्येक सांस के संगीत के साथ आपको आंतरिक शांति और शक्ति मिलती है।",
+      "प्रेम बड़ी मुक्त चिड़िया है; खुले आकाश में ही उड़ती है; ज़रा-सा उसे बंधन दोगे, वो ख़त्म हो जाएगी। जैसे धूप! धूप को पकड़ना चाहोगे, नहीं पकड़ पाओगे क्योंकि जहाँ तुमने धूप को पकड़ने के लिए कुछ भी करा, छाया आ जायेगी। #mentorship #kooapp",
+      "आये हो निभाने जब किरदार जमी पर कुछ ऐसा कर चलो की जमाना मिसाल दे! #आत्मनिर्भर_भारत #kooapp #mentorship #worldphotographyday2022",
+      "हमारे पूरे जीवन में teeth (दांत) कितने आते हैं।",
+      "सफलता भी फीकी लगती है, यदि कोई बधाई देने वाला ना हो! और विफलता भी सुंदर लगती है जब संकट में आप साथ कोई अपना खड़ा हो!! 😊😊"
+    ],
+    "sample_historical_comments": [
+      "#yogaforhumanity #आत्मनिर्भर_भारत #aajadikaamrutmahotsav योग के ध्यान से हम अपने जीवन में सभी मुश्किलों और दुखों को आसानी से झेल सकते हैं। योग का प्रकाश कभी बंद नहीं होता। आपका अभ्यास जितना बेहतर होगा, आपकी चमक उतनी ही शानदार होगी। योग प्रत्येक कोशिका का नृत्य है, जिसमें प्रत्येक सांस के संगीत के साथ आपको आंतरिक शांति और शक्ति मिलती है।",
+      "प्रेम बड़ी मुक्त चिड़िया है; खुले आकाश में ही उड़ती है; ज़रा-सा उसे बंधन दोगे, वो ख़त्म हो जाएगी। जैसे धूप! धूप को पकड़ना चाहोगे, नहीं पकड़ पाओगे क्योंकि जहाँ तुमने धूप को पकड़ने के लिए कुछ भी करा, छाया आ जायेगी। #mentorship #kooapp",
+      "आये हो निभाने जब किरदार जमी पर कुछ ऐसा कर चलो की जमाना मिसाल दे! #आत्मनिर्भर_भारत #kooapp #mentorship #worldphotographyday2022",
+      "हमारे पूरे जीवन में teeth (दांत) कितने आते हैं।",
+      "सफलता भी फीकी लगती है, यदि कोई बधाई देने वाला ना हो! और विफलता भी सुंदर लगती है जब संकट में आप साथ कोई अपना खड़ा हो!! 😊😊"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        0.832,
+        0.8307,
+        0.8369
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_033",
+    "source_user_hash": "018123470827",
+    "language": "Hindi",
+    "archetype": "Cultural / Traditional Norms",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 292.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "मैं सोचता था विदेश में पढाई करने वाले लोग बहुत बड़े होते है , लेकिन आज कुछ लोग ऐसे लोंगोंके साथ खड़े देख कर पता चल रहा है की बेशक बड़े (आमिर ) होंगे लेकिन सोच इतनी छोटी हो सकती है इसका विश्वास करना पड़ रहा है . आप इन्हे सिर्फ साक्षर बोल सकते है , पढ़े लिखे नहीं . जयहिंद जय श्रीराम",
+      "प्रेस कॉनफेरेन्स करने की इतनी जल्दी होती है की पूछो मत चाहे वो बयान किसी भारत रत्न पाने वाले के विरोध में क्यों न हो और जब जनताने लताड़ा तो एक और प्रेस कॉनफेरेन्स , मेरे बयान को तोड़ मरोड़ कर पेश किया , क्यों भाई ऐसी नौबत ही क्यों आती है . मतलब साफ है नियत अच्छी नहीं . जयहिन्द जय श्रीराम",
+      "मैंने बहुत सारे प्रवक्ता टीवी पर बात करते आज तक देखा लेकिन समाजवादी पार्टी के अनुराग भदौरिया जैसा नलया प्रवक्ता आजतक नहीं देखा . विषय क्या है यह भी नहीं जानते हुए लगातार बात करते है और चैनल वाले भी ऐसे लोगोको क्यों लाते है पता नहीं . जयहिंद जय श्रीराम",
+      "सिर्फ १५ दिनों में पंद्रहसौ करोड़ के करीब चंदा इकट्ठा हुआ है . सब रामजी की कृपा है . चिल्ला तो सिर्फ वही लोग है जिन्होंने जिंदगी में किसीको चवन्नी नहीं दी, साथ में कुछ वो भी है जो तारीख पूछ रहे थे . भइया तारीख भी आयी, पैसा भी आया, पचा नहीं पा रहे है . सब प्रभु की कृपा जयहिंद जय श्रीराम",
+      "आज मैंने देश की इस साल की सबसे बड़ी बहस ज़ी न्यूज़ की ' ताल ठोंक के ' कार्यक्रम में देखी . जिसमे अमन चोप्राजी कांग्रेस के प्रवक्ता से सुरु से आखिर तक एक ही छोटासा सवाल पूछते रहे , राहुल गांधी की , गांधी नाम के अलावा सिर्फ एक उपलब्धी बताए . कांग्रेस के दो प्रवक्ता होने के बावजूद एक उपलब्धी नहीं बता पाए . आज तक मैं भी गलत फैमी पाले हुए था जो इन्होने दूर की . मजा आया जयहिंद जय श्रीराम",
+      "कल एक राष्ट्रीय चॅनल पर बहस देखी . मुददा था काॅग्रेस (मॅगो पाॅलिटीकस) लेकिन सारे प्रवक्ता गला फाड फाड योगीजी के नाम का जप कर रहे थे. मै तभी समजु योगीजी का इतना खौफ क्यो है. सपा का सबसे पढा लिखा भदोरिया तो रूके नहीं रूक रहा था. बस पाणी देना बाकी था. डर अच्छा है. जयहिंद जय श्रीराम"
+    ],
+    "sample_historical_comments": [
+      "मैं सोचता था विदेश में पढाई करने वाले लोग बहुत बड़े होते है , लेकिन आज कुछ लोग ऐसे लोंगोंके साथ खड़े देख कर पता चल रहा है की बेशक बड़े (आमिर ) होंगे लेकिन सोच इतनी छोटी हो सकती है इसका विश्वास करना पड़ रहा है . आप इन्हे सिर्फ साक्षर बोल सकते है , पढ़े लिखे नहीं . जयहिंद जय श्रीराम",
+      "प्रेस कॉनफेरेन्स करने की इतनी जल्दी होती है की पूछो मत चाहे वो बयान किसी भारत रत्न पाने वाले के विरोध में क्यों न हो और जब जनताने लताड़ा तो एक और प्रेस कॉनफेरेन्स , मेरे बयान को तोड़ मरोड़ कर पेश किया , क्यों भाई ऐसी नौबत ही क्यों आती है . मतलब साफ है नियत अच्छी नहीं . जयहिन्द जय श्रीराम",
+      "मैंने बहुत सारे प्रवक्ता टीवी पर बात करते आज तक देखा लेकिन समाजवादी पार्टी के अनुराग भदौरिया जैसा नलया प्रवक्ता आजतक नहीं देखा . विषय क्या है यह भी नहीं जानते हुए लगातार बात करते है और चैनल वाले भी ऐसे लोगोको क्यों लाते है पता नहीं . जयहिंद जय श्रीराम",
+      "सिर्फ १५ दिनों में पंद्रहसौ करोड़ के करीब चंदा इकट्ठा हुआ है . सब रामजी की कृपा है . चिल्ला तो सिर्फ वही लोग है जिन्होंने जिंदगी में किसीको चवन्नी नहीं दी, साथ में कुछ वो भी है जो तारीख पूछ रहे थे . भइया तारीख भी आयी, पैसा भी आया, पचा नहीं पा रहे है . सब प्रभु की कृपा जयहिंद जय श्रीराम",
+      "आज मैंने देश की इस साल की सबसे बड़ी बहस ज़ी न्यूज़ की ' ताल ठोंक के ' कार्यक्रम में देखी . जिसमे अमन चोप्राजी कांग्रेस के प्रवक्ता से सुरु से आखिर तक एक ही छोटासा सवाल पूछते रहे , राहुल गांधी की , गांधी नाम के अलावा सिर्फ एक उपलब्धी बताए . कांग्रेस के दो प्रवक्ता होने के बावजूद एक उपलब्धी नहीं बता पाए . आज तक मैं भी गलत फैमी पाले हुए था जो इन्होने दूर की . मजा आया जयहिंद जय श्रीराम",
+      "कल एक राष्ट्रीय चॅनल पर बहस देखी . मुददा था काॅग्रेस (मॅगो पाॅलिटीकस) लेकिन सारे प्रवक्ता गला फाड फाड योगीजी के नाम का जप कर रहे थे. मै तभी समजु योगीजी का इतना खौफ क्यो है. सपा का सबसे पढा लिखा भदोरिया तो रूके नहीं रूक रहा था. बस पाणी देना बाकी था. डर अच्छा है. जयहिंद जय श्रीराम"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_034",
+    "source_user_hash": "04ae6626a7d7",
+    "language": "Hindi",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 95.0,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "बीजेपी को इस बार २७५ या ३१५ सीट मिल सतक्ता है बाबा जी ही मुख्यमंत्री बनेगे आप को में पहले ही बता देता हु बाबा जी आप को इस बार पहले से जा हम दिन रात काम कर रहे है में",
+      "बीजेपी को पचमी उतर प्रदेश में बहुत ही सही रिजल्ट मिलने जा रहा ह ३९",
+      "बीजेपी को २३८ .या २८५ सीट मिलेगा बाबा जी को अभी रोजगार के बारे में और बोलना पड़ेगा नहीं तो सीएएम खरसब हो जायेगा नोजवानो के बारे में भी सरे बिपछि रोजगार के बात कार रही है नहीं तो काम ख़राब हो भी सकता है बाबा जी जाये हो",
+      "बीजेपी की जाये हो २१५ .२४३ है इस बार",
+      "में अभी बाहर हु भाही जी बाबा गोरखनाथ जी का darsan करने आया हु अभी"
+    ],
+    "sample_historical_comments": [
+      "बीजेपी को इस बार २७५ या ३१५ सीट मिल सतक्ता है बाबा जी ही मुख्यमंत्री बनेगे आप को में पहले ही बता देता हु बाबा जी आप को इस बार पहले से जा हम दिन रात काम कर रहे है में",
+      "बीजेपी को पचमी उतर प्रदेश में बहुत ही सही रिजल्ट मिलने जा रहा ह ३९",
+      "बीजेपी को २३८ .या २८५ सीट मिलेगा बाबा जी को अभी रोजगार के बारे में और बोलना पड़ेगा नहीं तो सीएएम खरसब हो जायेगा नोजवानो के बारे में भी सरे बिपछि रोजगार के बात कार रही है नहीं तो काम ख़राब हो भी सकता है बाबा जी जाये हो",
+      "बीजेपी की जाये हो २१५ .२४३ है इस बार",
+      "में अभी बाहर हु भाही जी बाबा गोरखनाथ जी का darsan करने आया हु अभी"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        0.8607,
+        1.0,
+        0.7932,
+        0.9609
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_038",
+    "source_user_hash": "036b4e2a5f2b",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 136.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "लगता है कि रणदीप सुरजेवाला का दिमाग खराब हो गया है। 62 करोड़ किसान आंदोलन में नहीं हैं सुरजेवाला, सिर्फ देशद्रोही लोग आंदोलन में शामिल हैं। कांग्रेस भी देशद्रोही है।",
+      "कांग्रेस पार्टी लोकसभा में चर्चा नहीं करती है। बाहर नौटंकी करती है। राकेश टिकैत का साथ देकर कांग्रेस ने बहुत बड़ी गलती की है। कांग्रेस को बहुत ज्यादा नोकसान होगा।",
+      "शिल्पा शेट्टी जी इतनी बड़ी हीरोइन है। पहले से शादी-शुदा पति राज कुंद्रा की पहली पत्नी कविता कुंद्रा और दूसरी पत्नी शिल्पा शेट्टी है। अब क्या होगा शिल्पा शेट्टी कुंद्रा जी?",
+      "विवेक श्रीवास्तव जैसा आदमी को न्यूज़ नेशन चैनल पर ना बुलाया जाए। हारामी साला किसी को बोलने नहीं देता है। डिवेट में सबके बिच में बोलने लगता है। इस हारामी को ना बुलाया जाए।",
+      "आरक्षण देश को खोखला कर रहा है इसलिए आरक्षण पूर्ण रूप से समाप्त हो।",
+      "भारत को तुरन्त पंजशीर को हर संभव मदद करना चाहिए तालिबानी आतंकियों को समाप्त करने के लिए।"
+    ],
+    "sample_historical_comments": [
+      "लगता है कि रणदीप सुरजेवाला का दिमाग खराब हो गया है। 62 करोड़ किसान आंदोलन में नहीं हैं सुरजेवाला, सिर्फ देशद्रोही लोग आंदोलन में शामिल हैं। कांग्रेस भी देशद्रोही है।",
+      "कांग्रेस पार्टी लोकसभा में चर्चा नहीं करती है। बाहर नौटंकी करती है। राकेश टिकैत का साथ देकर कांग्रेस ने बहुत बड़ी गलती की है। कांग्रेस को बहुत ज्यादा नोकसान होगा।",
+      "शिल्पा शेट्टी जी इतनी बड़ी हीरोइन है। पहले से शादी-शुदा पति राज कुंद्रा की पहली पत्नी कविता कुंद्रा और दूसरी पत्नी शिल्पा शेट्टी है। अब क्या होगा शिल्पा शेट्टी कुंद्रा जी?",
+      "विवेक श्रीवास्तव जैसा आदमी को न्यूज़ नेशन चैनल पर ना बुलाया जाए। हारामी साला किसी को बोलने नहीं देता है। डिवेट में सबके बिच में बोलने लगता है। इस हारामी को ना बुलाया जाए।",
+      "आरक्षण देश को खोखला कर रहा है इसलिए आरक्षण पूर्ण रूप से समाप्त हो।",
+      "भारत को तुरन्त पंजशीर को हर संभव मदद करना चाहिए तालिबानी आतंकियों को समाप्त करने के लिए।"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        1.0,
+        0.9998,
+        0.6574,
+        0.8527
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_039",
+    "source_user_hash": "00bc0cbe2611",
+    "language": "Hindi",
+    "archetype": "Cultural / Traditional Norms",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 157.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "जब तक सांस रहेगी जय श्री राम जब तक आस रहेगी जय श्री राम सब भाई बहनों को जय जय #श्री राम",
+      "आज रामनवमी है और मर्यादा पुरुषोत्तम श्रीराम का हम सभी को यही संदेश है कि मर्यादाओं का पालन करें। कोरोना के इस संकट काल में, कोरोना से बचने के जो भी उपाय हैं, कृपया करके उनका पालन कीजिए। 'दवाई भी, कड़ाई भी' के मंत्र को याद रखिए।",
+      "आज रामनवमी है और मर्यादा पुरुषोत्तम श्रीराम का हम सभी को यही संदेश है कि मर्यादाओं का पालन करें। कोरोना के इस संकट काल में, कोरोना से बचने के जो भी उपाय हैं, कृपया करके उनका पालन कीजिए। 'दवाई भी, कड़ाई भी' के मंत्र को याद रखिए।",
+      "इजरायल इसलिए भरपूर ताकत से युद्ध लड़ रहा है क्योंकि वहां सेना से सबूत मांगने वाले राहुल गांधी और केजरीवाल नहीं हैं !! सहमत हो तो शेयर करो",
+      "जितना पत्रकार पेट के लिए लिखतें हैं, उतना मैं देश धर्म के लिए लिखता हूं इसी से बहुतों का पेट दर्द होता है। 👍 🙏🚩जय श्री राम 🚩🙏",
+      "जब छोटे थे,तब बड़े होने की बड़ी चाहत थी,,पर अब पता चला कि,,, अधूरे अहसास और टूटे सपनों से, अधूरे सपने और टूटे खिलौने अच्छे थे! जय श्री कृष्णा"
+    ],
+    "sample_historical_comments": [
+      "जब तक सांस रहेगी जय श्री राम जब तक आस रहेगी जय श्री राम सब भाई बहनों को जय जय #श्री राम",
+      "आज रामनवमी है और मर्यादा पुरुषोत्तम श्रीराम का हम सभी को यही संदेश है कि मर्यादाओं का पालन करें। कोरोना के इस संकट काल में, कोरोना से बचने के जो भी उपाय हैं, कृपया करके उनका पालन कीजिए। 'दवाई भी, कड़ाई भी' के मंत्र को याद रखिए।",
+      "आज रामनवमी है और मर्यादा पुरुषोत्तम श्रीराम का हम सभी को यही संदेश है कि मर्यादाओं का पालन करें। कोरोना के इस संकट काल में, कोरोना से बचने के जो भी उपाय हैं, कृपया करके उनका पालन कीजिए। 'दवाई भी, कड़ाई भी' के मंत्र को याद रखिए।",
+      "इजरायल इसलिए भरपूर ताकत से युद्ध लड़ रहा है क्योंकि वहां सेना से सबूत मांगने वाले राहुल गांधी और केजरीवाल नहीं हैं !! सहमत हो तो शेयर करो",
+      "जितना पत्रकार पेट के लिए लिखतें हैं, उतना मैं देश धर्म के लिए लिखता हूं इसी से बहुतों का पेट दर्द होता है। 👍 🙏🚩जय श्री राम 🚩🙏",
+      "जब छोटे थे,तब बड़े होने की बड़ी चाहत थी,,पर अब पता चला कि,,, अधूरे अहसास और टूटे सपनों से, अधूरे सपने और टूटे खिलौने अच्छे थे! जय श्री कृष्णा"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9153,
+        1.0,
+        1.0,
+        0.945,
+        0.8558,
+        0.9118
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_043",
+    "source_user_hash": "0491d4a87b8b",
+    "language": "Hindi",
+    "archetype": "Supportive / Pro-LGBTQ+ Ally",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; uses emphatic punctuation; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 200.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "\"जिसने मुगलों को डराया व हराया वो था भारत का महान महाराणा\" अपने साहस,वीरता,धैर्य व दृढ़संकल्प के बल पर अपनी मातृभूमि व आत्मसम्मान की रक्षा करने के लिए इस्लामिक हमलावरों को धूल चटाने वाले शौर्य का दूसरा नाम महाराणा प्रताप जी को शत् शत् नमन्🙏हर हिन्दू को महाराणा बनना पड़ेगा ⚔️🔥",
+      "CAA और NRC से सबसे बड़ी दिक्कत यह है कि “नेहरू“ परिवार के पास खुद “गाँधी“ होने के कागजात नहीं है.",
+      "“अल्पसंख्यक“ के नाम पर बंटने वाली खैरात रोक दो पेट्रोल 50 रूपये लीटर हो जाएगा ..",
+      "एक बनिया ने अपने नौकर अब्दुल से पूछा-“मेरे पास 2 बच्चे हैं,मुझे उनके भविष्य की चिंता होती है,तुम्हारे 12 हैं फिर भी तुम्हें चिंता नहीं होती।“ अब्दुल्ल-मालिक,25 साल बाद मेरे 12 बेटे मिलकर आपकी इस दुकान पर कब्जा कर लेंगे।आप हमारे लिए ही तो कमा रहे हैं,चिंता क्यों करुंगा।",
+      "👊🏽👊🏽 मेरे घर के दरवाजे के पास एक कुत्ती दुम दबाके, सहमी हुई बैठती थी। दया भाव से मैंने भी उसे भगाया नहीं। कुछ महीने में उसने 8-10 पिल्लै दिए अब गुर्राती है *इस पोस्ट का रोहिंग्या और अफ़ग़ान शरणार्थी से सीधा संबंध है...* ❓🤔😉🧐",
+      "30 रुपये की दही अब 32 रुपये की मिलेगी...सिर्फ इतने में विराट हिंदुओं को मिर्गी आ रही है... ये लड़ेंगे PFI के विज़न 2047 से! 😡 \"वो\" अपने हिस्से की लड़ाई \"तन मन धन\" से लड़ रहे हैं! तुम तो अभी तक ठीक से यह भी मानने को तैयार नहीं हो कि कोई \"युद्ध\" भी चल रहा है..."
+    ],
+    "sample_historical_comments": [
+      "\"जिसने मुगलों को डराया व हराया वो था भारत का महान महाराणा\" अपने साहस,वीरता,धैर्य व दृढ़संकल्प के बल पर अपनी मातृभूमि व आत्मसम्मान की रक्षा करने के लिए इस्लामिक हमलावरों को धूल चटाने वाले शौर्य का दूसरा नाम महाराणा प्रताप जी को शत् शत् नमन्🙏हर हिन्दू को महाराणा बनना पड़ेगा ⚔️🔥",
+      "CAA और NRC से सबसे बड़ी दिक्कत यह है कि “नेहरू“ परिवार के पास खुद “गाँधी“ होने के कागजात नहीं है.",
+      "“अल्पसंख्यक“ के नाम पर बंटने वाली खैरात रोक दो पेट्रोल 50 रूपये लीटर हो जाएगा ..",
+      "एक बनिया ने अपने नौकर अब्दुल से पूछा-“मेरे पास 2 बच्चे हैं,मुझे उनके भविष्य की चिंता होती है,तुम्हारे 12 हैं फिर भी तुम्हें चिंता नहीं होती।“ अब्दुल्ल-मालिक,25 साल बाद मेरे 12 बेटे मिलकर आपकी इस दुकान पर कब्जा कर लेंगे।आप हमारे लिए ही तो कमा रहे हैं,चिंता क्यों करुंगा।",
+      "👊🏽👊🏽 मेरे घर के दरवाजे के पास एक कुत्ती दुम दबाके, सहमी हुई बैठती थी। दया भाव से मैंने भी उसे भगाया नहीं। कुछ महीने में उसने 8-10 पिल्लै दिए अब गुर्राती है *इस पोस्ट का रोहिंग्या और अफ़ग़ान शरणार्थी से सीधा संबंध है...* ❓🤔😉🧐",
+      "30 रुपये की दही अब 32 रुपये की मिलेगी...सिर्फ इतने में विराट हिंदुओं को मिर्गी आ रही है... ये लड़ेंगे PFI के विज़न 2047 से! 😡 \"वो\" अपने हिस्से की लड़ाई \"तन मन धन\" से लड़ रहे हैं! तुम तो अभी तक ठीक से यह भी मानने को तैयार नहीं हो कि कोई \"युद्ध\" भी चल रहा है..."
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        0.913,
+        0.7563,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_044",
+    "source_user_hash": "03e73763ab95",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 185.0,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "मैं सब्दो की ऐसी सरगम देना चाहता हूँ जो पढ़े उनके भीतर के सितार बज जाए मुहब्बत इबादत में बदल जाए कलम के आगे तलवार झुक जाए",
+      "जिस दिन आप मुस्कराना सिख जायँगे सच कहता हूँ 💖 🌹आप जीना सिख जायँगे आप आईने के तरफ देख कर इंयु शिकायतें ना किया करो देखो तो सही खुद को मुहब्बत भरी निगाह से💕 आप खुद से भी मुहब्बत कर जायँगे 💗💗💗",
+      "बड़ी बड़ी बाते करने में वक़्त जाया ना कर चल उठ कुछ तो करने का प्रयास कर💎 मेरा क्या हैं मै तो चालक🚘 (ड्राइवर) हूँ पर चालाकियों से काफी दूर रहता हूँ डिग्री नहीं है फिर कलम✍️ का सौख रखता हूँ जितनी मुहब्बत खुद से खुदा से करता हूँ उतनी ही मुहब्वत कलम✍️ से भी करता हुँ राम राम 👃",
+      "ऐ मन तू अपने विचारो पे विराम देदे.. ले चल मुझे उस पार.. कुछ पल के लिए आराम देदे थक चूका हूँ कुछ इस कदर मुझे मौत का I इनाम देदे ऐ मन तू अपने विचारो पे विराम देदे लेले मुझसे मेरी सारी खुशिंया बदले में समसान देदे ऐ मन तू अपने विचारो पे विराम देदे 🙏🙏🙏🙏🙏",
+      "जिंदगी को समझने के चक्कर में पूरी जिंदगी गुजार दी जब तक जिंदगी समझ में आई मौत ने मेरा नाम पुकार ली"
+    ],
+    "sample_historical_comments": [
+      "मैं सब्दो की ऐसी सरगम देना चाहता हूँ जो पढ़े उनके भीतर के सितार बज जाए मुहब्बत इबादत में बदल जाए कलम के आगे तलवार झुक जाए",
+      "जिस दिन आप मुस्कराना सिख जायँगे सच कहता हूँ 💖 🌹आप जीना सिख जायँगे आप आईने के तरफ देख कर इंयु शिकायतें ना किया करो देखो तो सही खुद को मुहब्बत भरी निगाह से💕 आप खुद से भी मुहब्बत कर जायँगे 💗💗💗",
+      "बड़ी बड़ी बाते करने में वक़्त जाया ना कर चल उठ कुछ तो करने का प्रयास कर💎 मेरा क्या हैं मै तो चालक🚘 (ड्राइवर) हूँ पर चालाकियों से काफी दूर रहता हूँ डिग्री नहीं है फिर कलम✍️ का सौख रखता हूँ जितनी मुहब्बत खुद से खुदा से करता हूँ उतनी ही मुहब्वत कलम✍️ से भी करता हुँ राम राम 👃",
+      "ऐ मन तू अपने विचारो पे विराम देदे.. ले चल मुझे उस पार.. कुछ पल के लिए आराम देदे थक चूका हूँ कुछ इस कदर मुझे मौत का I इनाम देदे ऐ मन तू अपने विचारो पे विराम देदे लेले मुझसे मेरी सारी खुशिंया बदले में समसान देदे ऐ मन तू अपने विचारो पे विराम देदे 🙏🙏🙏🙏🙏",
+      "जिंदगी को समझने के चक्कर में पूरी जिंदगी गुजार दी जब तक जिंदगी समझ में आई मौत ने मेरा नाम पुकार ली"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.911,
+        0.9999,
+        1.0,
+        1.0,
+        0.9161
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_046",
+    "source_user_hash": "040fb0640733",
+    "language": "Hindi",
+    "archetype": "Skeptical / Ambiguous Stance",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 168.8,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "दिल की गहराई में भी वो रहती है, मेरी तनहाई में भी वो रहती है ,उसे भुलाऊ तो भुलाऊ कैसे ,अब तो मेरी रगों में खून बन कर वो बहती है",
+      "सनम आ भी जा अब तू, एक बार गले से लगा जा अब तू ,बहुत मुददतो से प्यासा हु मै ,अपनी आँखों से एक जाम पीला जा अब तू",
+      "इस कदर तेरे प्यार में पथर हो गया हु, जैसे उस पे असर नहीं होता बारिस और धुप का, मैं भी पड़ा रहता हु भीड़ में बेअसर सा कोई फर्क नहीं पड़ता किसी के हसने और रोना से",
+      "सारी रात यूँ रोते हुए कट जाती है, इतने अर्सो बाद भी दिल ठंडक नहीं पाती है ,क्या बताऊ जब रोती है ये आँखे दिल किस कदर खून के घुट पिता है ,उस पे कोई असर नहीं मेरा वो तो सारी रत चैन से सोता है",
+      "तुझे देख कऱ अब हसी नहीं आती, न ही सुकून आता है दिल को, ख्याल आता है तुझे देख कऱ तो बस ये की यही है वो जिसने हसना सीखा कऱ आँखों को आंशू दे दिया, यही है वो जिसने जीना सीखा कर जिंदगी छीन ली ,यही है वो जिसने जीने की चाहत दे कर मर डाला मुझे",
+      "वो कहती है बोलो न कुछ ,पर अब बोलने को कुछ हिम्मत नहीं होती ,दर्द बहुत है दिल में पर अब कुछ खोलने की हिम्मत नहीं होती, डरता हु फिर से मजाक न बन जाऊ तेरे लिए, मुझे जीते जी मर डालने की आदत जो है तुझे"
+    ],
+    "sample_historical_comments": [
+      "दिल की गहराई में भी वो रहती है, मेरी तनहाई में भी वो रहती है ,उसे भुलाऊ तो भुलाऊ कैसे ,अब तो मेरी रगों में खून बन कर वो बहती है",
+      "सनम आ भी जा अब तू, एक बार गले से लगा जा अब तू ,बहुत मुददतो से प्यासा हु मै ,अपनी आँखों से एक जाम पीला जा अब तू",
+      "इस कदर तेरे प्यार में पथर हो गया हु, जैसे उस पे असर नहीं होता बारिस और धुप का, मैं भी पड़ा रहता हु भीड़ में बेअसर सा कोई फर्क नहीं पड़ता किसी के हसने और रोना से",
+      "सारी रात यूँ रोते हुए कट जाती है, इतने अर्सो बाद भी दिल ठंडक नहीं पाती है ,क्या बताऊ जब रोती है ये आँखे दिल किस कदर खून के घुट पिता है ,उस पे कोई असर नहीं मेरा वो तो सारी रत चैन से सोता है",
+      "तुझे देख कऱ अब हसी नहीं आती, न ही सुकून आता है दिल को, ख्याल आता है तुझे देख कऱ तो बस ये की यही है वो जिसने हसना सीखा कऱ आँखों को आंशू दे दिया, यही है वो जिसने जीना सीखा कर जिंदगी छीन ली ,यही है वो जिसने जीने की चाहत दे कर मर डाला मुझे",
+      "वो कहती है बोलो न कुछ ,पर अब बोलने को कुछ हिम्मत नहीं होती ,दर्द बहुत है दिल में पर अब कुछ खोलने की हिम्मत नहीं होती, डरता हु फिर से मजाक न बन जाऊ तेरे लिए, मुझे जीते जी मर डालने की आदत जो है तुझे"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9329,
+        0.7524,
+        0.9983,
+        1.0,
+        0.9998,
+        1.0
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_047",
+    "source_user_hash": "0000feda6d00",
+    "language": "Hindi",
+    "archetype": "Educator / Factual Explainer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "usually concise; uses emphatic punctuation.",
+      "formality": "Colloquial",
+      "avg_unit_length": 77.6,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "बातों की मिठास अंदर का भेद नहीं खोलती, मोर को देख कर कौन कह सकता कि, ये सांप खाता होगा।",
+      "मन का झुकना भी बहुत जरुरी है, सिर्फ सर झुकाने से भगवान नहीं मिलते...",
+      "सभी को कृष्ण जन्माष्टमी की शुभकामनाएं",
+      "मन अशांत है और उसे नियंत्रित करना कठिन है लेकिन इसे वश में किया जा सकता है।",
+      "\"अगर आपमें अहंकार है और आपको बहुत गुस्सा आता है ! तो ज़िन्दगी में आपको किसी और दुश्मन की कोई ज़रूरत नहीं !!\" जय बजरंग बली 🙏"
+    ],
+    "sample_historical_comments": [
+      "बातों की मिठास अंदर का भेद नहीं खोलती, मोर को देख कर कौन कह सकता कि, ये सांप खाता होगा।",
+      "मन का झुकना भी बहुत जरुरी है, सिर्फ सर झुकाने से भगवान नहीं मिलते...",
+      "सभी को कृष्ण जन्माष्टमी की शुभकामनाएं",
+      "मन अशांत है और उसे नियंत्रित करना कठिन है लेकिन इसे वश में किया जा सकता है।",
+      "\"अगर आपमें अहंकार है और आपको बहुत गुस्सा आता है ! तो ज़िन्दगी में आपको किसी और दुश्मन की कोई ज़रूरत नहीं !!\" जय बजरंग बली 🙏"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.8384,
+        0.668,
+        0.7119,
+        0.7902,
+        0.9984
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_048",
+    "source_user_hash": "00f6769e7acd",
+    "language": "Hindi",
+    "archetype": "Neutral Observer",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts; uses emphatic punctuation; sometimes uses emoji.",
+      "formality": "Colloquial",
+      "avg_unit_length": 94.5,
+      "unit": "characters",
+      "uses_emoji": true,
+      "emphatic_punctuation": true
+    },
+    "sample_historical_posts": [
+      "#merishayari मै चाहे जितना पीयू चढ़ता ही नहीं वो अपनी नजर से जो नजर मिलाती है अजीब सा नशा होता है ...",
+      "#mysayari रोशनी ने आकर हमसे उजाले की भीख मांगी हम अपना घर ना जलाते तो क्या करते ....",
+      "राष्ट्रीय एकता दिवस की हार्दिक शुभकामनाये हमारी एकता अखंडता और शम्प्रभुता ही हमारी पहचान है जय हिन्द जय भारत",
+      "#मेरीकविता तुम्हे देखे मेरी आंखे इसमें क्या मेरी खता है हल क्या है मेरे दिल का ये तो बस मुझको पता है....",
+      "#मेरीकविता✍️ हम साथ चलेंगे 🚶आपके हमेसा हमसफ़र👬 बन कर🌹🥀💞 साँस 🗣️ही साथ🤝 छोड़☠️ दे तो गुनहगार ना सझना 🥀🌹💞"
+    ],
+    "sample_historical_comments": [
+      "#merishayari मै चाहे जितना पीयू चढ़ता ही नहीं वो अपनी नजर से जो नजर मिलाती है अजीब सा नशा होता है ...",
+      "#mysayari रोशनी ने आकर हमसे उजाले की भीख मांगी हम अपना घर ना जलाते तो क्या करते ....",
+      "राष्ट्रीय एकता दिवस की हार्दिक शुभकामनाये हमारी एकता अखंडता और शम्प्रभुता ही हमारी पहचान है जय हिन्द जय भारत",
+      "#मेरीकविता तुम्हे देखे मेरी आंखे इसमें क्या मेरी खता है हल क्या है मेरे दिल का ये तो बस मुझको पता है....",
+      "#मेरीकविता✍️ हम साथ चलेंगे 🚶आपके हमेसा हमसफ़र👬 बन कर🌹🥀💞 साँस 🗣️ही साथ🤝 छोड़☠️ दे तो गुनहगार ना सझना 🥀🌹💞"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.9965,
+        0.7726,
+        0.7388,
+        0.6564,
+        0.9634
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_049",
+    "source_user_hash": "03f0bec71cf3",
+    "language": "Hindi",
+    "archetype": "Supportive / Pro-LGBTQ+ Ally",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 91.3,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "आवश्यकता ही संसार के व्यवहारों की दलाल है",
+      "सभी को महापर्व श्री रामनवमी की हार्दिक बधाई एवं शुभकामनाएं। मर्यादा पुरुषोत्तम प्रभु श्री राम का जीवन चरित्र समस्त मानव जाति के लिए एक आदर्श है। प्रभु की कृपा सकल विश्व पर बनी रहे। #जय_जय_श्री_राम",
+      "जब तक खुद पर न गुजरे लोगो को , एहसास और जज्बात मज़ाक लगते हैं",
+      "कभी खुशहाल,कभी उदास,कभी जीत तो कभी हार होगी,यह जिंदगी की सड़क है धीरे-धीरे पार होगी",
+      "अच्छे आदमी बनो, लेकिन इसे साबित करने में अपना समय बर्बाद न करो"
+    ],
+    "sample_historical_comments": [
+      "आवश्यकता ही संसार के व्यवहारों की दलाल है",
+      "सभी को महापर्व श्री रामनवमी की हार्दिक बधाई एवं शुभकामनाएं। मर्यादा पुरुषोत्तम प्रभु श्री राम का जीवन चरित्र समस्त मानव जाति के लिए एक आदर्श है। प्रभु की कृपा सकल विश्व पर बनी रहे। #जय_जय_श्री_राम",
+      "जब तक खुद पर न गुजरे लोगो को , एहसास और जज्बात मज़ाक लगते हैं",
+      "कभी खुशहाल,कभी उदास,कभी जीत तो कभी हार होगी,यह जिंदगी की सड़क है धीरे-धीरे पार होगी",
+      "अच्छे आदमी बनो, लेकिन इसे साबित करने में अपना समय बर्बाद न करो"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 5,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        0.7028,
+        0.9995,
+        0.8346,
+        0.7512,
+        0.9639
+      ]
+    }
+  },
+  {
+    "persona_id": "P_HI_KOO_PILOT_050",
+    "source_user_hash": "02785ea05588",
+    "language": "Hindi",
+    "archetype": "Critical / Conservative",
+    "profile_bio": "",
+    "commenting_habits": {
+      "summary": "often writes longer posts.",
+      "formality": "Colloquial",
+      "avg_unit_length": 293.2,
+      "unit": "characters",
+      "uses_emoji": false,
+      "emphatic_punctuation": false
+    },
+    "sample_historical_posts": [
+      "उठाकर पेन कागज पर आज सच्चाई लिखता हूं राहुल गांधी जी मायावती जी अखिलेश यादव जी इन झूठे नेताओं की अब झूठ बर्बाद तबाही लिखता हूं फिर आए जो श्री योगी आदित्यनाथ जी अपने उत्तर प्रदेश मे वासियों को शांति उन्नति के साथ रहेगा प्रदेश तरक्की पर यह माइंड कमाई लिखता हूं",
+      "मैं यहां सोच रहा हूं मुख्यमंत्री योगी आदित्यनाथ जी से पहले जितने लोग मुख्यमंत्री बने उन लोगों ने हमारे उत्तर प्रदेश की जनता को बेवकूफ बनाकर अपने लिए पर्सनल ऑटोमेटिक कार मर्सिडीज़ बीएमडब्ल्यू ऐसी लग्जरी कारों में घूम घूम कर इन लोगों का दिमाग खराब हो चुका है ऑटोमेटिक गाड़ी में बैठने के बाद इन लोगों को सब कुछ ऑटोमेटिक दिखता है इसीलिए इनका कहना है की बीजेपी के पास वोटिंग मशीन ऑटोमेटिक है",
+      "मैं सोच रहा हूं मेरे भाई बटवारा करके मुझे लॉकडाउन के समय मे बगैर रास्ते की जमीन में मेरा झोपड़ी नुमा घर बनवा कर बर्बाद कर दिया है एक रामविलास इंसान से मैंने रास्ता मांगा था कहां था जगह के बदले जगह लेकर मेरा रास्ता आने जाने का छोड़ दो उसने देने के बजाय हम पर एक मुकदमा हरिजन एक्ट मुकदमा कर दिया मेरी तरक्की को रोकने के लिए उस इंसान ने मेरी दो बेटी के साथ मुझे सुसाइड करने पर मजबूर कर रखा है",
+      "मैं यह सोच रहा हूं आपकी बहन मायावती जिंदाबाद थी आप के नेता मुलायम सिंह यादव जिंदाबाद से अखिलेश यादव जिंदाबाद से राहुल गांधी जिंदाबाद थे जब यह लोग जिंदाबाद थे हमें कोई एतराज नहीं था तो योगी जी क्यों जिंदाबाद नहीं है योगी जी जिंदाबाद हैं और रहेंगे हमेशा अब क्या लूट गे हमारे उत्तर प्रदेश में",
+      "उठाकर कलम कागज पर आज सच्चाई लिखता हूं श्री राहुल गांधी जी बहन श्री मायावती जी मुलायम सिंह जी श्री अखिलेश यादव जी इन झूठे नेताओं की झूठ बर्बाद तबाही लिखता हूं फिर उत्तर प्रदेश में अगर सीएम बनकर योगी आदित्यनाथ जी जाएगा प्रदेश तरक्की पर या माइंड कमाई लिखता हूं",
+      "मैं यहां सोच रहा हूं जब प्रदेश को लूट कर ले गए प्रदेश चलाने वाले उस टाइम क्या सोच रहे होंगे आजादी दिलाने वाले आएगी फिर बीजेपी उत्तर प्रदेश में क्या कर लेंगे नेता लोग शोर मचाने वाले"
+    ],
+    "sample_historical_comments": [
+      "उठाकर पेन कागज पर आज सच्चाई लिखता हूं राहुल गांधी जी मायावती जी अखिलेश यादव जी इन झूठे नेताओं की अब झूठ बर्बाद तबाही लिखता हूं फिर आए जो श्री योगी आदित्यनाथ जी अपने उत्तर प्रदेश मे वासियों को शांति उन्नति के साथ रहेगा प्रदेश तरक्की पर यह माइंड कमाई लिखता हूं",
+      "मैं यहां सोच रहा हूं मुख्यमंत्री योगी आदित्यनाथ जी से पहले जितने लोग मुख्यमंत्री बने उन लोगों ने हमारे उत्तर प्रदेश की जनता को बेवकूफ बनाकर अपने लिए पर्सनल ऑटोमेटिक कार मर्सिडीज़ बीएमडब्ल्यू ऐसी लग्जरी कारों में घूम घूम कर इन लोगों का दिमाग खराब हो चुका है ऑटोमेटिक गाड़ी में बैठने के बाद इन लोगों को सब कुछ ऑटोमेटिक दिखता है इसीलिए इनका कहना है की बीजेपी के पास वोटिंग मशीन ऑटोमेटिक है",
+      "मैं सोच रहा हूं मेरे भाई बटवारा करके मुझे लॉकडाउन के समय मे बगैर रास्ते की जमीन में मेरा झोपड़ी नुमा घर बनवा कर बर्बाद कर दिया है एक रामविलास इंसान से मैंने रास्ता मांगा था कहां था जगह के बदले जगह लेकर मेरा रास्ता आने जाने का छोड़ दो उसने देने के बजाय हम पर एक मुकदमा हरिजन एक्ट मुकदमा कर दिया मेरी तरक्की को रोकने के लिए उस इंसान ने मेरी दो बेटी के साथ मुझे सुसाइड करने पर मजबूर कर रखा है",
+      "मैं यह सोच रहा हूं आपकी बहन मायावती जिंदाबाद थी आप के नेता मुलायम सिंह यादव जिंदाबाद से अखिलेश यादव जिंदाबाद से राहुल गांधी जिंदाबाद थे जब यह लोग जिंदाबाद थे हमें कोई एतराज नहीं था तो योगी जी क्यों जिंदाबाद नहीं है योगी जी जिंदाबाद हैं और रहेंगे हमेशा अब क्या लूट गे हमारे उत्तर प्रदेश में",
+      "उठाकर कलम कागज पर आज सच्चाई लिखता हूं श्री राहुल गांधी जी बहन श्री मायावती जी मुलायम सिंह जी श्री अखिलेश यादव जी इन झूठे नेताओं की झूठ बर्बाद तबाही लिखता हूं फिर उत्तर प्रदेश में अगर सीएम बनकर योगी आदित्यनाथ जी जाएगा प्रदेश तरक्की पर या माइंड कमाई लिखता हूं",
+      "मैं यहां सोच रहा हूं जब प्रदेश को लूट कर ले गए प्रदेश चलाने वाले उस टाइम क्या सोच रहे होंगे आजादी दिलाने वाले आएगी फिर बीजेपी उत्तर प्रदेश में क्या कर लेंगे नेता लोग शोर मचाने वाले"
+    ],
+    "provenance": "Derived from the Koo Hindi-locale partition; language-filtered by Lingua 2.2.0 and creator ID hashed. Provisional pilot subset.",
+    "persona_note": "Language labels are automatic and provisional. The debate archetype is an assigned simulation lens, not an inferred belief or identity of the source author. Koo content is historical and the pool is not representative of Hindi users.",
+    "sampled_hindi_post_count": 6,
+    "language_filter": {
+      "method": "Lingua automatic language identification",
+      "model_version": "2.2.0",
+      "rule": "Retain only posts labeled Hindi; minimum 5 retained posts per persona",
+      "post_confidences": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

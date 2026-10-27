@@ -14,6 +14,8 @@ and run final inference.
 
 - [docs/dataset_statistics.md](docs/dataset_statistics.md): Multi-language statistics, split compositions, and label distributions for the raw HT Meme dataset (Chinese, English, Hindi).
 - [docs/some_dataset_statistics.md](docs/some_dataset_statistics.md): Benchmark statistics for SoMe, along with mining criteria, stylometrics, and archetype distributions for the 300 Chinese personas.
+- [docs/English_persona_pool_statistics.md](docs/English_persona_pool_statistics.md): PAN19 source and persona-pool statistics for English.
+- [docs/Hindi_persona_pool_statistics.md](docs/Hindi_persona_pool_statistics.md): Source, filtering, and provisional pool statistics for the Koo-derived Hindi personas.
 - [docs/persona_council_statistics.md](docs/persona_council_statistics.md): Pruned 8-member Chinese Persona Council selected for Stage 1 offline optimization.
 - [docs/dte_rcr_workflow.md](docs/dte_rcr_workflow.md): Theoretical alignment with Debate-Train-Evolve (DTE - EMNLP 2025) and complete RCR + GRPO training workflow.
 

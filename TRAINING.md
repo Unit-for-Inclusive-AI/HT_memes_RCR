@@ -30,6 +30,20 @@ python Code/meme_persona_pipeline.py \
   --output artifacts/dte_traces_hi.jsonl --limit 0
 ```
 
+For the Koo-derived Hindi persona pool, use the prepared five-image pilot runner:
+
+```bash
+bash scripts/run_hindi_gpt_pilot.sh
+```
+
+This uses `artifacts/persona_pool_hi_koo_provisional_300.json` and writes
+`artifacts/hindi_koo_persona_gpt_pilot_5_debate.jsonl`. It makes OpenAI API
+calls and uses only five Hindi training images. Review the resulting traces
+before expanding the run. The pool contains 300 balanced, pseudonymous Koo
+personas, but its language labels are automatic and have not been checked by
+a Hindi-speaking reviewer; see
+[`docs/Hindi_persona_pool_statistics.md`](docs/Hindi_persona_pool_statistics.md).
+
 The default backend uses the OpenAI API to create meme descriptions and RCR
 traces. Gold labels are stored after inference for training rewards and reporting;
 they are not included in prompts. A local model can instead be used with
