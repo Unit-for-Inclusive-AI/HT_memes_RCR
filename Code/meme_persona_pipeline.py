@@ -239,19 +239,24 @@ def prepare_images(zip_path: str, image_dir: str):
 
 def load_image_label_map(xlsx_path: str) -> dict[int, str]:
     df = pd.read_excel(xlsx_path)
-    required = {"id", "label"}
-    if not required.issubset(set(df.columns)):
-        raise ValueError(f"Excel must contain columns {sorted(required)}; found {list(df.columns)}")
+    columns = {str(column).strip().lower(): column for column in df.columns}
+    id_column = next((columns[name] for name in ("id", "image_id") if name in columns), None)
+    label_column = next((columns[name] for name in ("label", "class") if name in columns), None)
+    if id_column is None or label_column is None:
+        raise ValueError(
+            "Excel must contain an ID column ('id' or 'image_id') and a label column "
+            f"('label' or 'class'); found {list(df.columns)}"
+        )
     result = {}
     for _, row in df.iterrows():
-        if pd.isna(row["id"]) or pd.isna(row["label"]):
+        if pd.isna(row[id_column]) or pd.isna(row[label_column]):
             continue
-        label = str(row["label"]).strip()
+        label = str(row[label_column]).strip()
         # The English split uses noun forms while the debate schema uses adjective forms.
         label = {"Homophobia": "Homophobic", "Transphobia": "Transphobic"}.get(label, label)
         if label not in LABELS:
             raise ValueError(f"Unexpected label {label!r}. Expected one of {LABELS}")
-        result[int(row["id"])] = label
+        result[int(row[id_column])] = label
     return result
 
 

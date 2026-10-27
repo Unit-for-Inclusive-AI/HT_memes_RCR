@@ -1,37 +1,37 @@
 {
-  "n_evaluated": 798,
-  "accuracy": 0.7167919799498746,
+  "n_evaluated": 239,
+  "accuracy": 0.3514644351464435,
   "classification_report": {
     "Homophobic": {
-      "precision": 0.9611650485436893,
-      "recall": 0.5409836065573771,
-      "f1-score": 0.6923076923076923,
-      "support": 366.0
+      "precision": 1.0,
+      "recall": 0.1534090909090909,
+      "f1-score": 0.2660098522167488,
+      "support": 176.0
     },
     "Transphobic": {
-      "precision": 0.9819004524886877,
-      "recall": 0.791970802919708,
-      "f1-score": 0.8767676767676768,
-      "support": 274.0
+      "precision": 1.0,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.7272727272727273,
+      "support": 14.0
     },
     "Non_Anti_LGBT": {
-      "precision": 0.42318059299191374,
-      "recall": 0.9936708860759493,
-      "f1-score": 0.5935727788279773,
-      "support": 158.0
+      "precision": 0.24019607843137256,
+      "recall": 1.0,
+      "f1-score": 0.38735177865612647,
+      "support": 49.0
     },
-    "accuracy": 0.7167919799498746,
+    "accuracy": 0.3514644351464435,
     "macro avg": {
-      "precision": 0.788748698008097,
-      "recall": 0.7755417651843448,
-      "f1-score": 0.7208827159677821,
-      "support": 798.0
+      "precision": 0.7467320261437909,
+      "recall": 0.5749458874458875,
+      "f1-score": 0.46021145271520086,
+      "support": 239.0
     },
     "weighted avg": {
-      "precision": 0.8617664980471341,
-      "recall": 0.7167919799498746,
-      "f1-score": 0.7360945587390718,
-      "support": 798.0
+      "precision": 0.8442243005989007,
+      "recall": 0.3514644351464435,
+      "f1-score": 0.31790706831010945,
+      "support": 239.0
     }
   },
   "confusion_matrix_labels_order": [
@@ -41,19 +41,19 @@
   ],
   "confusion_matrix": [
     [
-      198,
-      3,
-      165
-    ],
-    [
-      8,
-      217,
-      49
+      27,
+      0,
+      149
     ],
     [
       0,
-      1,
-      157
+      8,
+      6
+    ],
+    [
+      0,
+      0,
+      49
     ]
   ],
   "note": "Metrics are preliminary if only a small --limit sample was processed."
