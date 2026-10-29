@@ -33,3 +33,54 @@ For an initial wiring pilot, add `--max-samples 32`; this runs debate and one tr
 Each `round_NN/` directory contains `debate/debate_traces.jsonl` and `training/`, including the candidate adapter, validation metrics, and training configuration. `evolution_summary.json` records each round's source and resulting adapter, validation macro-F1 change, promotion result, and stopping reason. The first round starts from the base model; later rounds start from the previously promoted adapter.
 
 To use a gold-label GRPO run instead, continue to call `scripts/train_grpo_vlm.py` directly with its default `--reward-target gold`. The evolution orchestrator intentionally sets `--reward-target consensus`.
+
+## Running the Chinese workflow on GCP from VS Code
+
+The Colab notebook's `google.colab.drive.mount`, `/content/drive/...` paths, and
+in-notebook source patch are Colab-specific. On a GCP VM, connect with VS Code
+Remote SSH, clone the repository, and place or mount the training data on the VM.
+The current `Code/meme_persona_pipeline.py` already has the `image_url` argument
+that the notebook's patch tries to add; do not run that patch cell. The notebook's
+`rm -rf /content/HT_memes_RCR` cleanup cell is also unnecessary on a VM.
+
+Install the project and training dependencies in a fresh virtual environment:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -e .
+python -m pip install -r requirements-training.txt
+python -m pip uninstall -y torchao
+```
+
+TorchAO is not used by this workflow. Removing a preinstalled incompatible
+TorchAO avoids the PEFT adapter initialization error seen in the Colab run. If
+the VM image provides a specially configured PyTorch/CUDA build, verify that
+`python -c 'import torch; print(torch.__version__, torch.cuda.is_available())'`
+still reports CUDA available after dependency installation.
+
+The repository includes `scripts/run_chinese_grpo_evolution_gcp.sh`. Set the
+data locations and a fresh output path, then launch it from the repository:
+
+```bash
+export DATA_ROOT="/mnt/data/HT_Meme_dataset"
+export IMAGES="${DATA_ROOT}/Chinese/Train/Train_images"
+export OUTPUT_DIR="/mnt/results/chinese_grpo_evolution_run_01"
+bash scripts/run_chinese_grpo_evolution_gcp.sh
+```
+
+The script checks for CUDA and the required Chinese training inputs before
+starting. Defaults for the persona pool and seed traces point to the repository
+artifacts. Set `PERSONA_POOL` or `INITIAL_TRACES` if they are stored elsewhere.
+Set `MAX_SAMPLES=32` for a small wiring pilot; that pilot is not eligible for
+adapter promotion. Do not point `IMAGES` or `DATA_ROOT` at the test split.
+
+An NVIDIA L4 with 24 GB VRAM is a reasonable first GCP GPU for this 3B Qwen
+model and the configured single-example, LoRA, mixed-precision, gradient-
+checkpointed training. The code does not require a larger GPU up front. A full
+three-round run can still be slow, especially because rounds after round 0
+generate new local debates. Measure a pilot and upgrade only if it runs out of
+memory or the measured throughput is too low. Keep enough persistent disk for
+the model cache, generated traces, checkpoints, and adapters, and stop the VM
+when work is finished.
